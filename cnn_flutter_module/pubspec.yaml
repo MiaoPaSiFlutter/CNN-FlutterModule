@@ -27,8 +27,76 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  shared_preferences: ^2.0.13
-  
+  # Awesome 图标库
+  # https://github.com/fluttercommunity/font_awesome_flutter
+  font_awesome_flutter: ^9.1.0
+  # 权限判断
+#  permission_handler: ^8.1.6
+  # 图片缓存及加载
+  # extended_image: ^1.2.0
+
+  # 图片选择器
+  image_picker: ^0.8.4+2
+
+  # 网络
+  # 网络判断
+  connectivity: ^3.0.6
+  dio: ^4.0.0
+  dio_log: ^2.0.1
+  dio_cookie_manager: ^2.0.0
+
+  # 加密 https://pub.dev/packages/encrypt
+  encrypt: ^5.0.1
+  # 吐司提示
+  fluttertoast: ^8.0.8
+ 
+  # 广播机制，用以跨页面事件通知，用event_bus提供的事件总线功能来实现一些状态的更新
+  # https://pub.flutter-io.cn/packages/event_bus#-example-tab-
+  event_bus: ^2.0.0
+  # 状态管理
+  # https://pub.flutter-io.cn/packages/provider#-example-tab-
+  # provider: ^6.0.1
+  # GetX 是 Flutter 上的一个轻量且强大的解决方案：高性能的状态管理、智能的依赖注入和便捷的路由管理。
+  # https://github.com/jonataslaw/getx/blob/master/README.zh-cn.md#%E5%85%B3%E4%BA%8Eget
+  # https://pub.dev/packages/get
+#  get: ^4.3.8
+
+  lottie: ^1.2.1
+
+  waterfall_flow: ^3.0.1
+  # 瀑布流布局
+  flutter_staggered_grid_view: "^0.4.0"
+  # flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双端适配.
+  # https://github.com/serenader2014/flutter_carousel_slider
+  carousel_slider: ^4.0.0
+  # 获取控件位置尺寸
+  # 利用RectGetter组件获取控件位置尺寸实现的几个高级效果和功能
+  # https://juejin.im/post/5b6375f8e51d45190f4af4c2
+  rect_getter: ^1.0.0
+  # 处理键盘事件 https://github.com/diegoveloper/flutter_keyboard_actions
+  keyboard_actions: ^3.4.4
+  # #本地库引用 注意缩进格式
+  # flutter_icu_common:
+  #   path: ../../flutter_icu_common/flutter_icu_common/
+  mpsf_framework:
+    git:
+      url: https://github.com/ZFlutter-Pub/mpsf-framework.git #git地址
+      ref: main #分支名
+
+  # 路由跳转框架
+  fluro: ^2.0.3
+
+  flutter_easyrefresh: ^2.2.1
+
+  webview_flutter: ^2.1.1
+  flutter_inappwebview: ^5.3.2
+
+  url_launcher: ^6.0.12
+
+  flutter_animated_dialog: ^2.0.1
+
+  flutter_widget_from_html_core: ^0.8.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

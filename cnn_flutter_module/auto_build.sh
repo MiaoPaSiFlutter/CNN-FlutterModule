@@ -45,13 +45,10 @@ git add .
 git commit -m 'update lib'
 git push
  
-customEcho "\n7. 进入该文件夹"
-cd $ios_project_name/Example/
-ls
-pod install
-# customEcho "\n7. 删除该文件夹"
-# cd ..
-# rm -rf $ios_project_name
+
+customEcho "\n7. 删除该文件夹"
+cd ..
+rm -rf $ios_project_name
  
  
 customEcho "\nAll Done."
