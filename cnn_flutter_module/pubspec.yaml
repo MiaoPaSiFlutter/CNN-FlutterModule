@@ -36,17 +36,17 @@ dependencies:
   # extended_image: ^1.2.0
 
   # 图片选择器
-  image_picker: ^0.8.4+2
+  # image_picker: ^0.8.4+2
 
   # 网络
   # 网络判断
-  connectivity: ^3.0.6
+  # connectivity: ^3.0.6
   dio: ^4.0.0
   dio_log: ^2.0.1
-  dio_cookie_manager: ^2.0.0
+  # dio_cookie_manager: ^2.0.0
 
   # 加密 https://pub.dev/packages/encrypt
-  encrypt: ^5.0.1
+  # encrypt: ^5.0.1
   # 吐司提示
   fluttertoast: ^8.0.8
  
@@ -61,7 +61,7 @@ dependencies:
   # https://pub.dev/packages/get
 #  get: ^4.3.8
 
-  lottie: ^1.2.1
+  # lottie: ^1.2.1
 
   waterfall_flow: ^3.0.1
   # 瀑布流布局
@@ -72,7 +72,7 @@ dependencies:
   # 获取控件位置尺寸
   # 利用RectGetter组件获取控件位置尺寸实现的几个高级效果和功能
   # https://juejin.im/post/5b6375f8e51d45190f4af4c2
-  rect_getter: ^1.0.0
+  # rect_getter: ^1.0.0
   # 处理键盘事件 https://github.com/diegoveloper/flutter_keyboard_actions
   keyboard_actions: ^3.4.4
   # #本地库引用 注意缩进格式
@@ -86,15 +86,16 @@ dependencies:
   # 路由跳转框架
   fluro: ^2.0.3
 
+  # 下拉刷新&上拉加载更多
   flutter_easyrefresh: ^2.2.1
 
-  webview_flutter: ^2.1.1
+  # webview_flutter: ^2.1.1
   flutter_inappwebview: ^5.3.2
 
   url_launcher: ^6.0.12
 
   flutter_animated_dialog: ^2.0.1
-
+  # html转widget
   flutter_widget_from_html_core: ^0.8.0
 
 dev_dependencies:
