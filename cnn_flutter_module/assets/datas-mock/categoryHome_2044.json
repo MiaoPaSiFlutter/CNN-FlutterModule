@@ -1,0 +1,1261 @@
+{
+  "floorList": [{
+    "floorId": 295,
+    "floorName": "类目楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"295\"}",
+    "content": [{
+      "id": 637,
+      "materialId": "1913",
+      "name": "早教启智",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/100376/11/10803/25442/5e1fb530E4a6631fa/1ac29fadeda344b2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "早教玩具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1913\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1924",
+      "name": "积木",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/142739/7/528/18410/5ee308d3E1464ecd6/cda48d5103b1900a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "积木"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1924\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1932",
+      "name": "毛绒玩偶",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/123258/37/4616/28945/5ee308a2Ea0a91e52/0a3659dd8d7eb5eb.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "毛绒玩具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1932\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "2458",
+      "name": "手办",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/178156/1/13087/28884/60ebdb36E42a2e7c0/dd85148b14ac55c5.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "手办"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"2458\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "2457",
+      "name": "MIDI键盘",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/84744/17/11070/14902/5e26cbd4E76b2194d/83d23299a8b0f672.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "MIDI键盘"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"2457\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "2008",
+      "name": "BJD",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/90707/2/10701/18848/5e1ffd34Ea883c569/bc727295d69cdd13.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "BJD"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"2008\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1927",
+      "name": "立体拼插",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/174287/1/19515/61123/60ebdb1eE5270e604/f24726d419dad1db.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "积木桌+立体拼插"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1927\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1926",
+      "name": "磁力片/棒",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/107827/12/4438/28483/5e1fb8f0E71a0f8e0/bb062c46193c9f96.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "磁力片"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1926\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1917",
+      "name": "卡通周边",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/88724/30/10738/23971/5e1fb641Ef7d036ad/472cace396b3359e.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "卡通周边"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1917\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "2003",
+      "name": "吉他",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/84926/26/10967/12547/5e21b60eE72552bbf/eff364c64d2197df.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "吉他"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"2003\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1937",
+      "name": "换装娃娃",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/94554/12/10759/18444/5e1fc108E8a5dc090/cfbffa10abf57f4f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "娃娃玩具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1937\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1946",
+      "name": "电子琴",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/93691/12/10731/15623/5e21b284E856be13a/fbc8b85c8d3bd535.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "电子琴"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1946\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "1914",
+      "name": "盲盒",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/143686/18/492/15472/5ee30858E4fbabb69/a54b88007095ed76.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "盲盒"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"1914\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 637,
+      "materialId": "2005",
+      "name": "尤克里里",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/42915/15/15888/26475/60ebdb00Eb1c6ffac/4704819d80b3316c.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "尤克里里"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#b259ed02e3f666562bbed4b8bb3105b7e6f0acfc\",\"materialId\":\"2005\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "1913,1924,1932,2458,2457,2008,1927,1926,1917,2003,1937,1946,1914,2005",
+    "catePoolId": 92,
+    "cid": "612",
+    "pcid": "2044"
+  }, {
+    "floorId": 488,
+    "floorName": "一切二（正式版）",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0911",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"488\"}",
+    "content": [{
+      "id": 6991,
+      "materialId": "6991",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2bwQ9XuiS8d12qzYsekJJPTfr4TU/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"6991\",\"moduleid\":\"6991\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/193051/21/20125/97318/612d9148E8fd3aaf2/3cf407eeb25088e0.jpg!q70.jpg.dpg.webp"
+    }, {
+      "id": 6992,
+      "materialId": "6992",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://prodev.m.jd.com/mall/active/3aoHBDrwWitNqywu7EFGK2djgnmV/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"6992\",\"moduleid\":\"6992\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/197875/18/10180/238370/61505e82Efdde8d58/4d62fa662c19d66d.png!q70.jpg"
+    }]
+  }, {
+    "floorId": 296,
+    "floorName": "限时抢购",
+    "showHead": 3,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/96180/16/11002/3925/5e242cb5E48a10c3b/033fda1a25688a66.png!q70.jpg",
+    "rightImg": "",
+    "rightText": "更多",
+    "rightJump": {
+      "des": "miaosha",
+      "params": {
+        "categorys": "6233%2C%2C",
+        "topSkus": "10033863932421,10033885633478,10032232122199"
+      },
+      "srv": "",
+      "srvJson": "{\"materialId\":\"\"}"
+    },
+    "style": "0902",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0902\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"296\"}",
+    "content": [{
+      "id": 638,
+      "materialId": "10033863932421",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/107703/33/17265/205795/614752ccEd60aadda/d09f663f239fddd5.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10033863932421"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10033863932421\"}"
+      },
+      "jdPrice": "69.00",
+      "sprice": "66.00",
+      "saleRatio": "99",
+      "promotionTag": "74天最低价"
+    }, {
+      "id": 638,
+      "materialId": "10033885633478",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/182755/12/16505/200821/61029774E4fac5bb4/b6318b2ba4133e36.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10033885633478"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10033885633478\"}"
+      },
+      "jdPrice": "69.00",
+      "sprice": "59.00",
+      "saleRatio": "98",
+      "promotionTag": "74天最低价"
+    }, {
+      "id": 638,
+      "materialId": "10032232122199",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/174386/26/13838/122099/60c03f0fEc9b9c671/37917df7d280abb8.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10032232122199"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10032232122199\"}"
+      },
+      "jdPrice": "249.00",
+      "sprice": "225.00",
+      "saleRatio": "98",
+      "promotionTag": "109天最低价"
+    }, {
+      "id": 638,
+      "materialId": "10023254586663",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/192392/29/17033/80920/610e35acEe92a7f44/82080b9a91127d1a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10023254586663"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10023254586663\"}"
+      },
+      "jdPrice": "39.90",
+      "sprice": "18.10",
+      "saleRatio": "27",
+      "promotionTag": "343天最低价"
+    }, {
+      "id": 638,
+      "materialId": "100023754110",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/194065/22/11712/122247/60e27a6bE6de15d7c/f8a6ad3c6c294d7f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100023754110"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"100023754110\"}"
+      },
+      "jdPrice": "238.00",
+      "sprice": "226.00",
+      "saleRatio": "17"
+    }, {
+      "id": 638,
+      "materialId": "72304448746",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/121779/35/8826/128220/5f2a7879E2eb95f20/7399040fec094c2c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "72304448746"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"72304448746\"}"
+      },
+      "jdPrice": "69.00",
+      "sprice": "64.17",
+      "saleRatio": "24",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 638,
+      "materialId": "10033576441421",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/179392/32/16603/129122/61029778E1b4b2605/99bc0fe038c21ba9.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10033576441421"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10033576441421\"}"
+      },
+      "jdPrice": "38.00",
+      "sprice": "29.00",
+      "saleRatio": "98",
+      "promotionTag": "79天最低价"
+    }, {
+      "id": 638,
+      "materialId": "10021934234576",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/137269/25/10514/127456/5f68104aEfde157a4/e3048e56a0e1e84b.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10021934234576"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"10021934234576\"}"
+      },
+      "jdPrice": "99.00",
+      "sprice": "89.00",
+      "saleRatio": "30",
+      "promotionTag": "87天最低价"
+    }, {
+      "id": 638,
+      "materialId": "67344600094",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/109294/31/14470/98852/5ea79ca6E70ee047c/6a02319b79902303.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "67344600094"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"67344600094\"}"
+      },
+      "jdPrice": "59.00",
+      "sprice": "52.00",
+      "saleRatio": "33",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 638,
+      "materialId": "100022607604",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/64064/33/17270/143910/6139c3f2Ee518155d/71c86f039736616a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100022607604"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"1#2#543c99c6562846f5618addb977b63c4032ea2a8d-100-621213#16153441\",\"materialId\":\"100022607604\"}"
+      },
+      "jdPrice": "65.00",
+      "sprice": "54.80",
+      "saleRatio": "15",
+      "promotionTag": "17天最低价"
+    }, {
+      "id": 638,
+      "name": "限时抢购",
+      "jump": {
+        "des": "miaosha",
+        "params": {
+          "categorys": "6233%2C%2C",
+          "topSkus": "10033863932421,10033885633478,10032232122199"
+        },
+        "srv": ""
+      },
+      "type": 1
+    }]
+  }, {
+    "floorId": 301,
+    "floorName": "品牌直降",
+    "showHead": 3,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/97807/10/10875/3755/5e245b63Eb04db5c3/29fdfd0fd6d96bf2.png!q70.jpg",
+    "rightImg": "",
+    "rightText": "更多",
+    "rightJump": {
+      "des": "brandSeckill",
+      "params": {
+        "source": 2,
+        "innerLink": "[{\"innerExtId\":\"222707\"},{\"innerExtId\":\"223007\"},{\"innerExtId\":\"222423\"}]",
+        "categoryId": "6233,,"
+      },
+      "srv": "",
+      "srvJson": "{\"materialId\":\"\"}"
+    },
+    "style": "0907",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0907\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"301\"}",
+    "content": [{
+      "id": 645,
+      "materialId": "222707",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/206088/33/7515/58135/614aefa5E6c847947/2ce89e7005d08ad6.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "222707",
+          "skuIds": "2456491,100009668371,100010051005"
+        },
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222707\"}"
+      },
+      "remainTime": 33650,
+      "bseckillTitle": "部分低至7折",
+      "bseckillSubTitle": "玩具大牌特卖",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/210397/7/1631/37613/614aef62E305eb81e/774bf6a161a931ee.png!q70.jpg",
+      "skuList": [{
+        "materialId": "2456491",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t2761/190/353444612/101038/bf5365eb/570e5742Ne4e94449.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "2456491"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222707\",\"sku\":2456491,\"categoryId\":\"6246\"}"
+        },
+        "jdPrice": "118",
+        "sprice": "108"
+      }, {
+        "materialId": "100009668371",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/149955/18/16697/114157/5fc5f70dE6c0e34f0/d40e9c6f5b1388e0.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100009668371"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222707\",\"sku\":100009668371,\"categoryId\":\"6246\"}"
+        },
+        "jdPrice": "128",
+        "sprice": "123"
+      }, {
+        "materialId": "100010051005",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/153410/15/12367/169232/5feac2c0E7c889f9b/92b17170bd25633b.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100010051005"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222707\",\"sku\":100010051005,\"categoryId\":\"6249\"}"
+        },
+        "jdPrice": "249",
+        "sprice": "239"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "223007",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/209979/11/1729/28931/614c1d6eE27cde59c/fb79d90171f83ab9.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "223007",
+          "skuIds": "100022280082,100024847472,100022750878"
+        },
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223007\"}"
+      },
+      "remainTime": 120050,
+      "bseckillTitle": "部分到手9折起",
+      "bseckillSubTitle": "乐器大牌闪购",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/207584/14/1775/29138/614c1d6cE9b055abd/22a565ad4538fc6f.png!q70.jpg",
+      "skuList": [{
+        "materialId": "100022280082",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/191214/29/4272/48441/60a655f0E52245275/8673f3485e41df61.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100022280082"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223007\",\"sku\":100022280082,\"categoryId\":\"18690\"}"
+        },
+        "jdPrice": "2899",
+        "sprice": "2599"
+      }, {
+        "materialId": "100024847472",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/190260/25/16363/93673/6108ed84E02728dff/5f3520f58c00b263.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100024847472"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223007\",\"sku\":100024847472,\"categoryId\":\"18690\"}"
+        },
+        "jdPrice": "9999",
+        "sprice": "8999"
+      }, {
+        "materialId": "100022750878",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/208259/26/1986/121836/614d84b7E38cc7b77/c18770e9437a4369.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100022750878"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223007\",\"sku\":100022750878,\"categoryId\":\"18690\"}"
+        },
+        "jdPrice": "2999",
+        "sprice": "2799"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "222423",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/78019/28/16495/47590/61415b6fE89ae422f/65b2e6d9c1119331.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "222423",
+          "skuIds": "10031326212983,10029454677392,70018261332"
+        },
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222423\"}"
+      },
+      "remainTime": 120050,
+      "bseckillTitle": "3件8.5折 豪礼相送",
+      "bseckillSubTitle": "IP小站盲盒专场",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/205654/15/6608/16663/61415b66E7c76dd9d/5ea81e21996d0083.png!q70.jpg",
+      "skuList": [{
+        "materialId": "10031326212983",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/196081/19/4452/223255/60a99598Ee4e385ce/eddb33c275e91769.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "10031326212983"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222423\",\"sku\":10031326212983,\"categoryId\":\"21638\"}"
+        },
+        "jdPrice": "69",
+        "sprice": "64"
+      }, {
+        "materialId": "10029454677392",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/157295/16/19997/380169/607a7e36E3e3ca196/6a010b741e156006.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "10029454677392"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222423\",\"sku\":10029454677392,\"categoryId\":\"21638\"}"
+        },
+        "jdPrice": "69",
+        "sprice": "64"
+      }, {
+        "materialId": "70018261332",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/151278/3/11002/551300/5fdc2902E8a736c38/d0687a6855f68bf6.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "70018261332"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222423\",\"sku\":70018261332,\"categoryId\":\"21638\"}"
+        },
+        "jdPrice": "69",
+        "sprice": "64"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "223151",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/110676/26/15299/28931/614d8dcfE464a2974/d2acc90f8b74841a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "223151",
+          "skuIds": "8208746,3710198,100012868094"
+        },
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223151\"}"
+      },
+      "remainTime": 206450,
+      "bseckillTitle": "部分到手9折起",
+      "bseckillSubTitle": "乐器大牌闪购",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/209246/30/1923/29138/614d8dccEf94654e5/890157e3e25524ee.png!q70.jpg",
+      "skuList": [{
+        "materialId": "8208746",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/160889/2/8618/143125/603c8deaEca62e5f9/8005cd80dad00c31.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "8208746"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223151\",\"sku\":8208746,\"categoryId\":\"18687\"}"
+        },
+        "jdPrice": "327",
+        "sprice": "298"
+      }, {
+        "materialId": "3710198",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/149359/4/3141/151628/5f1132b7Ed3e35c17/92e14bdeee91948d.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "3710198"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223151\",\"sku\":3710198,\"categoryId\":\"18687\"}"
+        },
+        "jdPrice": "252",
+        "sprice": "244"
+      }, {
+        "materialId": "100012868094",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/110485/29/13539/305866/5ea2449aE618086ed/972ca26f1d13f8cc.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "100012868094"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"223151\",\"sku\":100012868094,\"categoryId\":\"18689\"}"
+        },
+        "jdPrice": "165",
+        "sprice": "155"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "222886",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/198296/23/9055/144855/6145a115E99eba4c7/cb9ce877d1d11108.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "222886",
+          "skuIds": "47305262623,64207302542,62800696910"
+        },
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222886\"}"
+      },
+      "remainTime": 206450,
+      "bseckillTitle": "玩具盛典低至五折起",
+      "bseckillSubTitle": "可优比玩具专场",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/201553/28/7391/5217/6145a119E00406c5f/b42a780dfe3dd72b.png!q70.jpg",
+      "skuList": [{
+        "materialId": "47305262623",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/164824/17/23698/274976/6150b54cEf9163ae6/37e8ea1d401c0925.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "47305262623"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222886\",\"sku\":47305262623,\"categoryId\":\"21863\"}"
+        },
+        "jdPrice": "536",
+        "sprice": "358"
+      }, {
+        "materialId": "64207302542",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/211214/8/2165/229876/614f482aEbeaccc88/a5fd6c142452e943.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "64207302542"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222886\",\"sku\":64207302542,\"categoryId\":\"21863\"}"
+        },
+        "jdPrice": "1599",
+        "sprice": "786"
+      }, {
+        "materialId": "62800696910",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/197252/13/9932/272478/614f482aE0f26edd1/1b8c5f18ee953887.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "62800696910"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"222886\",\"sku\":62800696910,\"categoryId\":\"21863\"}"
+        },
+        "jdPrice": "2388",
+        "sprice": "888"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "221469",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/47406/17/16755/281694/6131bca6E8bb9da53/4a61a19391b742fb.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "221469",
+          "skuIds": "10035084039649,1041607805,57918902363"
+        },
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221469\"}"
+      },
+      "remainTime": 33650,
+      "bseckillTitle": "爆款直降",
+      "bseckillSubTitle": "大牌玩具狂欢购",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/196962/38/6306/21827/6131bc9fEd333a705/44cf1585fa9f037d.png!q70.jpg",
+      "skuList": [{
+        "materialId": "10035084039649",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/209822/21/781/197519/6142fff0E9e6baeaa/2bcb6f1a71c5dafc.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "10035084039649"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221469\",\"sku\":10035084039649,\"categoryId\":\"6261\"}"
+        },
+        "jdPrice": "108",
+        "sprice": "58"
+      }, {
+        "materialId": "1041607805",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t14902/110/539453877/474616/d81297bb/5a30edc3Nc23644eb.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "1041607805"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221469\",\"sku\":1041607805,\"categoryId\":\"6283\"}"
+        },
+        "jdPrice": "118",
+        "sprice": "58"
+      }, {
+        "materialId": "57918902363",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/68709/39/11510/163296/5d8f228eE3570b837/12550d5d68175b2f.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "57918902363"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221469\",\"sku\":57918902363,\"categoryId\":\"6245\"}"
+        },
+        "jdPrice": "149",
+        "sprice": "63"
+      }]
+    }, {
+      "id": 645,
+      "materialId": "221670",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/171210/38/22892/173792/613f1d8bE9189186d/27dac8a858a0387c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "brandinner",
+        "params": {
+          "type": "0",
+          "brandType": "1",
+          "brandId": "221670",
+          "skuIds": "10034280313695,54827907788,10023250216346"
+        },
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221670\"}"
+      },
+      "remainTime": 206450,
+      "bseckillTitle": "每满300减30",
+      "bseckillSubTitle": "活石玩具专场",
+      "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/82917/35/17098/22866/613f1d88Ee0e12f95/16cdb68d973fa447.png!q70.jpg",
+      "skuList": [{
+        "materialId": "10034280313695",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/198972/14/474/141679/61027c99E2a65928a/521aa5b29baa39c7.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "10034280313695"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"0\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221670\",\"sku\":10034280313695,\"categoryId\":\"6245\"}"
+        },
+        "jdPrice": "168",
+        "sprice": "108"
+      }, {
+        "materialId": "54827907788",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/110148/11/16743/112918/614558b5E6e4d6bd4/4d6552c4531a4448.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "54827907788"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"1\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221670\",\"sku\":54827907788,\"categoryId\":\"6245\"}"
+        },
+        "jdPrice": "368",
+        "sprice": "226"
+      }, {
+        "materialId": "10023250216346",
+        "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/127839/9/15332/120138/5f8ceca4E0ec0b78a/4a392ed1e388e285.jpg!q70.jpg.dpg.webp",
+        "jump": {
+          "des": "productDetail",
+          "params": {
+            "skuId": "10023250216346"
+          },
+          "srv": "",
+          "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"2\",\"biinfo\":\"1#22803e0239e2258b40cad12519486bdd60a8bc84-100-621315#16153441\",\"materialId\":\"221670\",\"sku\":10023250216346,\"categoryId\":\"6245\"}"
+        },
+        "jdPrice": "168",
+        "sprice": "108"
+      }]
+    }]
+  }, {
+    "floorId": 300,
+    "floorName": "品牌精选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/89110/10/10952/4595/5e242fecEdbf024ad/109fb284b22ca216.png!q70.jpg",
+    "rightText": "",
+    "style": "0903",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0903\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"300\"}",
+    "content": [{
+      "id": 640,
+      "materialId": "137218",
+      "name": "海伦",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1408/142/984205491/46655/87365935/55b5bf91N52682675.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "海伦"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"137218\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "92162",
+      "name": "NICI",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t2734/72/840565237/21954/3ebe1bb1/57286cbaN0a57de8c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "NICI"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"92162\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "151046",
+      "name": "宏登",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/93492/29/2529/2830/5dd234b4Ec688087c/23255ab69e7da52f.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "宏登"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"151046\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "18951",
+      "name": "雅马哈",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/134328/2/1882/2386/5edef262E28add978/d66b73a0b8a00081.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "雅马哈"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"18951\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "1031",
+      "name": "hape",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t4078/349/2072648279/17075/15f771/58a15704Nbbafc6cf.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "hape"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"1031\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "102920",
+      "name": "仙声",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/71170/34/16619/5154/5ddf2743E2a063eb2/7a86f10b002130c2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "仙声"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"102920\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "133129",
+      "name": "趣威文化",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t27127/208/1346013554/2412/7cf54bd1/5bc6f7d9N8e184b62.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "趣威文化"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"133129\"}"
+      }
+    }, {
+      "id": 640,
+      "materialId": "8720",
+      "name": "绘儿乐",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t3175/11/6324259043/4891/d11bb/58a29c90Ncbcfd581.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "6233"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "绘儿乐"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#5c90508b738415cf409fd0082f0b5513a9398de5-100-621309#\",\"materialId\":\"8720\"}"
+      }
+    }],
+    "showIconName": 1
+  }, {
+    "floorId": 299,
+    "floorName": "京挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/94160/2/10988/14395/5e242e7eEa6051f9f/b03ce4857a04ee3e.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"612\",\"styleid\":\"0906\",\"floorLoc\":\"5\",\"poolid\":\"41\",\"pid\":\"93\",\"classfynum\":\"13\",\"floorIdDetail\":\"299\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "93"
+}

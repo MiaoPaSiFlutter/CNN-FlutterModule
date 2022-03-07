@@ -1,0 +1,1833 @@
+{
+	"code": 0,
+	"floors": [{
+		"cf": {
+			"spl": "empty",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"topNavigationBar": {
+				"functionId": "topNavigationBar",
+				"headImg": "https://storage.360buyimg.com/i.imageUpload/ced2b2bbcac7d1b0b1a6caf331353733313939323936303536_big.jpg",
+				"clickMta": {
+					"pagerParam": "",
+					"eventId": "MyJD_TopAccountset",
+					"pageLevel": "",
+					"pageId": "MyJD_Main",
+					"pageParam": "0"
+				},
+				"settingInfo": {
+					"buttonIcon": "https://img30.360buyimg.com/jdmonitor/jfs/t1/156029/7/8818/586/601a50efEc30cd7cc/a3cc900bd7cf1723.png",
+					"buttonType": "A",
+					"showRedDot": 0,
+					"title": "设置",
+					"updateRedDotTime": 1554872400000,
+					"settingId": "shezhi"
+				},
+				"contentColor": "",
+				"jumpInfo": {
+					"jumpType": 2,
+					"needLogin": 1,
+					"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMySpace\",\"appname\":\"JDReactMySpace\",\"transparentenable\":true,\"ishidden\":true}"
+				}
+			},
+			"showCardFloor": ["pluscard", "shaidanCard", "travelVcard", "wendadongtai", "familyVcard", "logisticVcard", "AppleService", "accompanyVcard", "jiadianVcard", "appletVcard", "couponVcard", "jinrongfuwu", "healthcard", "vertical_fengkuangJoy"],
+			"floatLayer": {
+				"closeMta": {
+					"eventId": "MyJD_ADFloatClose",
+					"eventParam": "1_京喜红包_8",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"couponText": "京喜红包",
+				"closeImage": "https://img30.360buyimg.com/mobilecms/jfs/t1/134213/3/7406/833/5f3deda6E1a981100/d5574cc69a27065b.png",
+				"title": {
+					"value": "JX"
+				},
+				"expoMta": {
+					"eventId": "MyJD_ADFloatExpo",
+					"eventParam": "1_京喜红包_8",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"floatType": 2,
+				"wenan": "1_京喜红包_",
+				"functionId": "floatJX",
+				"safeImage": "https://img30.360buyimg.com/mobilecms/jfs/t1/126879/33/10481/7187/5f436fc0E51eecd94/89b51e113e25bb01.png",
+				"clickMta": {
+					"eventId": "MyJD_ADFloat",
+					"eventParam": "1_京喜红包_8",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"couponPrice": "8",
+				"functionKey": "jx",
+				"couponUnit": "￥",
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 1,
+					"jumpUrl": "https://wqs.jd.com/channel/money/customer.html?channel=pingou_jdpay3&PTAG=138830.1.21"
+				}
+			},
+			"supportFloors": ["pluscard", "shaidanCard", "wendadongtai", "jinrongfuwu", "healthcard", "campusVcard", "sinkVcard", "accompanyVcard", "couponVcard", "jiadianVcard", "verticalLogistic", "familyVcard", "appletVcard"],
+			"friendshipsEntry": {
+				"expoMta": {
+					"eventId": "MyJD_FriendsExpo",
+					"eventParam": "",
+					"pageId": "MyJD_Main"
+				},
+				"showBubbleType": 1,
+				"redDotType": 0,
+				"clickMta": {
+					"eventId": "MyJD_Friends",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"iconUrl": "https://img12.360buyimg.com/imagetools/jfs/t1/112973/19/5622/1750/5eb5490bE986a8915/ddf02d43305f5169.png",
+				"updateRedDotTime": 0,
+				"bubbleImg": "https://img13.360buyimg.com/imagetools/jfs/t1/133316/16/525/4019/5ece4d53E9dbd0abf/e20188907a49b6dd.png",
+				"bubbleTimestamp": 1592384697000,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDFriendModule/showFriendList"
+				}
+			},
+			"closeReminder": {
+				"cardSubTitle": "您可前往“我的京东-账户设置-我的定制”重新开启此卡片~",
+				"tempCardTitle": "有新内容再为您推荐",
+				"cardTitle": "确定不再出现？"
+			}
+		},
+		"sortId": 0,
+		"mId": "basefloorinfo",
+		"refId": "basefloorinfo",
+		"bId": "eCustom_flo_341"
+	}, {
+		"cf": {
+			"spl": "empty",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"newPlusBlackCard": {
+				"expoMta": {
+					"eventId": "MyJD_VIPlusTabExpo",
+					"eventParam": "203-none#购物返10倍京豆-0-0601465262-0-none-0_203-PLUS会员店#免费领京豆-0-9001549002-5-none-0_203-吃货福利月#大牌天天5折-0-9501564690-4-none-0",
+					"pageId": "MyJD_Main",
+					"pageParam": "none",
+					"jsonParam": "[{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"position\":\"left\",\"materialid\":\"none\"},{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"position\":\"mid\",\"materialid\":\"none\"},{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"position\":\"right\",\"materialid\":\"none\"}]"
+				},
+				"functionId": "newPlusBlackCard",
+				"bgImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/189095/9/15537/19076/6101359fE04e925a5/ef32ffc3ae2f8c58.png",
+				"leftInfo": {
+					"bizContentType": 1,
+					"clickMta": {
+						"eventId": "MyJD_VIPlusTab1",
+						"eventParam": "203_none#购物返10倍京豆_0_0601465262_0_none_0",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"pageParam": "none",
+						"jsonParam": "{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"materialid\":\"none\"}"
+					},
+					"imageUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/190276/38/15246/11924/6100cff4Ef352d85f/e0935ce63bc5e118.png",
+					"subtitle": {
+						"color": "#CC8729",
+						"value": "购物返10倍京豆"
+					},
+					"bizArrow": "https://img30.360buyimg.com/jdmonitor/jfs/t1/196871/36/280/257/6101359fE8ffd048e/5f78bde00a31e583.png",
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://plus.m.jd.com/index?detainer=1398XHSIWsjshwe12"
+					}
+				},
+				"midInfo": {
+					"bizContentType": 2,
+					"clickMta": {
+						"eventId": "MyJD_VIPlusTab2",
+						"eventParam": "203_PLUS会员店#免费领京豆_0_9001549002_5_none_0",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"pageParam": "none",
+						"jsonParam": "{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"materialid\":\"none\"}"
+					},
+					"subtitle": {
+						"color": "#CC8729",
+						"value": "免费领京豆"
+					},
+					"title": {
+						"color": "#874F00",
+						"value": "PLUS会员店"
+					},
+					"bizArrow": "https://img30.360buyimg.com/jdmonitor/jfs/t1/196871/36/280/257/6101359fE8ffd048e/5f78bde00a31e583.png",
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://plus.m.jd.com/shop/index?SourceCode=3"
+					}
+				},
+				"rightInfo": {
+					"bizContentType": 2,
+					"clickMta": {
+						"eventId": "MyJD_VIPlusTab3",
+						"eventParam": "203_吃货福利月#大牌天天5折_0_9501564690_4_none_0",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"pageParam": "none",
+						"jsonParam": "{\"abtestid\":\"none\",\"sceneid\":\"none\",\"shopid\":\"none\",\"materialid\":\"none\"}"
+					},
+					"subtitle": {
+						"color": "#CC8729",
+						"value": "大牌天天5折"
+					},
+					"title": {
+						"color": "#874F00",
+						"value": "吃货福利月"
+					},
+					"bizArrow": "https://img30.360buyimg.com/jdmonitor/jfs/t1/196871/36/280/257/6101359fE8ffd048e/5f78bde00a31e583.png",
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://plus.m.jd.com/liferight/index?channel=heika"
+					}
+				}
+			},
+			"userLevelInfo": {
+				"type": 2,
+				"userLevelClass": "金牌",
+				"levelImg": "https://img30.360buyimg.com/mobilecms/jfs/t1/88501/25/15857/1804/5e7822e1E42132d7d/ad846a97b538a34e.png"
+			},
+			"userInfoSns": {
+				"imgUrl": "https://storage.360buyimg.com/i.imageUpload/ced2b2bbcac7d1b0b1a6caf331353733313939323936303536_big.jpg",
+				"registerImgUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/182020/18/6153/28861/60af64adE913f854e/575ea240717c1cdd.png",
+				"clickMta": {
+					"pagerParam": "",
+					"eventId": "MyJD_TopAccountset",
+					"pageLevel": "",
+					"pageId": "MyJD_Main",
+					"pageParam": "1"
+				},
+				"faceLoginImg": "https://m.360buyimg.com/mobilecms/jfs/t16384/38/216605903/10973/1dad1358/5a2e2656N0ef86340.png",
+				"title": "我不是寻宝鼠",
+				"jumpInfo": {
+					"jumpType": 2,
+					"needLogin": 1,
+					"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMySpace\",\"appname\":\"JDReactMySpace\",\"transparentenable\":true,\"ishidden\":true}"
+				}
+			},
+			"textColorNode": {
+				"normal": "#ffffff",
+				"light": "#ffffff",
+				"dark": "#262626"
+			},
+			"style": 1,
+			"userIdentity": 0,
+			"userType": 1,
+			"jingxiangCredit": [{
+				"expoMta": {
+					"eventId": "",
+					"eventParam": "",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "huiyuandengji",
+				"encStr": "nTqenbnFVwcVdoOYObO8qI8kpsCrJ3tXVkartaztt0I=",
+				"clickMta": {
+					"eventId": "MyJD_Privilege",
+					"eventParam": 62,
+					"pageLevel": "2",
+					"pageId": "MyJD_Main"
+				},
+				"text": "京享值",
+				"enc": 2,
+				"type": 1,
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 0,
+					"jumpUrl": "https://huiyuan.m.jd.com?jdreactkey=JDReactVip&jdreactapp=JDReactVip"
+				}
+			}, {
+				"expoMta": {
+					"eventId": "MyJD_WhiteCreditExpo",
+					"eventParam": "",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "xiaobaixinyong",
+				"encStr": "nTqenbnFVwcgbz0iRVnZFwKZ2exG0nZDM1KBBAZnem4=",
+				"clickMta": {
+					"eventId": "MyJD_WhiteCredit",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"showFlash": 0,
+				"text": "小白守约",
+				"enc": 2,
+				"type": 4,
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 0,
+					"jumpUrl": "https://agree.jd.com/m/index.html?from=jdappwode"
+				},
+				"timestamp": 1556358399000
+			}, {
+				"expoMta": {
+					"eventId": "MyJD_FamilyExpo",
+					"eventParam": "0",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "jiatinghaoClose",
+				"clickMta": {
+					"eventId": "MyJD_Family",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"bubeExpoMta": {
+					"eventId": "MyJD_FamilyGuideExpo",
+					"eventParam": "1",
+					"pageId": "MyJD_Main"
+				},
+				"text": "家庭号",
+				"type": 5,
+				"bubbleImg": "https://img30.360buyimg.com/mobilecms/jfs/t1/85350/16/16489/3641/5e7c27fdEa7e0c9dc/177678e9de3e6748.png",
+				"timestamp": 1556358399001,
+				"jumpInfo": {
+					"jumpType": 2,
+					"needLogin": 1,
+					"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMyFamily\",\"appname\":\"JDReactMyFamily\",\"ishidden\":true,\"param\":{\"page\":\"inviterPage\",\"transparentenable\":true,\"routeParams\":{\"source\":\"myjd\"}}}"
+				}
+			}],
+			"bgImgInfo": {
+				"radianImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/171956/1/10267/30278/60a2695eEbe854e60/632d30707a3331e0.png",
+				"radianImgDark": "https://img30.360buyimg.com/jdmonitor/jfs/t1/182648/34/4777/26315/60a39c12Eaa1fa153/157452b400f8b2e3.png",
+				"bgImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/162996/29/21101/72398/608a85c8Efca67e25/a96788ca0d373a2d.png",
+				"bgImgDark": "https://img30.360buyimg.com/jdmonitor/jfs/t1/174598/3/10129/106447/60a22201Ebdf88a58/9d42241d2d19fcdd.png"
+			},
+			"steepHeadInfo": {
+				"expoMta": {
+					"eventId": "MyJD_Main_nobubbleExpo",
+					"pageId": "MyJD_Main",
+					"jsonParam": ""
+				},
+				"waveHandGif": "https://img30.360buyimg.com/jdmonitor/jfs/t1/39797/25/15847/969570/60eeb399E0bbbf7e2/a025462f520d9bc2.gif",
+				"clickMta": {
+					"eventId": "MyJD_Main_bubble",
+					"pageId": "MyJD_Main",
+					"jsonParam": "{\"click_type\":1,\"imgid\":-100,\"contentid\":-100,\"sub_logicid\":-100,\"logicid\":-100}"
+				},
+				"headTaskRefresh": "0",
+				"blinkGif": "https://img30.360buyimg.com/jdmonitor/jfs/t1/176084/17/19759/868743/60eeb397E64290f67/31c0abbc7985caa6.gif",
+				"sleepGif": "https://img30.360buyimg.com/jdmonitor/jfs/t1/40456/23/16398/1065587/60eeb396E89658bf9/9d21b3d85e07559b.gif",
+				"emptyTaskCli": {
+					"eventId": "MyJD_Main_Background",
+					"pageId": "MyJD_Main",
+					"jsonParam": ""
+				},
+				"heartGif": "https://img30.360buyimg.com/jdmonitor/jfs/t1/188540/22/18618/777601/611a3351Ee1385566/e8719e71843eed73.gif"
+			},
+			"labelColorStyle": 0,
+			"headStyleConfig": {
+				"goldBorderStyle": {
+					"scope": {
+						"light": "#FFED87",
+						"dark": "#E88600"
+					},
+					"used": "dark"
+				},
+				"textStyle": {
+					"scope": {
+						"light": "#FFFFFF",
+						"dark": "#262626"
+					},
+					"used": "dark"
+				},
+				"backdropStyle": {
+					"scope": {
+						"light": "#1A000000",
+						"dark": "#66FFFFFF"
+					},
+					"used": "dark"
+				}
+			}
+		},
+		"sortId": 1,
+		"mId": "userinfo",
+		"refId": "userimage",
+		"bId": "userinfo_flo_340"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"expoMta": {
+				"eventId": "MyJD_SubscriptExpo",
+				"eventParam": "Notpay#0_Notreceived#0_NotRaise#7_Repair#0",
+				"pageLevel": "",
+				"pageId": "MyJD_Main",
+				"pageParam": "none"
+			},
+			"encStr": "CQlNrYJ4JYj3RNObVdH6GhhrIe66ihqgCZ+K/1elR5ybpKK9rY3Bnb4VJBQ3A71quB6sjUXqrhTb436wXA/4cdpga8RAVOcc/Zni8V5/S6RqNQu1Hck4w3gIyobP5IayiqM7oxS4eEs=",
+			"commentRemindInfo": {
+				"expoMta": {
+					"eventId": "MyJD_EvaluateExpo",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main",
+					"pageParam": ""
+				},
+				"showDays": 7,
+				"slideInterval": 3000,
+				"sleepDays": 7,
+				"tipText": "暂不需要",
+				"type": "2",
+				"infos": [{
+					"imgUrl": "https://img13.360buyimg.com/n5/jfs/t1/198032/24/7199/221358/6137239eEf4ce4a89/2f20cc1b9c818e44.jpg",
+					"clickMta": {
+						"eventId": "MyJD_Evaluate",
+						"eventParam": "2#1",
+						"pageLevel": "",
+						"pageId": "MyJD_Main"
+					},
+					"darkIconUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/125024/23/10824/626/5f44e2c5Ebc7c87b5/1736679ceea28e31.png",
+					"subtitle": "评价最多得40京豆，帮助更多小伙伴～",
+					"buttonInfo": {
+						"darkTextColor": "#F2270C",
+						"darkBkgUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/148262/15/6612/1239/5f44e2c5E9d6f15fc/f846647d610fe310.png",
+						"text": "立即评价",
+						"textColor": "#FA2C19",
+						"bkgUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/115119/22/16350/1204/5f44e25fE2da764a3/53a41a4c9e1799af.png"
+					},
+					"iconUrl": "https://img30.360buyimg.com/jdmonitor/jfs/t1/140142/14/6527/437/5f44e25eEfdbd3fb1/3c1334da0e9cf4a4.png",
+					"title": "发布评价 获得超值京豆",
+					"expoParam": "2#1",
+					"jumpInfo": {
+						"jumpType": 2,
+						"needLogin": 1,
+						"jumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"shareOrder\",\"orderId\":\"220301910283\",\"wareId\":\"6475237\",\"commentType\":\"1\"}"
+					}
+				}]
+			},
+			"orderList": [{
+				"functionId": "daifukuan",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/181843/36/3355/381/6098d127Eb10137e1/c049019a10b22404.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_NotPay",
+					"eventParam": "",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main",
+					"pageParam": "0"
+				},
+				"subtitle": {
+					"color": "#848484",
+					"value": ""
+				},
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/176537/28/8855/381/6098d18eE2c5dff93/8246e27ec64e689e.png",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "待付款"
+				},
+				"updateRedDotTime": 0,
+				"value": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDOrderModule/showList?listType=2&fromPage=MyJDHome"
+				}
+			}, {
+				"functionId": "daishouhuo",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/177422/20/3334/482/6098d127Ec3a01fb9/cc54c9cb77e81c29.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_NotReceived",
+					"eventParam": "",
+					"pageLevel": "1",
+					"pageId": "MyJD_Main",
+					"pageParam": "0"
+				},
+				"subtitle": {
+					"color": "#848484",
+					"value": ""
+				},
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/184785/26/3318/468/6098d18eEf7c5b17c/eae88bc4d619ca35.png",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "待收货"
+				},
+				"updateRedDotTime": 0,
+				"value": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDOrderModule/showList?listType=3&fromPage=MyJDHome"
+				}
+			}, {
+				"functionId": "daipingjia",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/191128/9/2353/671/6098d127E817b4433/54bbc45abeb0b629.png",
+				"redDotType": 3,
+				"isFirstComment": false,
+				"clickMta": {
+					"eventId": "MyJD_NotRaise",
+					"eventParam": "none",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main",
+					"pageParam": "7"
+				},
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/188388/5/2305/673/6098d18eEfc70d23f/ee5cd1d46e7ee0ba.png",
+				"subtitle": {
+					"color": "#848484",
+					"value": ""
+				},
+				"title": {
+					"color": "#2e2e2e",
+					"value": "待评价"
+				},
+				"updateRedDotTime": 0,
+				"value": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDShareOrderModule/showCommentCenter"
+				}
+			}, {
+				"functionId": "fanxiutuihuo",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/176219/36/8719/613/6098d127Efa6ddee7/56ee0dca97eed9df.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_Repair",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main",
+					"pageParam": "0"
+				},
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/184856/13/3260/618/6098d18eE699eeed5/f37c86a73672e5d6.png",
+				"subtitle": {
+					"color": "#848484",
+					"value": ""
+				},
+				"title": {
+					"color": "#2e2e2e",
+					"value": "退换/售后"
+				},
+				"updateRedDotTime": 0,
+				"value": 0,
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 1,
+					"jumpUrl": "https://ase.jd.com?jdreactkey=JDReactAfs&jdreactapp=JDReactAfs&page=home&sourceType=100"
+				}
+			}, {
+				"functionId": "dingdanchaxun",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/184771/33/3305/1557/6098d127Eadb975a2/a2748506d4af9e3f.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_AllOrders",
+					"eventParam": "",
+					"pageLevel": "1",
+					"pageId": "MyJD_Main"
+				},
+				"subtitle": {
+					"color": "#848484",
+					"value": "查看电子发票"
+				},
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/193015/4/2224/1387/6098d18eE3f21405c/2a7738682ff8cc49.png",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "我的订单"
+				},
+				"updateRedDotTime": 0,
+				"value": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDOrderModule/showList?listType=1&fromPage=MyJDHome"
+				}
+			}],
+			"enc": 2
+		},
+		"sortId": 3,
+		"mId": "orderIdFloor",
+		"refId": "dingdanchaxun",
+		"bId": "eCustom_flo_426"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"encStr": "cL9ffe6UtRHx14UlPUiX9TQ+B40gFy9IQktL89kurDZCQ4BNg4mslgReFXOeD6k9kPQSPwqdeO7xaJ0czFN63wIiXvdlY/skx5hYZfuZeRP/GtWlwc90loYweo442ACA5NtSx8soO96nvKlnsoeE+s8gCG18/3zTQC7OliJ1SKwCIhbGljXB4Q==",
+			"walletList": [{
+				"expoMta": {
+					"eventId": "MyJD_JdbeanExpo",
+					"eventParam": "签到领京豆",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "jindou",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/193131/32/2299/583/6098d2d1Ec533fce3/3757880ee4a0512a.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_JDbean",
+					"eventParam": "签到领京豆",
+					"pageLevel": "5",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/176229/27/8792/598/6098d36cE2318e34e/ce7c11dbb698aa0e.png",
+				"subtitle": {
+					"color": "#848484",
+					"value": "签到领京豆"
+				},
+				"title": {
+					"color": "#2e2e2e",
+					"value": "京豆"
+				},
+				"updateRedDotTime": 0,
+				"contentType": 1,
+				"jumpInfo": {
+					"jumpType": 2,
+					"needLogin": 1,
+					"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"appname\":\"JDReactMyJdSubModule\",\"modulename\":\"JDReactMyJdSubModule\",\"ishidden\":true,\"needLogin\":true,\"param\":{\"screen\":\"JDDetail\",\"jb\":\"520\",\"enc\":0,\"source\":\"myjdhome\"},\"h5params\":{\"source\":\"myjdhome\"}}"
+				}
+			}, {
+				"expoMta": {
+					"eventId": "",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": ""
+				},
+				"functionId": "youhuiquan",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/188054/10/2403/499/6098d2d1E0ebd2376/45564d7d702ea114.png",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_Coupon",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/193769/32/2248/504/6098d36dEa1e94884/3b429125c2df97df.png",
+				"subtitle": {
+					"color": "#848484",
+					"value": "下单立省"
+				},
+				"title": {
+					"color": "#2e2e2e",
+					"value": "优惠券"
+				},
+				"updateRedDotTime": 0,
+				"contentType": 1,
+				"jumpInfo": {
+					"jumpType": 2,
+					"needLogin": 1,
+					"jumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"mycoupon\"}"
+				}
+			}, {
+				"numTextContent": "元",
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/194574/28/2206/424/6098d36cE42f0bec8/74102c2e815b811a.png",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "白条"
+				},
+				"updateRedDotTime": 0,
+				"expoMta": {
+					"eventId": "MyJD_JdblanknoteExpo",
+					"eventParam": "想省钱点这里",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"isCountdown": 0,
+				"functionId": "wodebaitiao",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/189485/31/2347/429/6098d2d0E8a6c2c4a/2cb71a80598478ef.png",
+				"supportHide": "1",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_Jdblanknote",
+					"eventParam": "想省钱点这里",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"subtitle": {
+					"color": "#848484",
+					"value": "想省钱点这里"
+				},
+				"contentType": 1,
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 1,
+					"jumpUrl": "https://mcr.jd.com/credit_home/pages/index.html?btPageType=BT&channelName=007"
+				}
+			}, {
+				"numTextContent": "万",
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/174273/38/8882/444/6098d36cE1c030f53/28abe0c2541baced.png",
+				"numFontSize": "19",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "京东金条"
+				},
+				"updateRedDotTime": 0,
+				"expoMta": {
+					"eventId": "MyJD_GoldBar_Expo",
+					"eventParam": "秒批额度",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "wodejintiao",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/181704/10/3330/429/6098d2d1Ea8bec374/3736e88b830fc031.png",
+				"supportHide": "1",
+				"redDotType": 3,
+				"clickMta": {
+					"eventId": "MyJD_GoldBar",
+					"eventParam": "秒批额度",
+					"pageLevel": "",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"subtitle": {
+					"color": "#848484",
+					"value": "秒批额度"
+				},
+				"contentType": 1,
+				"jumpInfo": {
+					"jumpType": 1,
+					"needLogin": 1,
+					"jumpUrl": "https://ms.jr.jd.com/jrpmobile/btbullion/bullion/jinTiaoIndex?sysCode=s2&sourceLink=c3"
+				}
+			}, {
+				"expoMta": {
+					"eventId": "",
+					"eventParam": "",
+					"pageLevel": "",
+					"pageId": ""
+				},
+				"functionId": "qianbaochaxun",
+				"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/188312/30/2335/1156/6098d2d1E03ee6faf/27dfd3d11fd2e127.png",
+				"redDotType": 0,
+				"clickMta": {
+					"eventId": "MyJD_Mywallet",
+					"eventParam": "",
+					"pageLevel": "1",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"darkImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/183080/18/3290/1220/6098d36cE17120fc3/4821c366a2062b6f.png",
+				"subtitle": {
+					"color": "#848484",
+					"value": ""
+				},
+				"title": {
+					"color": "#2e2e2e",
+					"value": "我的钱包"
+				},
+				"updateRedDotTime": 0,
+				"contentType": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDNJMyWalletModule/goToMyWalletPage?newVersionType=1"
+				}
+			}],
+			"enc": 2
+		},
+		"sortId": 4,
+		"mId": "walletIdFloor",
+		"refId": "wodeqianbao",
+		"bId": "eCustom_flo_439"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"expoMta": {
+				"eventId": "MyJD_CommonfunctionExpo",
+				"eventParam": "",
+				"pageLevel": "",
+				"pageId": "MyJD_Main",
+				"pageParam": ""
+			},
+			"abTest": {
+				"abValue": "tsabtest|base64|UGNBQlRlc3RfMTE0OHxiYXNl|tsabtest"
+			},
+			"nodes": [
+				[{
+					"functionId": "dongdongnongchang",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/174638/3/11535/2626/60ad03d2E23273c79/ad885fc52d505336.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_dongdongnongchang",
+						"eventParam": "moreActivity-dongdongnongchang",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"dongdongnongchang\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"dongdongnongchang\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "东东农场"
+					},
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 2,
+						"needLogin": 1,
+						"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"farmgame\", \"babelChannel\":\"11\"}"
+					}
+				}, {
+					"functionId": "lingjindou",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/187437/15/5066/2037/60ad0590E9aa565a9/fbacab715a77dc29.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_lingjingdou",
+						"eventParam": "moreActivity-lingjingdou",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"lingjingdou\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"lingjingdou\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "签到领豆"
+					},
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html?has_native=0&source=wojing2"
+					}
+				}, {
+					"functionId": "wenyisheng",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/178674/2/5906/2095/60ad05f6E6db37604/f27b02c11ab9c398.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_wenyisheng",
+						"eventParam": "moreActivity-wenyisheng",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"wenyisheng\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"wenyisheng\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的医生"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://m.healthjd.com/s/home?hy_entry=MyJD_AskDoc"
+					}
+				}, {
+					"functionId": "kehufuwu",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/174394/36/11496/1465/60ad055fE12c75431/5b9da81b87bb3145.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_kehufuwu",
+						"eventParam": "",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"kehufuwu\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"kehufuwu\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的客服"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://ihelp.jd.com"
+					}
+				}, {
+					"functionId": "jijianfuwu",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/194618/23/4904/2371/60ad051fEfbb5b467/4c16e99db3c68a23.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_jijianfuwu",
+						"eventParam": "",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"jijianfuwu\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"jijianfuwu\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的寄件"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://logistics-mrd.jd.com/express/index.html?source=appPostService#/"
+					}
+				}, {
+					"functionId": "xianzhiguanjia",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/197689/32/3994/4371/611e540aE0496fa85/19f8435219102b17.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_xianzhiguanjia",
+						"eventParam": "moreActivity-xianzhiguanjia",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"xianzhiguanjia\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"xianzhiguanjia\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的闲置"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://paipai.m.jd.com/c2c/mine/personalCenter?entryid=p0020035xzgj04"
+					}
+				}, {
+					"functionId": "dongdongmengchong",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/180075/19/5322/2832/60a78098E84885b22/9e93d9cc3ee0a96a.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-dongdongmengchong",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"dongdongmengchong\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":7}"
+					},
+					"expoJsonParam": "{\"functionid\":\"dongdongmengchong\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":7}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "东东萌宠"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 2,
+						"needLogin": 1,
+						"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactDDPet\",\"appname\":\"JDReactDDPet\",\"ishidden\":true,\"param\":{\"petChannel\":\"wojing\"}}"
+					}
+				}, {
+					"functionId": "yaoqianshu",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/187884/6/4434/2180/60a78130E2a06137f/f038703f5b8ae622.png",
+					"clickMta": {
+						"eventId": "MyJD_Icon_yaoqianshu",
+						"eventParam": "moreActivity-yaoqianshu",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"yaoqianshu\"}"
+					},
+					"expoJsonParam": "{\"functionid\":\"yaoqianshu\"}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "摇钱树"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://uua.jr.jd.com/uc-fe-wxgrowing/moneytree/index/?channel=yxhd"
+					}
+				}, {
+					"functionId": "wodeyuyue",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/173696/2/10903/2107/60a77dfcE3a4d1265/d8150bc3ad641070.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-wodeyuyue",
+						"pageLevel": "3",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"wodeyuyue\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":9}"
+					},
+					"expoJsonParam": "{\"functionid\":\"wodeyuyue\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":9}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的预约"
+					},
+					"updateRedDotTime": 0,
+					"bubbleImg": "https://img13.360buyimg.com/imagetools/jfs/t1/116990/13/13283/1242/5f213b62E49db079f/56fdeb5c835f5faf.png",
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://v.m.jd.com/webhtml/presell/index.html"
+					}
+				}, {
+					"functionId": "chongwangwang",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/185308/24/5273/2777/60a77fd5Ec4ef9583/e0bde800fdeffee6.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-chongwangwang",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"chongwangwang\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":10}"
+					},
+					"expoJsonParam": "{\"functionid\":\"chongwangwang\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":1,\"position\":10}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "宠汪汪"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/2wuqXrZrhygTQzYA7VufBEpj4amH/index.html?babelChannel=ttt12"
+					}
+				}],
+				[{
+					"functionId": "xiaoxiaole",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/144206/23/19237/2054/60a77feaE13cfda22/4a220cdbce057085.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-xiaoxiaole",
+						"pageLevel": "3",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"xiaoxiaole\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":1}"
+					},
+					"expoJsonParam": "{\"functionid\":\"xiaoxiaole\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":1}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "东东爱消除"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://prodev.m.jd.com/mall/active/448KZiLTkqbPBuhS7nK5rJsrLHGD/index.html"
+					}
+				}, {
+					"functionId": "wodeshiyong",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/177322/1/5316/2531/60a77e64Ef0c4117c/ce4f059207a54e47.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-wodeshiyong",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"wodeshiyong\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":2}"
+					},
+					"expoJsonParam": "{\"functionid\":\"wodeshiyong\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":2}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "我的试用"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 2,
+						"needLogin": 1,
+						"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"newArrivalsHomeTabPage\",\"to\":\"trial\"}"
+					}
+				}, {
+					"functionId": "jingdonghuiyuan",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/190506/5/4400/1866/60a791aaEe2b19e6b/3f4fbd8d9df20cc3.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-jingdonghuiyuan",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"jingdonghuiyuan\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":3}"
+					},
+					"expoJsonParam": "{\"functionid\":\"jingdonghuiyuan\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":3}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "京东会员"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://huiyuan.m.jd.com?source=wj"
+					}
+				}, {
+					"functionId": "jingxiaochao",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/189245/30/4435/2630/60a78041Eaa26b1b8/5114ecbb0970f1be.png",
+					"clickMta": {
+						"eventId": "MyJD_Commonfunction",
+						"eventParam": "moreActivity-jingxiaochao",
+						"pageLevel": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"functionid\":\"jingxiaochao\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":4}"
+					},
+					"expoJsonParam": "{\"functionid\":\"jingxiaochao\",\"biinfo\":\"1#13#100033-woJingBaiBao-909127#909127\",\"page\":2,\"position\":4}",
+					"showRedDot": 0,
+					"title": {
+						"color": "#232326",
+						"value": "东东超市"
+					},
+					"updateRedDotTime": 0,
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 1,
+						"jumpUrl": "https://jdsupermarket.jd.com/loading/?channel=18&t=1606451075953"
+					}
+				}],
+				[{
+					"functionId": "gengduo",
+					"safeImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/175845/37/11426/1635/60ad0617Ed7cb4cd4/ec39dc38949dc202.png",
+					"playTimes": 0,
+					"clickMta": {
+						"eventId": "MyJD_Icon_ToolMore",
+						"eventParam": "",
+						"pageLevel": "",
+						"pageId": "MyJD_Main"
+					},
+					"showRedDot": 0,
+					"title": {
+						"color": "#2e2e2e",
+						"value": "更多工具"
+					},
+					"contentType": 0,
+					"jumpInfo": {
+						"jumpType": 4,
+						"needLogin": 1,
+						"jumpUrl": "router://JDMyJdModule/showMyToolsPage"
+					}
+				}]
+			],
+			"extendInfo": {
+				"showGuideLayer": 1
+			}
+		},
+		"sortId": 6,
+		"mId": "homeChannel",
+		"refId": "gengduorukou",
+		"bId": "eCustom_flo_572"
+	}, {
+		"cf": {
+			"spl": "empty",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"encStr": {
+				"liulanjilu": {
+					"numContent": "100"
+				},
+				"dianpuguanzhu": {
+					"numContent": "41"
+				},
+				"shangpinguanzhu": {
+					"numContent": "8"
+				}
+			},
+			"attentionList": [{
+				"expoMta": {
+					"eventId": "",
+					"eventParam": "",
+					"pageId": ""
+				},
+				"functionId": "shangpinguanzhu",
+				"redDotType": 0,
+				"clickMta": {
+					"eventId": "MyJD_MyFollowProduct",
+					"eventParam": "",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"numImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/189988/4/7675/892/60c2c89eE84d9c2d9/6806013eec4961d6.png",
+				"numType": "1",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "商品收藏"
+				},
+				"updateRedDotTime": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDIndividuationModule/showStow?isShop=0"
+				}
+			}, {
+				"expoMta": {
+					"eventId": "MyJD_MyFollowShopExpo",
+					"pageId": "MyJD_Main"
+				},
+				"functionId": "dianpuguanzhu",
+				"redDotType": 0,
+				"clickMta": {
+					"eventId": "MyJD_MyFollowShop",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"numImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/192420/14/7532/721/60c2c89dE636ae028/53375ef183dda08c.png",
+				"numType": "1",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "店铺关注"
+				},
+				"updateRedDotTime": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDIndividuationModule/showStow?isShop=1"
+				}
+			}, {
+				"expoMta": {
+					"eventId": "",
+					"eventParam": "",
+					"pageId": ""
+				},
+				"functionId": "liulanjilu",
+				"redDotType": 0,
+				"clickMta": {
+					"eventId": "MyJD_HistoryLog",
+					"eventParam": "",
+					"pageLevel": "2",
+					"pageId": "MyJD_Main"
+				},
+				"numContent": 0,
+				"numImage": "https://img30.360buyimg.com/jdmonitor/jfs/t1/184017/5/8552/929/60c2c89dEbf5381da/63b542401fedb6d6.png",
+				"numType": "1",
+				"title": {
+					"color": "#2e2e2e",
+					"value": "浏览记录"
+				},
+				"updateRedDotTime": 0,
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDIndividuationModule/showBrowsingHistory"
+				}
+			}],
+			"enc": 0
+		},
+		"sortId": 11,
+		"mId": "attentionFloor",
+		"refId": "wodeguanzhu",
+		"bId": "eCustom_flo_443"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"expoMta": {
+				"eventId": "MyJD_VerticalCardFloor_AllExpo",
+				"eventParam": "",
+				"pageId": "MyJD_Main"
+			},
+			"clickMta": {
+				"eventId": "MyJD_VerticalCardFloor_All",
+				"eventParam": "",
+				"pageLevel": "",
+				"pageId": "MyJD_Main"
+			},
+			"text": "我的京选生活",
+			"tips": "全部",
+			"jumpInfo": {
+				"jumpType": 4,
+				"needLogin": 1,
+				"jumpUrl": "router://JDMyJdModule/goToMoreCardPage"
+			}
+		},
+		"sortId": 16,
+		"mId": "myownerfloor_wodezhuanshu",
+		"refId": "wodezhuanshu",
+		"bId": "myownerfloor_wodezhuanshu_flo_396"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"title": {
+				"color": "#2e2e2e",
+				"value": "我的推荐"
+			}
+		},
+		"sortId": 199,
+		"mId": "recommendfloor",
+		"refId": "recommendfloor",
+		"bId": "recommendfloor_flo_445"
+	}, {
+		"cf": {
+			"spl": "grey_strip_CH",
+			"bgc": "#ffffff"
+		},
+		"data": {
+			"floors": [{
+				"cf": {
+					"spl": "grey_strip_CH",
+					"bgc": "#ffffff"
+				},
+				"data": {
+					"expoMta": {
+						"eventId": "MyJD_PlusVerticalExpo",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"plustype\":\"203\",\"skuid\":\"1605794169#100025237616\"}"
+					},
+					"bottomLeftInfo": {
+						"imgUrl": "https://m.360buyimg.com/babel/jfs/t1/193231/24/18830/127516/611b1296E21c2e697/02af9d43574e125d.jpg",
+						"functionId": "leftBottom",
+						"clickMta": {
+							"eventId": "MyJD_PlusVertical_Icon1",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"skuid\":\"1605794169\"}"
+						},
+						"title": {
+							"color": "",
+							"value": "￥3689.00"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://plus.m.jd.com/products/list?detainer=1398XHSIWsjshwe12&CouponChannelID=15&topInfo=1605794169"
+						}
+					},
+					"bottomRightInfo": {
+						"imgUrl": "https://m.360buyimg.com/babel/jfs/t1/200034/24/9012/81614/6146e84fE31e0c15f/7e90d29d8208b9b4.jpg",
+						"functionId": "rightBottom",
+						"clickMta": {
+							"eventId": "MyJD_PlusVertical_Icon2",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"skuid\":\"100025237616\"}"
+						},
+						"title": {
+							"color": "",
+							"value": "￥459.00"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://plus.m.jd.com/products/list?detainer=1398XHSIWsjshwe12&CouponChannelID=15&topInfo=100025237616"
+						}
+					},
+					"headInfo": {
+						"clickMta": {
+							"eventId": "MyJD_PlusVertical_Title",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"subtitle": {
+							"color": "#848484",
+							"value": "去主页"
+						},
+						"guideId": "PlusVertical",
+						"logoBg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/131544/33/16297/1677/5fb3747bE528500d6/6f0c098999916a56.png",
+						"logo": "https://img30.360buyimg.com/jdmonitor/jfs/t1/144366/15/14729/3239/5fb34204E24734032/5d51775bb7bac686.png",
+						"title": {
+							"color": "",
+							"value": "我的PLUS专享特权"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://plus.m.jd.com/index"
+						}
+					},
+					"cardType": "5",
+					"bgImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/120836/40/18931/59565/5fb1e1c1E75d6d9d3/83f02bac31065aee.png",
+					"contentInfo": {
+						"clickMta": {
+							"eventId": "MyJD_PlusVertical_Banner",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"plustype\":\"203\"}"
+						},
+						"text": {
+							"color": "",
+							"value": ""
+						},
+						"contentImg": "https://m.360buyimg.com/babel/jfs/t1/196377/17/13352/16408/60f00f06Ec47cc9ba/5346d32558c904e2.jpg",
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://pro.m.jd.com/mall/active/2snmf2rKNmHPFtCDRefDKfB579gr/index.html"
+						}
+					}
+				},
+				"sortId": 41,
+				"mId": "vc5",
+				"refId": "pluscard",
+				"bId": "eCustom_flo_605"
+			}, {
+				"cf": {
+					"spl": "grey_strip_CH",
+					"bgc": "#ffffff"
+				},
+				"data": {
+					"expoMta": {
+						"eventId": "MyJD_ShareForGiftExpo",
+						"eventParam": "381886",
+						"pageId": "MyJD_Main"
+					},
+					"headInfo": {
+						"clickMta": {
+							"eventId": "MyJD_ShareForGift_Title",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"subtitle": {
+							"color": "",
+							"value": "参与赢好礼"
+						},
+						"guideId": "ShareForGift",
+						"logoBg": "",
+						"logo": "https://img30.360buyimg.com/jdmonitor/jfs/t1/141261/10/14641/3387/5fb34204E08bbcf95/a52c2e562e59936f.png",
+						"title": {
+							"color": "",
+							"value": "我的种草秀"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactAHa\",\"appname\":\"JDReactAHa\",\"ishidden\":true,\"disableReuse\":true,\"param\":{\"routerIndex\":\"topicCenter\",\"source\":\"MyJD\"}}"
+						}
+					},
+					"bgImg": "",
+					"contentInfo": {
+						"headImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/151218/10/8169/8503/5fbdd64aEdc027b4d/f3cec734d86bb524.png",
+						"clickMta": {
+							"eventId": "MyJD_ShareForGift_Content",
+							"eventParam": "381886",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"title1": {
+							"color": "",
+							"value": "华为手表很不错，不过滑动到计步界面时，稍"
+						},
+						"title2": {
+							"color": "",
+							"value": " 320人逛到好物"
+						},
+						"contentImg": "https://m.360buyimg.com/occupy/s400x400_jfs/t1/133904/30/14489/498597/5fa106f2E13bd5c72/3cbf020eacb6255e.jpg",
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactAHa\",\"appname\":\"JDReactAHa\",\"ishidden\":true,\"disableReuse\":true,\"param\":{\"routerIndex\":\"topicCenter\",\"source\":\"MyJD\"}}"
+						}
+					}
+				},
+				"sortId": 43,
+				"mId": "vc2",
+				"refId": "shaidanCard",
+				"bId": "eCustom_flo_607"
+			}, {
+				"cf": {
+					"spl": "grey_strip_CH",
+					"bgc": "#ffffff"
+				},
+				"data": {
+					"expoMta": {
+						"eventId": "MyJD_travelVcardExpo",
+						"eventParam": "",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"name\":\"订酒店#订机票\"}"
+					},
+					"bottomLeftInfo": {
+						"imgUrl": "https://m.360buyimg.com/babel/jfs/t1/201281/18/2121/16196/611b5b86Eef1ac2aa/0295c925e0c7887a.png",
+						"functionId": "",
+						"clickMta": {
+							"eventId": "MyJD_travelVcard_Icon1",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"name\":\"订酒店\"}"
+						},
+						"showRedDot": 0,
+						"title": {
+							"color": "",
+							"value": "订酒店"
+						},
+						"updateRedDotTime": 0,
+						"bubbleImg": "",
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://hotel.m.jd.com/?jdreactkey=JDReactHotel&jdreactapp=JDReactHotel&rn_transparentenable=true&channel=1073&h5_channels=1073"
+						}
+					},
+					"bottomRightInfo": {
+						"imgUrl": "https://m.360buyimg.com/babel/jfs/t1/205748/18/1672/11300/611b5bcdE77d397f6/0f6d6d6c630ee59b.png",
+						"functionId": "",
+						"clickMta": {
+							"eventId": "MyJD_travelVcard_Icon2",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"name\":\"订机票\"}"
+						},
+						"showRedDot": 0,
+						"title": {
+							"color": "",
+							"value": "订机票"
+						},
+						"updateRedDotTime": 0,
+						"bubbleImg": "",
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://jipiao.m.jd.com/?jdreactkey=JDReactAirtickets&jdreactapp=JDReactAirtickets&rn_transparentenable=true&rn_fromtype=/rn/mychoose"
+						}
+					},
+					"headInfo": {
+						"clickMta": {
+							"eventId": "MyJD_travelVcard_Title",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"subtitle": {
+							"color": "",
+							"value": ""
+						},
+						"logoBg": "",
+						"logo": "https://img30.360buyimg.com/jdmonitor/jfs/t1/178349/8/19764/7221/611b7799Ebec7ca30/6c83d25ebf6016a6.png",
+						"title": {
+							"color": "",
+							"value": "我的旅程"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://pro.m.jd.com/mall/active/4Fr34Vshk1ymvv9CBTysFkF36aYM/index.html"
+						}
+					},
+					"bgImg": "",
+					"contentInfo": {
+						"clickMta": {
+							"eventId": "MyJD_travelVcard_Banner",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"text": {
+							"color": "",
+							"value": ""
+						},
+						"contentImg": "https://m.360buyimg.com/babel/jfs/t1/119525/20/19589/218029/6145bfb8Ecfede4ed/1e8ba3bcb321acd1.png",
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://prodev.m.jd.com/mall/active/XSLZKjWxASg9S8RnURtRuKY7Phz/index.html?babelChannel=ttt46"
+						}
+					}
+				},
+				"sortId": 56,
+				"mId": "vc4",
+				"refId": "travelVcard",
+				"bId": "eCustom_flo_971"
+			}, {
+				"cf": {
+					"spl": "grey_strip_CH",
+					"bgc": "#ffffff"
+				},
+				"data": {
+					"expoMta": {
+						"eventId": "MyJD_QAVerticalExpo",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"questionid\":\"59379430\",\"testid\":\"ABTest-10172-PR5-54\",\"type\":\"1\",\"skuid\":\"100005267674\"}"
+					},
+					"bottomLeftInfo": {
+						"iconBgColor": "#F7FAFF",
+						"functionId": "leftBottom",
+						"clickMta": {
+							"eventId": "MyJD_QAVertical_Question",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"num\":\"1\"}"
+						},
+						"num": {
+							"color": "#637CF5",
+							"value": "1"
+						},
+						"type": "1",
+						"title": {
+							"color": "",
+							"value": "我提问的"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"commune\",\"subDes\":\"usercenter\",\"sourceType\":\"myjd\"}"
+						}
+					},
+					"bottomRightInfo": {
+						"iconBgColor": "#FFF7F7",
+						"functionId": "rightBottom",
+						"clickMta": {
+							"eventId": "MyJD_QAVertical_Answer",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"num\":\"0\"}"
+						},
+						"num": {
+							"color": "#FF6C59",
+							"value": "0"
+						},
+						"type": "1",
+						"title": {
+							"color": "",
+							"value": "我回答的"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"commune\",\"subDes\":\"usercenter\",\"sourceType\":\"myjd\"}"
+						}
+					},
+					"headInfo": {
+						"clickMta": {
+							"eventId": "MyJD_QAVertical_Title",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"subtitle": {
+							"color": "#848484",
+							"value": ""
+						},
+						"guideId": "QAVertical",
+						"logoBg": "",
+						"logo": "https://img30.360buyimg.com/jdmonitor/jfs/t1/142802/26/14690/2630/5fb34205Ed650b89d/91ad81a28ccac526.png",
+						"title": {
+							"color": "",
+							"value": "我的问答"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"commune\",\"subDes\":\"usercenter\",\"sourceType\":\"myjd\"}"
+						}
+					},
+					"contentInfo": {
+						"button": {
+							"borderColor": "",
+							"clickMta": {
+								"eventId": "MyJD_QAVertical_QA",
+								"pageLevel": "",
+								"pageId": "MyJD_Main",
+								"jsonParam": "{\"questionid\":\"59379430\",\"testid\":\"ABTest-10172-PR5-54\",\"skuid\":\"100005267674\"}"
+							},
+							"text": {
+								"color": "",
+								"value": "去回答"
+							},
+							"jumpInfo": {
+								"jumpType": 2,
+								"needLogin": 1,
+								"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"commune\",\"subDes\":\"questiondetail\",\"questionID\":\"59379430\",\"productSku\":\"100005267674\",\"sourceType\":\"myjd\"}"
+							}
+						},
+						"clickMta": {
+							"eventId": "MyJD_QAVertical_QA",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"questionid\":\"59379430\",\"testid\":\"ABTest-10172-PR5-54\",\"skuid\":\"100005267674\"}"
+						},
+						"wareImg": "https://img30.360buyimg.com/shaidan/s250x250_jfs/t1/174221/11/19245/118311/60ee3a11E02fcb95a/f76c0fbbf883f58d.jpg",
+						"contentText": {
+							"color": "",
+							"value": "我怎么连了一两天突然检测不到以太网了"
+						},
+						"title": {
+							"color": "",
+							"value": "有人向您提问"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"commune\",\"subDes\":\"questiondetail\",\"questionID\":\"59379430\",\"productSku\":\"100005267674\",\"sourceType\":\"myjd\"}"
+						}
+					}
+				},
+				"sortId": 46,
+				"mId": "vc8",
+				"refId": "wendadongtai",
+				"bId": "eCustom_flo_631"
+			}, {
+				"cf": {
+					"spl": "grey_strip_CH",
+					"bgc": "#ffffff"
+				},
+				"data": {
+					"expoMta": {
+						"eventId": "MyJD_FamilyVerticalExpo",
+						"pageId": "MyJD_Main",
+						"jsonParam": "{\"name\":\"超低价#抢神券\",\"type\":\"2\"}"
+					},
+					"bottomLeftInfo": {
+						"imgUrl": "https://img11.360buyimg.com/imagetools/jfs/t1/141198/17/16439/8070/5fc6f7dbE1e541060/a5b63f7b1134b585.png",
+						"functionId": "bottomLeft",
+						"clickMta": {
+							"eventId": "MyJD_FamilyVertical_Icon1",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"name\":\"超低价\"}"
+						},
+						"subtitle": {
+							"color": "",
+							"value": ""
+						},
+						"showRedDot": "0",
+						"updateRedDotTime": 1325347200000,
+						"title": {
+							"color": "",
+							"value": "超低价"
+						},
+						"bubbleImg": "",
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMyFamily\",\"appname\":\"JDReactMyFamily\",\"ishidden\":true,\"param\":{\"page\":\"inviterPage\",\"transparentenable\":true,\"routeParams\":{\"source\":\"myjdcard\"}}}"
+						}
+					},
+					"bottomRightInfo": {
+						"imgUrl": "https://img11.360buyimg.com/imagetools/jfs/t1/167984/1/207/7667/5fed87f5E3209eed9/c5b5206c076b338c.png",
+						"functionId": "bottomRight",
+						"clickMta": {
+							"eventId": "MyJD_FamilyVertical_Icon2",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"name\":\"抢神券\"}"
+						},
+						"subtitle": {
+							"color": "",
+							"value": ""
+						},
+						"showRedDot": "0",
+						"updateRedDotTime": 1325347200000,
+						"title": {
+							"color": "",
+							"value": "抢神券"
+						},
+						"bubbleImg": "",
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMyFamily\",\"appname\":\"JDReactMyFamily\",\"ishidden\":true,\"param\":{\"page\":\"couponList\",\"transparentenable\":true,\"routeParams\":{\"source\":\"myjdcard\"}}}"
+						}
+					},
+					"headInfo": {
+						"clickMta": {
+							"eventId": "MyJD_FamilyVertical_Title",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main"
+						},
+						"subtitle": {
+							"color": "#848484",
+							"value": ""
+						},
+						"guideId": "FamilyVertical",
+						"logo": "https://img11.360buyimg.com/imagetools/jfs/t1/134275/1/18778/2194/5fca16f6Ed111768c/47a6c852e1cb21d4.png",
+						"title": {
+							"color": "",
+							"value": "我的家庭号"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 1,
+							"jumpUrl": "https://myfamily.jd.com?jdreactkey=JDReactMyFamily&jdreactapp=JDReactMyFamily&rn_transparentenable=true&rn_page=inviterPage&ishidden=true&rn_source=myjdcard"
+						}
+					},
+					"cardType": "4",
+					"bgImg": "",
+					"contentInfo": {
+						"clickMta": {
+							"eventId": "MyJD_FamilyVertical_Banner",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_Main",
+							"jsonParam": "{\"type\":\"2\"}"
+						},
+						"text": {
+							"color": "",
+							"value": ""
+						},
+						"contentImg": "https://img11.360buyimg.com/imagetools/jfs/t1/150693/40/20406/97626/602f678bEa568c06b/2cd0fcc2d151a4f4.png",
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 1,
+							"jumpUrl": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"des\":\"jdreactcommon\",\"modulename\":\"JDReactMyFamily\",\"appname\":\"JDReactMyFamily\",\"ishidden\":true,\"param\":{\"page\":\"inviterPage\",\"transparentenable\":true,\"routeParams\":{\"source\":\"myjdcard\"}}}"
+						}
+					}
+				},
+				"sortId": 57,
+				"mId": "vc4",
+				"refId": "familyVcard",
+				"bId": "eCustom_flo_622"
+			}],
+			"more": {
+				"expoMta": {
+					"eventId": "MyJD_VerticalCardFloor_MoreExpo",
+					"eventParam": "",
+					"pageId": "MyJD_Main"
+				},
+				"clickMta": {
+					"eventId": "MyJD_VerticalCardFloor_More",
+					"eventParam": "",
+					"pageLevel": "1",
+					"pageId": "MyJD_Main",
+					"pageParam": ""
+				},
+				"darkArrowImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/184560/6/5191/254/60a66d0aE9693a278/8ae9b36f73283e0f.png",
+				"title": {
+					"color": "",
+					"value": "查看全部"
+				},
+				"arrowImg": "https://img30.360buyimg.com/jdmonitor/jfs/t1/177904/28/5180/230/60a66cdbEd71fd6e6/be53198aded226d5.png",
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 1,
+					"jumpUrl": "router://JDMyJdModule/goToMoreCardPage"
+				}
+			}
+		},
+		"sortId": 99,
+		"mId": "horizontalCard",
+		"refId": "horizontalCard",
+		"bId": "eCustom_flo_999"
+	}],
+	"others": {
+		"timeStampStructure": {
+			"quickSandTimeStamp": 1557399900880
+		},
+		"headStyleV90": {
+			"enable": true
+		},
+		"darkMode": {
+			"enable": true,
+			"snapshotInBackground": 1
+		},
+		"ABComponent": {
+			"asyncInflate": "1",
+			"settingAbout": "1",
+			"fontScaleAsyncInflate": "1",
+			"rxJavaIOScheduler": "0",
+			"verticalCardStyle": "1",
+			"recommendBetterSwitch": "1",
+			"settingMyRecord": "1",
+			"audioSwitch": "0",
+			"cardCustomNoticeDynamic": "0",
+			"homeAsyncInflate": "1",
+			"floatLayerStyle": "1",
+			"moreActivitySwift": "1",
+			"horizontalStyle": "1",
+			"hotKeySwitch": "0",
+			"unifyFeedbackAlbum": "1",
+			"headTaskEnable": "0",
+			"grayUpdateStyle": "0"
+		}
+	}
+}

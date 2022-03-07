@@ -1,0 +1,1184 @@
+{
+    "floorList": [{
+        "floorId": 29,
+        "floorName": "细分类目",
+        "showHead": 0,
+        "rightText": "",
+        "style": "0901",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"29\"}",
+        "content": [{
+            "id": 38,
+            "materialId": "925",
+            "name": "北京布鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/147982/4/6487/11455/5f447466E92e7ee56/49dc347ea63cb25e.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+传统布鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"925\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "924",
+            "name": "商务休闲",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/132085/28/8045/15157/5f44708eE3e12eba2/c8fbf459881e7081.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+商务休闲鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"924\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "643",
+            "name": "帆布鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/136595/19/8000/15221/5f446fc1E8cc63c6b/600e3075521e7a8c.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+帆布鞋+鞋靴"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"0\",\"materialId\":\"643\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "2510",
+            "name": "休闲鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/120915/7/10778/13807/5f446fa2Eb9cd6669/3bf1c687e958dcac.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+休闲鞋+鞋靴"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"2510\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "638",
+            "name": "正装鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/130476/3/8052/9835/5f447037Ef7938dd8/305f969d8eda961a.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+正装鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"0\",\"materialId\":\"638\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "641",
+            "name": "拖鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/135118/15/8076/12431/5f4474efE871e0a8b/6032138831ee821f.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男+拖鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"0\",\"materialId\":\"641\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "640",
+            "name": "凉鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/126159/1/10705/5570/5f44750aEbd04d8b1/5687e8b55b9ebdd3.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男凉鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"640\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "2536",
+            "name": "雨鞋",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/137002/34/8183/16599/5f44755dEb7e70d91/0d6cc99a28451f03.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男鞋+雨鞋"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"2536\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 38,
+            "materialId": "2521",
+            "name": "鞋配件",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/146990/15/6688/18877/5f44752bEd33fedf0/135bd41f151d3434.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "男鞋+鞋配件"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#243fc250711351abace3b9efb8a398367d7768cd\",\"materialId\":\"2521\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 0,
+            "name": "更多分类",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+            "jump": {
+                "srvJson": "{\"loc\":\"9\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+            },
+            "iconType": 1
+        }],
+        "filteredCateIds": "643,638,641,925,924,2510,640,2536,2521",
+        "catePoolId": 45,
+        "cid": "385",
+        "pcid": "241"
+    }, {
+        "floorId": 556,
+        "floorName": "一切二banner",
+        "showHead": 0,
+        "rightText": "",
+        "style": "0911",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"556\"}",
+        "content": [{
+            "id": 7350,
+            "materialId": "7350",
+            "jump": {
+                "des": "m",
+                "params": {
+                    "url": "https://shop.m.jd.com/?shopId=1000014523"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"materialId\":\"7350\",\"moduleid\":\"7350\",\"sku\":\"\"}"
+            },
+            "materialType": "1",
+            "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/73906/17/16425/20449/6142ff2cE63c6aa63/738203b9196e4722.jpg!q70.jpg.dpg.webp"
+        }, {
+            "id": 7351,
+            "materialId": "7351",
+            "jump": {
+                "des": "m",
+                "params": {
+                    "url": "https://prodev.m.jd.com/mall/active/3Neh8H3Yztpee6igthePqw1qxWJA/index.html?babelChannel=ttt6"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"materialId\":\"7351\",\"moduleid\":\"7351\",\"sku\":\"\"}"
+            },
+            "materialType": "1",
+            "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/204525/14/7605/46748/614aaca8E5b32bda7/c5190e217b99e4b8.png!q70.jpg"
+        }]
+    }, {
+        "floorId": 265,
+        "floorName": "限时抢购",
+        "showHead": 3,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/123705/22/6388/3925/5f031fd8E93561f60/294e53e7ea119d68.png!q70.jpg",
+        "rightImg": "",
+        "rightText": "更多",
+        "rightJump": {
+            "des": "miaosha",
+            "params": {
+                "categorys": "11729%2C11730%2C",
+                "secKillKeyTabType": "seckill",
+                "topSkus": "10036125990198,10028373664646,100007176441"
+            },
+            "srv": "",
+            "srvJson": "{\"materialId\":\"\"}"
+        },
+        "style": "0902",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0902\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"265\"}",
+        "content": [{
+            "id": 478,
+            "materialId": "10036125990198",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/201877/23/3946/117919/612ddb6cE97ffb5ba/4f225efe35ac43c4.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10036125990198"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"10036125990198\"}"
+            },
+            "jdPrice": "439.00",
+            "sprice": "268.82",
+            "saleRatio": "70",
+            "promotionTag": "30天最低价"
+        }, {
+            "id": 478,
+            "materialId": "10028373664646",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/172885/17/8904/146681/60990ca7Ee3dae72a/ba0bb76792409fe4.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10028373664646"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"10028373664646\"}"
+            },
+            "jdPrice": "199.99",
+            "sprice": "79.00",
+            "saleRatio": "24",
+            "promotionTag": "118天最低价"
+        }, {
+            "id": 478,
+            "materialId": "100007176441",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/129051/37/3498/97872/5ed36918E8878d1c1/83e708c92338fa34.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "100007176441"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"100007176441\"}"
+            },
+            "jdPrice": "398.00",
+            "sprice": "329.00",
+            "saleRatio": "23",
+            "promotionTag": "322天最低价"
+        }, {
+            "id": 478,
+            "materialId": "15203715510",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/124672/24/18931/220781/5fb0fffbEfa5abbf5/aac0f9ad72ec4894.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "15203715510"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"15203715510\"}"
+            },
+            "jdPrice": "29.90",
+            "sprice": "15.90",
+            "saleRatio": "17",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 478,
+            "materialId": "100011377749",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/199941/29/4181/93625/6120ae9eEaa0f17bf/2d37ab8c2ae46682.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "100011377749"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"100011377749\"}"
+            },
+            "jdPrice": "449.00",
+            "sprice": "399.00",
+            "saleRatio": "24",
+            "promotionTag": "123天最低价"
+        }, {
+            "id": 478,
+            "materialId": "61672972297",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/156296/39/4522/113979/5ff58009E73667da7/f14d9e34bab9749f.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "61672972297"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"61672972297\"}"
+            },
+            "jdPrice": "1090.00",
+            "sprice": "799.00",
+            "saleRatio": "34",
+            "promotionTag": "363天最低价"
+        }, {
+            "id": 478,
+            "materialId": "65010903524",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/111907/29/7171/64120/5ec13b09Eb8d4c6a2/7560978ad7158f8a.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "65010903524"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"65010903524\"}"
+            },
+            "jdPrice": "39.90",
+            "sprice": "12.50",
+            "saleRatio": "19",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 478,
+            "materialId": "69140020650",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/137962/13/17669/55170/605d4429Ec9a77176/c4b0b613c930b06a.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "69140020650"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"69140020650\"}"
+            },
+            "jdPrice": "99.00",
+            "sprice": "58.90",
+            "saleRatio": "25",
+            "promotionTag": "314天最低价"
+        }, {
+            "id": 478,
+            "materialId": "47094387272",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/38940/12/6384/129905/5cd0f1caEef2379a4/e4b38a1283efb048.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "47094387272"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"8\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"47094387272\"}"
+            },
+            "jdPrice": "139.00",
+            "sprice": "129.00",
+            "saleRatio": "29",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 478,
+            "materialId": "11191309094",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t3850/75/2590137735/177336/71fca511/586280a7N645e1b7b.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "11191309094"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"9\",\"biinfo\":\"1#2#f5fddd5c9bbc173abe13d826dd62eb2b59426e91-100-621213#16153046\",\"materialId\":\"11191309094\"}"
+            },
+            "jdPrice": "73.00",
+            "sprice": "22.40",
+            "saleRatio": "33",
+            "promotionTag": "1年最低价"
+        }]
+    }, {
+        "floorId": 75,
+        "floorName": "品牌精选",
+        "showHead": 2,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/53309/3/13879/4595/5da99213Edc32ae9e/4d86a93e32804bf1.png!q70.jpg",
+        "rightText": "",
+        "style": "0903",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0903\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"75\"}",
+        "content": [{
+            "id": 84,
+            "materialId": "15233",
+            "name": "沙驰",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t4108/34/2222652897/2710/b55e95f/58a3f6b3N3b6ef023.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "沙驰"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"15233\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "691083",
+            "name": "BAIHOU",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/188310/16/4048/19178/60a4915eEbfe81784/a9bcf3235d6bd112.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "BAIHOU"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"691083\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "154113",
+            "name": "酷奈斯",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/96513/19/1172/6657/5dbab8acEf22e5152/63def573d4eb5a83.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "酷奈斯"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"154113\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "131457",
+            "name": "布舍元",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/46871/2/2685/7930/5d08a4f7Eed6c873c/467b7dd602c8e136.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "布舍元"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"131457\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "8324",
+            "name": "红蜻蜓",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t3076/217/6105264062/8912/b8c7beaa/589d320fNfc3b6672.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "红蜻蜓"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"8324\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "295808",
+            "name": "rider",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t11878/74/1340561251/10623/411886c1/5a000a6cNdf910dcf.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "rider"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"295808\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "10759",
+            "name": "莱尔斯丹",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t3214/257/6137834236/2941/c9cb50d4/589d33feN3b617dc0.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "莱尔斯丹"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"10759\"}"
+            }
+        }, {
+            "id": 84,
+            "materialId": "8840",
+            "name": "吉普",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t2233/334/2884910075/4230/d9d143bb/56f23ce6N7c49b792.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "11730"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "吉普"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#b0f58496418a380c68ea1e1f0fc26b977c930394-100-621309#\",\"materialId\":\"8840\"}"
+            }
+        }],
+        "showIconName": 1
+    }, {
+        "floorId": 125,
+        "floorName": "品牌直降",
+        "showHead": 3,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/50149/6/14203/3755/5daecc9eE8c181231/76f939b464ee97b8.png!q70.jpg",
+        "rightImg": "",
+        "rightText": "更多",
+        "rightJump": {
+            "des": "brandSeckill",
+            "params": {
+                "source": 2,
+                "innerLink": "[{\"innerExtId\":\"223026\"},{\"innerExtId\":\"222267\"},{\"innerExtId\":\"222412\"}]",
+                "categoryId": "11729,11730,"
+            },
+            "srv": "",
+            "srvJson": "{\"materialId\":\"\"}"
+        },
+        "style": "0907",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0907\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"125\"}",
+        "content": [{
+            "id": 136,
+            "materialId": "223026",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/197782/36/9660/81898/614c3bb9E96437376/9f9ff241b0759bc7.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "223026",
+                    "skuIds": "100011836127,100019620010,100011778991"
+                },
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"223026\"}"
+            },
+            "remainTime": 206362,
+            "bseckillTitle": "低至49元",
+            "bseckillSubTitle": "大牌鞋靴联合闪购",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/207176/23/1815/32047/614c3bb4Ebfa7d388/69280c9f4ea59404.png!q70.jpg",
+            "skuList": [{
+                "materialId": "100011836127",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/140729/34/21142/63404/613eaae9E199fd271/e8348049d2b200d0.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "100011836127"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"223026\",\"sku\":100011836127,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "569",
+                "sprice": "509"
+            }, {
+                "materialId": "100019620010",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/203538/16/8481/415589/615125bbE1eb65122/5062394ee9b6b9f7.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "100019620010"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"223026\",\"sku\":100019620010,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "368",
+                "sprice": "331"
+            }, {
+                "materialId": "100011778991",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/173112/18/12515/99951/60b62148E25b3c1db/96af1e1145309a38.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "100011778991"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"0\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"223026\",\"sku\":100011778991,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "259",
+                "sprice": "207"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222267",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/200572/28/8767/37715/6145af50Efaddb1f6/6f2bbe3650f64eb5.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222267",
+                    "skuIds": "10036394565300,10024456794456,10031874928790"
+                },
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222267\"}"
+            },
+            "remainTime": 206362,
+            "bseckillTitle": "单件9折限时抢购！",
+            "bseckillSubTitle": "保菲罗亚男鞋会场",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/97436/21/17242/25486/6145af4bEcad561e4/31c1a80316a6c233.png!q70.jpg",
+            "skuList": [{
+                "materialId": "10036394565300",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/64800/27/16783/200035/61330ffaEbd7811d5/2292b458bc4bc9a8.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10036394565300"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222267\",\"sku\":10036394565300,\"categoryId\":\"12066\"}"
+                },
+                "jdPrice": "298",
+                "sprice": "268"
+            }, {
+                "materialId": "10024456794456",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/122864/11/19319/159939/5fb65b87Ef1e991cf/7b9023c94c3e90e7.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10024456794456"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222267\",\"sku\":10024456794456,\"categoryId\":\"12066\"}"
+                },
+                "jdPrice": "268",
+                "sprice": "241"
+            }, {
+                "materialId": "10031874928790",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/172566/25/14540/140130/60c5805fEf054b818/c84161d23ec5a67d.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10031874928790"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"1\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222267\",\"sku\":10031874928790,\"categoryId\":\"12066\"}"
+                },
+                "jdPrice": "268",
+                "sprice": "241"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222412",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/187500/15/20829/104005/612c9134E745755e0/128fb8d3164fd93c.png!q70.jpg",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222412",
+                    "skuIds": "19740695704,28298089647,10026183074048"
+                },
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222412\"}"
+            },
+            "remainTime": 206362,
+            "bseckillTitle": "闪购特卖 低至5折",
+            "bseckillSubTitle": "沙驰男鞋品牌闪购",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/36938/2/15310/8851/612c9102Ef957dfa6/fb3c413996ebdc6a.png!q70.jpg",
+            "skuList": [{
+                "materialId": "19740695704",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/203214/20/8435/179602/61515d5fE6bfbbd61/614d53233682fe9e.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "19740695704"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222412\",\"sku\":19740695704,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "899",
+                "sprice": "719"
+            }, {
+                "materialId": "28298089647",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/200231/11/10051/219111/61513f16E92382f16/79193fd2712e2277.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "28298089647"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222412\",\"sku\":28298089647,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "1299",
+                "sprice": "899"
+            }, {
+                "materialId": "10026183074048",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/209633/16/2338/181647/61515c33E77d4d2a8/ef94e51afaa99c30.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10026183074048"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"2\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222412\",\"sku\":10026183074048,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "1099",
+                "sprice": "999"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "221529",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/206840/27/1109/36918/6145557bE2948573e/236b96b3a3bc5878.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "221529",
+                    "skuIds": "100016124868,5463628,100015556850"
+                },
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"221529\"}"
+            },
+            "remainTime": 119962,
+            "bseckillTitle": "低至119元",
+            "bseckillSubTitle": "大牌鞋靴秋季嗨购",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/65811/4/17843/16136/61455577Eef201e73/6b373c05c214281b.png!q70.jpg",
+            "skuList": [{
+                "materialId": "100016124868",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/138995/21/18073/121224/5fd31c4dEdab372d1/9efa69409238b3c8.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "100016124868"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"221529\",\"sku\":100016124868,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "229",
+                "sprice": "206"
+            }, {
+                "materialId": "5463628",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/199975/32/14088/648206/614d862aE253d14b5/2cf7b50784958ec2.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "5463628"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"221529\",\"sku\":5463628,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "239",
+                "sprice": "215"
+            }, {
+                "materialId": "100015556850",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/198688/11/10166/65487/614fdd84Ec8630d1b/70c2b1041afdd98d.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "100015556850"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"3\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"221529\",\"sku\":100015556850,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "569",
+                "sprice": "509"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222269",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/198558/20/9054/127204/61468f4cEe9f620fa/13e61f3f38116c91.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222269",
+                    "skuIds": "10035708335892,10032808450337,10035708335946"
+                },
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222269\"}"
+            },
+            "remainTime": 206362,
+            "bseckillTitle": "每满300减30元",
+            "bseckillSubTitle": "意尔康鞋靴专场",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/90735/26/17371/9602/61468f48Ea213159a/6b0c7736560c23eb.png!q70.jpg",
+            "skuList": [{
+                "materialId": "10035708335892",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/158427/24/22514/224528/61509bdfE99036efb/0fd6559a1a28f601.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10035708335892"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222269\",\"sku\":10035708335892,\"categoryId\":\"6912\"}"
+                },
+                "jdPrice": "509",
+                "sprice": "279"
+            }, {
+                "materialId": "10032808450337",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/203721/27/8426/217710/61509df2E0e186637/86a44eee109e4310.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10032808450337"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222269\",\"sku\":10032808450337,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "509",
+                "sprice": "309"
+            }, {
+                "materialId": "10035708335946",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/201521/4/8687/225101/61509dc7E0b33e264/d7b87f767b2b57ab.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10035708335946"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"4\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222269\",\"sku\":10035708335946,\"categoryId\":\"6912\"}"
+                },
+                "jdPrice": "519",
+                "sprice": "279"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222187",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/206039/11/5328/74399/613763c7Eefb3312d/8e088be5c7dbf1ed.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222187",
+                    "skuIds": "10034136188945,52518887233,10025298082755"
+                },
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222187\"}"
+            },
+            "remainTime": 33562,
+            "bseckillTitle": " 全场3折起",
+            "bseckillSubTitle": "奥康闪购直降",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/6649/21/11963/9370/613763c1Ef0c7df2c/2c45a6add36a7ca8.png!q70.jpg",
+            "skuList": [{
+                "materialId": "10034136188945",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/203086/16/3962/154526/614f499dE61b88287/99930f7a526cd501.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10034136188945"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222187\",\"sku\":10034136188945,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "998",
+                "sprice": "499"
+            }, {
+                "materialId": "52518887233",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/197855/37/9900/212232/614e13daE30f36456/a2f69cedb2fd3a41.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "52518887233"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222187\",\"sku\":52518887233,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "539",
+                "sprice": "269"
+            }, {
+                "materialId": "10025298082755",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/211008/11/2182/123547/614f4a33E944fa1ae/0efa82e667f291a2.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10025298082755"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"5\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222187\",\"sku\":10025298082755,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "769",
+                "sprice": "359"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222125",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/204114/11/6749/174627/6141921aE7a398c03/027c958a868b509a.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222125",
+                    "skuIds": "49450424433,49450419993,64383513731"
+                },
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222125\"}"
+            },
+            "remainTime": 33562,
+            "bseckillTitle": "低至五折",
+            "bseckillSubTitle": "木林森爆款直降",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/209952/19/646/7938/61419215E428e25b3/eb0d1afcde3de4ab.png!q70.jpg",
+            "skuList": [{
+                "materialId": "49450424433",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/172425/31/23113/235083/614df54fEadaef884/d2be4bc8485d4516.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "49450424433"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222125\",\"sku\":49450424433,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "398",
+                "sprice": "179"
+            }, {
+                "materialId": "49450419993",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/162824/23/23226/260081/614df54eE4547548c/550cb9d16b2e528c.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "49450419993"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222125\",\"sku\":49450419993,\"categoryId\":\"6907\"}"
+                },
+                "jdPrice": "376",
+                "sprice": "179"
+            }, {
+                "materialId": "64383513731",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/201095/33/8217/299558/614df54eEf7452150/95af7c47f2920047.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "64383513731"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"6\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222125\",\"sku\":64383513731,\"categoryId\":\"6906\"}"
+                },
+                "jdPrice": "496",
+                "sprice": "233"
+            }]
+        }, {
+            "id": 136,
+            "materialId": "222410",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/190353/3/18898/100742/611dbcd0E70e94e25/e26a157b0d695dfa.png!q70.jpg",
+            "jump": {
+                "des": "brandinner",
+                "params": {
+                    "type": "0",
+                    "brandType": "1",
+                    "brandId": "222410",
+                    "skuIds": "40631570113,10911302426,67576356501"
+                },
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222410\"}"
+            },
+            "remainTime": 119962,
+            "bseckillTitle": "满300减15",
+            "bseckillSubTitle": "回力男鞋闪购",
+            "brandLogo": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t1/179383/30/19956/7017/611dbccdEafe236e1/5b9ad4eb35b81e84.png!q70.jpg",
+            "skuList": [{
+                "materialId": "40631570113",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/207478/12/2273/174486/614f4811E145c9c60/6d07a80988b3e2c4.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "40631570113"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"7\",\"pdLoc\":\"0\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222410\",\"sku\":40631570113,\"categoryId\":\"9783\"}"
+                },
+                "jdPrice": "129",
+                "sprice": "69"
+            }, {
+                "materialId": "10911302426",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/96548/19/17733/173011/614f4816E5071d8ff/bc0c5f7c74c93aa9.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "10911302426"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"7\",\"pdLoc\":\"1\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222410\",\"sku\":10911302426,\"categoryId\":\"9783\"}"
+                },
+                "jdPrice": "99",
+                "sprice": "69"
+            }, {
+                "materialId": "67576356501",
+                "img": "https://m.360buyimg.com/mobilecms/s230x230_jfs/t1/210089/34/2142/249566/614f4815E4de7fe61/2b835f45d3e5ab1c.jpg!q70.jpg.dpg.webp",
+                "jump": {
+                    "des": "productDetail",
+                    "params": {
+                        "skuId": "67576356501"
+                    },
+                    "srv": "",
+                    "srvJson": "{\"loc\":\"7\",\"pdLoc\":\"2\",\"biinfo\":\"1#3a76dab9a414d8ace940e419712cba35bafa8eb5-100-621315#16153046\",\"materialId\":\"222410\",\"sku\":67576356501,\"categoryId\":\"9783\"}"
+                },
+                "jdPrice": "128",
+                "sprice": "69"
+            }]
+        }]
+    }, {
+        "floorId": 24,
+        "floorName": "京挑惠选",
+        "showHead": 2,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/81759/12/13270/14395/5da870deE71f5da60/68ebcacdfada5c42.png!q70.jpg",
+        "rightText": "",
+        "style": "0906",
+        "srvJson": "{\"classfyid\":\"385\",\"styleid\":\"0906\",\"floorLoc\":\"5\",\"poolid\":\"41\",\"pid\":\"8\",\"classfynum\":\"15\",\"floorIdDetail\":\"24\"}",
+        "content": []
+    }],
+    "code": "0",
+    "background": {},
+    "pid": "8"
+}

@@ -1,0 +1,1001 @@
+{
+  "floorList": [{
+    "floorId": 40,
+    "floorName": "细分类目楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"40\"}",
+    "content": [{
+      "id": 54,
+      "materialId": "461",
+      "name": "厨卫挂件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/97880/13/11933/12928/5e413acdE2db0387b/8fbb4baeb475cbaf.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "厨卫挂件+家具家装"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"461\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2771",
+      "name": "电脑桌",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89892/28/12064/28701/5e4246dfE65cade4f/d987404165f7fa44.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "电脑桌"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2771\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "806",
+      "name": "智能门锁",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/95946/22/11940/12533/5e414595Eff1e6c60/49f7ae3262912870.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "智能锁+五金工具+电子锁"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"0\",\"materialId\":\"806\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2786",
+      "name": "层架/置物架",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/102411/39/11988/27749/5e424a7bE5c1b0780/e518dca18a62e176.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "层架/置物架"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2786\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "940",
+      "name": "电料配件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89829/5/11931/38992/5e414696E2c4b89e3/b4ceeafe971586e7.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "电料配件"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"940\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2781",
+      "name": "花架/装饰架",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89978/18/12018/37503/5e42496bE0e9b6299/6219b8f89da95c64.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "花架/装饰架"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2781\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2784",
+      "name": "鞋架",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/90040/10/12076/42673/5e424a2cE8f1e3f86/5c6a6954a055029c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "鞋架"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2784\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2779",
+      "name": "折叠床",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/110180/24/5725/19775/5e4248e1E7521532a/abcdc84d09986884.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "折叠床"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2779\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2785",
+      "name": "衣帽架",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/103496/4/12072/22435/5e424a52E72a19afa/4acec115fb99a589.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "衣帽架"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2785\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2648",
+      "name": "智能坐便器",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89213/30/11983/4892/5e413a9aEcc3a711d/db5465a9d109cfe6.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "智能坐便器"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2648\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "455",
+      "name": "开关插座",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/104502/24/11874/21823/5e414613Ee16ccf66/79f1e5b2d076c03d.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "开关插座+电工电料"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"455\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "2787",
+      "name": "储物/收纳用品",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/96924/33/11959/35523/5e424a9fE471562d9/98d5e12be69ce7c2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "储物+收纳用品"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"2787\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "942",
+      "name": "瓷砖",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/95758/27/12076/5803/5e414bbcEbd870b89/98940f78a69027fb.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "瓷砖"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"942\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 54,
+      "materialId": "934",
+      "name": "智能家居",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/91996/8/12067/17147/5e4145e7E204f916c/56f687f073325f21.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "智能家居+电工电料"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#7ed2a796b4b8bf620dc7ce6df5ed06eb49d2c81c\",\"materialId\":\"934\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "806,461,2771,2786,940,2781,2784,2779,2785,2648,455,2787,942,934",
+    "catePoolId": 112,
+    "cid": "381",
+    "pcid": "237"
+  }, {
+    "floorId": 403,
+    "floorName": "一切二",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0911",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"403\"}",
+    "content": [{
+      "id": 7358,
+      "materialId": "7358",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://prodev.m.jd.com/mall/active/2vj1orJrSfuhEz4e4bHXTXLCEdAB/index.html?babelChannel=ttt20"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"7358\",\"moduleid\":\"7358\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/196577/34/20945/88567/612e5499E4f3b9a92/5a25e24778c52b88.gif"
+    }, {
+      "id": 7359,
+      "materialId": "7359",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2mfYvM3w3i484xgZVwS4YV4Ah1eA/index.html?babelChannel=ttt8"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"7359\",\"moduleid\":\"7359\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/204359/30/7681/130912/614ad0beEb916f60e/f08ad3a48e58a720.gif"
+    }]
+  }, {
+    "floorId": 44,
+    "floorName": "限时抢购",
+    "showHead": 3,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/68880/16/13183/3925/5da92856Edc1a3882/49f13f045e5471b0.png!q70.jpg",
+    "rightImg": "",
+    "rightText": "更多",
+    "rightJump": {
+      "des": "miaosha",
+      "params": {
+        "categorys": "9847%2C%2C%239855%2C%2C",
+        "secKillKeyTabType": "seckill",
+        "topSkus": "10797975542,67953804812,72442299542"
+      },
+      "srv": "",
+      "srvJson": "{\"materialId\":\"\"}"
+    },
+    "style": "0902",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0902\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"44\"}",
+    "content": [{
+      "id": 56,
+      "materialId": "10797975542",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/202228/5/8376/252691/6150a12dE6bc3419e/eef96a9ce7306df2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10797975542"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"10797975542\"}"
+      },
+      "jdPrice": "34.00",
+      "sprice": "19.90",
+      "saleRatio": "23",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 56,
+      "materialId": "67953804812",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/99926/22/18439/76026/5e93d4dbEcd251862/83989dda0b519a29.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "67953804812"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"67953804812\"}"
+      },
+      "jdPrice": "488.00",
+      "sprice": "438.00",
+      "saleRatio": "17",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 56,
+      "materialId": "72442299542",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/148087/39/4853/121267/5f2f672fE6e3eab72/8edfd4a230eea992.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "72442299542"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"72442299542\"}"
+      },
+      "jdPrice": "800.00",
+      "sprice": "780.00",
+      "saleRatio": "23",
+      "promotionTag": "102天最低价"
+    }, {
+      "id": 56,
+      "materialId": "67644259743",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/113693/38/401/37679/5e8bee14E9ac0df99/6ddfe4f0ef53eac7.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "67644259743"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"67644259743\"}"
+      },
+      "jdPrice": "43.00",
+      "sprice": "38.60",
+      "saleRatio": "23",
+      "promotionTag": "177天最低价"
+    }, {
+      "id": 56,
+      "materialId": "69454163914",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/116793/32/7059/76195/5ec0a2b6E8c7dfe0e/2fc69bbab8d1298d.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "69454163914"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"69454163914\"}"
+      },
+      "jdPrice": "158.00",
+      "sprice": "68.00",
+      "saleRatio": "17",
+      "promotionTag": "343天最低价"
+    }, {
+      "id": 56,
+      "materialId": "100016182668",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/130035/17/12998/73927/5f8e8422E44cac0f9/985fac99498a94c3.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100016182668"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"100016182668\"}"
+      },
+      "jdPrice": "669.00",
+      "sprice": "649.00",
+      "saleRatio": "28",
+      "promotionTag": "26天最低价"
+    }, {
+      "id": 56,
+      "materialId": "10121966998",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/177483/20/20566/135504/6124b7cdE66a34283/3cd23ebf4809af19.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10121966998"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"10121966998\"}"
+      },
+      "jdPrice": "85.00",
+      "sprice": "31.00",
+      "saleRatio": "34",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 56,
+      "materialId": "1288767501",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/187673/7/10851/598462/60dd6340Ed6f88a3b/67fd19ca776b9737.png!q70.jpg",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "1288767501"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"1288767501\"}"
+      },
+      "jdPrice": "799.00",
+      "sprice": "719.00",
+      "saleRatio": "15",
+      "promotionTag": "256天最低价"
+    }, {
+      "id": 56,
+      "materialId": "47839897517",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t30739/189/1342961853/73169/6e222605/5cdceb66Nb5510be7.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "47839897517"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"47839897517\"}"
+      },
+      "jdPrice": "62.00",
+      "sprice": "55.80",
+      "saleRatio": "18",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 56,
+      "materialId": "10020784286077",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/128887/39/13034/77025/5f6481dfEec0febfd/b809885a73a42bb2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10020784286077"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"1#2#9577fab15db4dcf711d28325daea918f11eeff5a-100-621213#16305682\",\"materialId\":\"10020784286077\"}"
+      },
+      "jdPrice": "549.00",
+      "sprice": "449.00",
+      "saleRatio": "30",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 56,
+      "name": "限时抢购",
+      "jump": {
+        "des": "miaosha",
+        "params": {
+          "categorys": "9847%2C%2C%239855%2C%2C",
+          "secKillKeyTabType": "seckill",
+          "topSkus": "10797975542,67953804812,72442299542"
+        },
+        "srv": ""
+      },
+      "type": 1
+    }]
+  }, {
+    "floorId": 731,
+    "floorName": "家装共建楼层-new",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0914",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0914\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"731\"}",
+    "content": [{
+      "id": 6712,
+      "materialId": "6712",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/173778/27/7078/16859/608a6c97E12ea7f4a/0b8407b1cb21c3f4.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/4ELVebTWwpa1L7zTVvG4e66cApWL/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"6712\"}"
+      },
+      "title": "格调灯饰",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6713,
+      "materialId": "6713",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/172977/26/6992/41006/608a0cd3Ed8b91604/32b54d2de1c65e45.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/AiFZaTN3reHtChdUFhXJtrr6ScE/index.html?babelChannel=ttt9"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"6713\"}"
+      },
+      "title": "家装新品",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6714,
+      "materialId": "6714",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/186271/36/3724/25144/609c9c4fE5fe04701/bc50eb9709c512b2.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://mini-app-static.jd.com/apps/mpshare/index.html?category=jump&des=jdmp&vapptype=1&appId=ao521e6d6b87639ce1&path=pages/calculateQuotation/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"materialId\":\"6714\"}"
+      },
+      "title": "装修报价",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6715,
+      "materialId": "6715",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/190673/34/479/33787/608a0d45E104966c3/089870dc876e7a98.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/4MGHkZMkjbhH7ZAYLR5kEGpA31ST/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"materialId\":\"6715\"}"
+      },
+      "title": "趋势榜单",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6716,
+      "materialId": "6716",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/191592/6/448/20433/608a0db9Ea0d74cfe/d48af272dd0effd0.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/SF1bSkNpoQ4aQmDdNuugFiSeeRG/index.html?babelChannel=ttt7"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"materialId\":\"6716\"}"
+      },
+      "title": "省心购",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }],
+    "showSubTitle": 0
+  }, {
+    "floorId": 268,
+    "floorName": "品牌精选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/96846/13/9588/4595/5e0f3e4aEa113bf2b/b4bb3f1766c184bf.png!q70.jpg",
+    "rightText": "",
+    "style": "0903",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0903\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"268\"}",
+    "content": [{
+      "id": 333,
+      "materialId": "413236",
+      "name": "林氏木业",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/122158/12/11062/2539/5f48b9c6Ebde5ab57/2ff6acb05d4e7d49.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "林氏木业"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"manual\",\"materialId\":\"413236\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "5991",
+      "name": "德力西",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t24490/93/1420286719/5225/4697c70c/5b5fc2c6N653a95b1.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "德力西"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"5991\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "7474",
+      "name": "公牛",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/252/10/11529/18115/5bce7d98E35c8962f/850cf6fed42b9450.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "公牛"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"7474\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "131279",
+      "name": "奥凯弗",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/142474/25/2097/6136/5eff025fE323ae5c3/cb980c324df375a4.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "奥凯弗"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"131279\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "366596",
+      "name": "沃特浦",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/116344/18/1184/4689/5e955295Ef4bbe245/1d710b8d0b8fed28.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "沃特浦"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"366596\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "46594",
+      "name": "玥玛",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1879/215/1046632902/21650/aa3f74dc/56397da6Na1753c4b.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "玥玛"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"46594\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "5125",
+      "name": "博世",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/49270/8/9017/6636/5d662f77E48c61366/be44436185eb42e4.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "博世"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"5125\"}"
+      }
+    }, {
+      "id": 481,
+      "materialId": "10758",
+      "name": "莱尔诗丹",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/2664/22/14097/7218/5bda6e7fE23d34831/63e8330289aaf09d.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "莱尔诗丹"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#4bfc7d7327c415a3463a4857cbcef5c39370450a-100-621309#\",\"materialId\":\"10758\"}"
+      }
+    }],
+    "showIconName": 1
+  }, {
+    "floorId": 326,
+    "floorName": "家装-聚合榜单",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0910",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0910\",\"floorLoc\":\"5\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"326\"}",
+    "content": [{
+      "id": 719,
+      "materialId": "7066",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/160523/7/16522/172112/606c1d45E4559d7ed/ca2afe0d0033f64c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "7066",
+            "fromSkuId": "67198139740"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"0\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"7066\",\"sku\":\"67198139740\",\"type\":\"1\",\"categoryId\":\"11973\"}",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"7066\",\"sku\":\"67198139740\",\"type\":\"1\",\"categoryId\":\"11973\"}"
+      },
+      "jdPrice": "103.5",
+      "saleNumText": "160.1万人买过",
+      "rankName": "电脑桌榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/104205/17/7224/7214/5dfadda8E46085706/6f9b521ad472476f.png!q70.jpg",
+      "bgColor": "#D5AA79,#FFFF00"
+    }, {
+      "id": 720,
+      "materialId": "7651",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t2038/269/1154981839/298105/e1dec9/564c25e5Nd1e37e87.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "7651",
+            "fromSkuId": "10074198642"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"1\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"7651\",\"sku\":\"10074198642\",\"type\":\"1\",\"categoryId\":\"13822\"}",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"7651\",\"sku\":\"10074198642\",\"type\":\"1\",\"categoryId\":\"13822\"}"
+      },
+      "jdPrice": "92",
+      "saleNumText": "5.7万人买过",
+      "rankName": "气动工具榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/102601/8/7391/7572/5dfaebc4E4fadd807/2b23418f5a21cfaf.png!q70.jpg",
+      "bgColor": "#B68367"
+    }, {
+      "id": 721,
+      "materialId": "9121",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/88423/28/15392/48150/5e703191E58db33c1/a338ab12288cda6f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "9121",
+            "fromSkuId": "16787626401"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"2\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"9121\",\"sku\":\"16787626401\",\"type\":\"1\",\"categoryId\":\"9882\"}",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#5814bfc3ebf3cd074d4179c86c0f03689da02515-100-621177#16125216\",\"materialId\":\"9121\",\"sku\":\"16787626401\",\"type\":\"1\",\"categoryId\":\"9882\"}"
+      },
+      "jdPrice": "109",
+      "saleNumText": "241.9万人买过",
+      "rankName": "电脑椅榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/100030/15/7310/7214/5dfaebcaE1235b2a1/f02fb14d8c497b3d.png!q70.jpg",
+      "bgColor": "#D5AA79"
+    }],
+    "showRankType": 1
+  }, {
+    "floorId": 47,
+    "floorName": "京挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/97284/29/181/14395/5da92ffdE9da96ac2/afc9617f59074192.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"381\",\"styleid\":\"0906\",\"floorLoc\":\"6\",\"poolid\":\"41\",\"pid\":\"181\",\"classfynum\":\"7\",\"floorIdDetail\":\"47\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "181"
+}

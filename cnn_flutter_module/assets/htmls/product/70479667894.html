@@ -1,0 +1,668 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="font-size: 20.7px;">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport"
+        content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+
+
+    <script type="application/javascript" src="70479667894_files/informant.js"></script>
+    <link type="text/css" rel="stylesheet" href="70479667894_files/scale.css">
+    <link type="text/css" rel="stylesheet" href="70479667894_files/swiper.css">
+    <script type="text/javascript" src="70479667894_files/scale20210106170640.js"></script>
+    <script>
+        try {
+            var config = '4bac9f062ad801ba3d6999a75694ee9b5cba8eca--true--true--{"is":3000000,"idt":5000,"st":5000,"wt":5000,"bt":5000}';
+            var appId = '';
+            var fu = false;
+            var iu = true;
+            var th = '';
+            if (config) {
+                var configs = config.split("--");
+                appId = configs[0];
+                if (configs[1] == "true") {
+                    fu = true;
+                }
+                if (configs[2] == "false") {
+                    iu = false;
+                }
+                th = configs[3];
+            }
+            informant({ appId: appId, fu: fu, iu: iu, th: JSON.parse(th) })
+            var sendErr = function (json) {
+                var isReport = document.getElementById("isExceptionMonitor").value;
+                if (typeof json === "object" && json != {}) {
+                    if (isReport === "1") {
+                        try {
+                            window.informant()
+                                .sendError({
+                                    l: json.l || '', // level 错误等级
+                                    d: json.d || '', //description 错误描述
+                                    f: json.f || '', //functionName 错误函数名
+                                    e: json.e.toString() || '', //error 错误内容
+                                })
+                        } catch (e) {
+                            console.log(e);
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+        }
+        var pageConfig = {
+            compatible: false,
+            widVersion: false
+        };
+        var jQuery;
+        scale.ready(function () {
+            var aIframe = document.getElementsByTagName('iframe');
+            if (aIframe.length > 0) {
+                for (var i = 0; i < aIframe.length; i++) {
+                    if (aIframe[i].id === "global_faq" || aIframe[i].id === "secondhand_faq") {
+                        aIframe[i].style.display = 'block';
+                    } else {
+                        aIframe[i].style.display = 'none';
+                    }
+                }
+
+            }
+            scale('scale-wei-wd', 'scale-wei2-wd');
+            scale('scale-wei-avi', 'scale-wei2-avi');
+            scale('scale-wei-dolphin', 'scale-wei2-dolphin');
+            scale('scale-wei-tempHead', 'scale-wei2-tempHead');
+            scale('scale-wei-tempBottom', 'scale-wei2-tempBottom');
+            scale('scale-wei-pi-top', 'scale-wei-pi2-top');
+            scale('scale-wei-pi-bottom', 'scale-wei-pi2-bottom');
+            scale('scale-qin-p', 'scale-qin2-p');
+            scale('scale-qin-s', 'scale-qin2-s');
+            scale('scale-chu', 'scale-chu2');
+            scale('scale-zho', 'scale-zho2');
+            scale('scale-yan', 'scale-yan2');
+            try {
+                window.ocrInit && ocrInit();
+            } catch (e) { }
+            videoInit();
+        });
+
+    </script>
+</head>
+
+<body>
+
+    <input type="hidden" id="skuId" name="skuId" value="70479667894">
+    <input type="hidden" id="audio" name="audio" value="false">
+    <input type="hidden" id="visual" name="visual" value="false">
+    <input type="hidden" id="bizSort" name="bizSort" value="[
+	{
+		&quot;biz&quot;:&quot;han&quot;,
+		&quot;icon&quot;:&quot;http://m.360buyimg.com/cc/jfs/t1/104985/37/14708/1842/5e69a3c2E10c52b55/fcd2c3241e357c50.png&quot;,
+		&quot;id&quot;:&quot;SpecificationsModule&quot;,
+		&quot;val&quot;:&quot;规格参数&quot;
+	},
+	{
+		&quot;biz&quot;:&quot;chu&quot;,
+		&quot;icon&quot;:&quot;http://m.360buyimg.com/cc/jfs/t1/94548/31/14815/2066/5e69a402Eaf8f2cc1/09bb41b30b0e5b7b.png&quot;,
+		&quot;id&quot;:&quot;ChuModule&quot;,
+		&quot;val&quot;:&quot;店内优选&quot;
+	},
+	{
+		&quot;biz&quot;:&quot;wei&quot;,
+		&quot;icon&quot;:&quot;http://m.360buyimg.com/cc/jfs/t1/101204/12/14667/1791/5e69a3e2Edb29beef/611e6791a72bf3d8.png&quot;,
+		&quot;id&quot;:&quot;IntroductionModule&quot;,
+		&quot;val&quot;:&quot;商品介绍&quot;
+	},
+	{
+		&quot;biz&quot;:&quot;yan&quot;,
+		&quot;icon&quot;:&quot;http://m.360buyimg.com/cc/jfs/t1/87944/21/14769/1983/5e69a469Edd708c33/ee85cde87dc3410d.png&quot;,
+		&quot;id&quot;:&quot;Packing_salesServiceModule&quot;,
+		&quot;val&quot;:&quot;服务&quot;
+	}
+]">
+    <input type="hidden" id="wareChannel" name="wareChannel" value="0">
+    <input type="hidden" id="isPopWareDetail" name="isPopWareDetail" value="0">
+    <input type="hidden" id="isExceptionMonitor" name="isExceptionMonitor" value="0">
+
+    <div id="pageMain">
+
+        <div class="goods-detail-wrap-title">
+            详情
+        </div>
+        <style>
+            * {
+                word-wrap: break-word;
+                word-break: break-all;
+            }
+        </style>
+        <div class="part-box" id="SpecificationsModule" style="height: 300px; padding-bottom: 40px;">
+            <div class="part-title">规格参数</div>
+            <input type="hidden" name="wareId" id="wareId" value="70479667894">
+            <input type="hidden" name="isWareGuigNew" id="isWareGuigNew" value="5">
+            <input type="hidden" name="drugExpiryDate" id="drugExpiryDate" value="">
+
+            <input type="hidden" name="wareGuigNew" id="wareGuigNew"
+                value="{&quot;propGroups&quot;:[{&quot;atts&quot;:[{&quot;attName&quot;:&quot;产品名称&quot;,&quot;vals&quot;:[&quot;荣耀50pro&quot;]},{&quot;attName&quot;:&quot;品牌&quot;,&quot;vals&quot;:[&quot;荣耀（HONOR）&quot;]},{&quot;attName&quot;:&quot;上市年份&quot;,&quot;vals&quot;:[&quot;2021年&quot;]},{&quot;attName&quot;:&quot;上市月份&quot;,&quot;vals&quot;:[&quot;6月&quot;]},{&quot;attName&quot;:&quot;入网型号&quot;,&quot;attRemark&quot;:&quot;工业代号或者入网型号&quot;,&quot;vals&quot;:[&quot;RNA-AN00&quot;]},{&quot;attName&quot;:&quot;首销日期&quot;,&quot;vals&quot;:[&quot;以官网信息为准&quot;]}],&quot;groupName&quot;:&quot;主体&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;机身长度（mm）&quot;,&quot;vals&quot;:[&quot;163.46mm&quot;]},{&quot;attName&quot;:&quot;机身宽度（mm）&quot;,&quot;vals&quot;:[&quot;74.66mm&quot;]},{&quot;attName&quot;:&quot;机身厚度(mm)&quot;,&quot;vals&quot;:[&quot;8.05mm&quot;]},{&quot;attName&quot;:&quot;机身重量（g）&quot;,&quot;vals&quot;:[&quot;约187克（含电池）&quot;]},{&quot;attName&quot;:&quot;运营商标志或内容&quot;,&quot;attRemark&quot;:&quot;定制机往往会有运营商的元素在手机的某些位置，该属性会介绍这些元素出现的位置。&quot;,&quot;vals&quot;:[&quot;其他&quot;]},{&quot;attName&quot;:&quot;机身材质分类&quot;,&quot;vals&quot;:[&quot;其他&quot;]},{&quot;attName&quot;:&quot;机身材质&quot;,&quot;vals&quot;:[&quot;其他&quot;]}],&quot;groupName&quot;:&quot;基本信息&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;CPU品牌&quot;,&quot;vals&quot;:[&quot;高通(Qualcomm)&quot;]}],&quot;groupName&quot;:&quot;主芯片&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;主屏幕尺寸&quot;,&quot;vals&quot;:[&quot;6.72英寸&quot;]},{&quot;attName&quot;:&quot;屏幕材质类型&quot;,&quot;vals&quot;:[&quot;OLED&quot;]}],&quot;groupName&quot;:&quot;屏幕&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;后摄主摄光圈&quot;,&quot;vals&quot;:[&quot;f/1.9&quot;]},{&quot;attName&quot;:&quot;闪光灯&quot;,&quot;vals&quot;:[&quot;其他闪光灯&quot;]},{&quot;attName&quot;:&quot;后摄2摄像头功能&quot;,&quot;vals&quot;:[&quot;超广角&quot;]},{&quot;attName&quot;:&quot;后摄2摄像素&quot;,&quot;vals&quot;:[&quot;800万像素&quot;]},{&quot;attName&quot;:&quot;后摄3摄像头功能&quot;,&quot;vals&quot;:[&quot;景深&quot;]},{&quot;attName&quot;:&quot;后摄3摄像素&quot;,&quot;vals&quot;:[&quot;200万像素&quot;]},{&quot;attName&quot;:&quot;后摄4摄像头功能&quot;,&quot;vals&quot;:[&quot;微距&quot;]},{&quot;attName&quot;:&quot;后摄4摄像素&quot;,&quot;vals&quot;:[&quot;200万像素&quot;]}],&quot;groupName&quot;:&quot;后置摄像头&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;前摄主摄光圈&quot;,&quot;vals&quot;:[&quot;f/2.4&quot;]}],&quot;groupName&quot;:&quot;前置摄像头&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;电池可拆卸&quot;,&quot;attRemark&quot;:&quot;不可拆卸电池手机更加节省内部空间，密封性更好，请勿在没有专业人士的帮助下自行拆卸。&quot;,&quot;vals&quot;:[&quot;不可拆卸&quot;]},{&quot;attName&quot;:&quot;充电器&quot;,&quot;vals&quot;:[&quot;20V/5A&quot;,&quot;11V/6A&quot;,&quot;10V/4A&quot;]},{&quot;attName&quot;:&quot;无线充电&quot;,&quot;attRemark&quot;:&quot;无线充电只是个功能，请注意支持无线充电的产品其包装是否带有无线充电的配件，如没有需要自行单配哦。&quot;,&quot;vals&quot;:[&quot;不支持无线充电&quot;]}],&quot;groupName&quot;:&quot;电池信息&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;最大支持SIM卡数量&quot;,&quot;vals&quot;:[&quot;2个&quot;]},{&quot;attName&quot;:&quot;双卡机类型&quot;,&quot;vals&quot;:[&quot;双卡双待&quot;]},{&quot;attName&quot;:&quot;SIM卡类型&quot;,&quot;attRemark&quot;:&quot;sim卡的规格，大卡、小卡或者nano卡。如果副卡有不同可在下方副卡规格中填写或显示&quot;,&quot;vals&quot;:[&quot;Nano SIM&quot;]},{&quot;attName&quot;:&quot;5G网络&quot;,&quot;vals&quot;:[&quot;移动5G&quot;,&quot;联通5G&quot;,&quot;电信5G&quot;]},{&quot;attName&quot;:&quot;4G网络&quot;,&quot;attRemark&quot;:&quot;单卡手机或者主卡的4G网络在这里填写，副卡的网络在副sim卡4G网络中填写。&quot;,&quot;vals&quot;:[&quot;4G TD-LTE(移动)&quot;,&quot;4G FDD-LTE(联通、电信)&quot;,&quot;4G FDD-LTE(联通)&quot;]},{&quot;attName&quot;:&quot;3G/2G网络&quot;,&quot;vals&quot;:[&quot;3G TD-SCDMA(移动)&quot;,&quot;2G CDMA(电信)&quot;,&quot;3G WCDMA(联通)&quot;,&quot;3G CDMA2000(电信)&quot;,&quot;2G GSM(移动/联通)&quot;]},{&quot;attName&quot;:&quot;网络频率(2G/3G)&quot;,&quot;vals&quot;:[&quot;以官网信息为准&quot;]}],&quot;groupName&quot;:&quot;网络支持&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;数据传输接口&quot;,&quot;vals&quot;:[&quot;WIFI&quot;,&quot;蓝牙&quot;,&quot;NFC&quot;,&quot;WiFi热点&quot;]},{&quot;attName&quot;:&quot;NFC/NFC模式&quot;,&quot;vals&quot;:[&quot;支持（点对点模式）&quot;,&quot;支持（读卡器模式）&quot;,&quot;支持卡模拟&quot;]},{&quot;attName&quot;:&quot;耳机接口类型&quot;,&quot;vals&quot;:[&quot;Type-C&quot;]},{&quot;attName&quot;:&quot;充电接口类型&quot;,&quot;vals&quot;:[&quot;Type-C&quot;]}],&quot;groupName&quot;:&quot;数据接口&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;常用功能&quot;,&quot;vals&quot;:[&quot;计算器&quot;]}],&quot;groupName&quot;:&quot;辅助功能&quot;},{&quot;atts&quot;:[{&quot;attName&quot;:&quot;功能&quot;,&quot;vals&quot;:[&quot;语音命令&quot;,&quot;语音识别(文字语音互转)&quot;]},{&quot;attName&quot;:&quot;支持IPv6&quot;,&quot;vals&quot;:[&quot;支持IPv6&quot;]},{&quot;attName&quot;:&quot;低蓝光认证&quot;,&quot;vals&quot;:[&quot;低蓝光认证&quot;]},{&quot;attName&quot;:&quot;热点&quot;,&quot;vals&quot;:[&quot;NFC&quot;,&quot;5G&quot;,&quot;快速充电&quot;,&quot;曲面屏&quot;,&quot;屏幕高刷新率&quot;]},{&quot;attName&quot;:&quot;系统&quot;,&quot;vals&quot;:[&quot;Android&quot;]},{&quot;attName&quot;:&quot;CPU型号&quot;,&quot;vals&quot;:[&quot;其他&quot;]},{&quot;attName&quot;:&quot;机身存储&quot;,&quot;vals&quot;:[&quot;256GB&quot;]},{&quot;attName&quot;:&quot;运行内存&quot;,&quot;vals&quot;:[&quot;8GB&quot;]},{&quot;attName&quot;:&quot;存储卡&quot;,&quot;vals&quot;:[&quot;不支持存储卡&quot;]},{&quot;attName&quot;:&quot;摄像头数量&quot;,&quot;vals&quot;:[&quot;后置四摄&quot;]},{&quot;attName&quot;:&quot;后摄主摄像素&quot;,&quot;vals&quot;:[&quot;10800万像素&quot;]},{&quot;attName&quot;:&quot;机身颜色&quot;,&quot;vals&quot;:[&quot;混合色&quot;]},{&quot;attName&quot;:&quot;前摄主摄像素&quot;,&quot;vals&quot;:[&quot;1200万像素&quot;]},{&quot;attName&quot;:&quot;屏幕前摄组合&quot;,&quot;vals&quot;:[&quot;其他&quot;]},{&quot;attName&quot;:&quot;分辨率&quot;,&quot;vals&quot;:[&quot;全高清FHD+&quot;]},{&quot;attName&quot;:&quot;屏幕比例&quot;,&quot;vals&quot;:[&quot;19.1~19.5:9&quot;]}],&quot;groupName&quot;:&quot;参数&quot;}]}">
+            <link type="text/css" rel="stylesheet" href="70479667894_files/specification.css">
+
+            <div class="newspecification-table-box" id="table-box">
+                <table class="table-border" width="100%">
+                    <tbody>
+                        <tr>
+                            <td>商品编号</td>
+                            <td>70479667894</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>主体</strong></td>
+                        </tr>
+                        <tr>
+                            <td>产品名称</td>
+                            <td>荣耀50pro</td>
+                        </tr>
+                        <tr>
+                            <td>品牌</td>
+                            <td>荣耀（HONOR）</td>
+                        </tr>
+                        <tr>
+                            <td>上市年份</td>
+                            <td>2021年</td>
+                        </tr>
+                        <tr>
+                            <td>上市月份</td>
+                            <td>6月</td>
+                        </tr>
+                        <tr>
+                            <td>入网型号</td>
+                            <td>RNA-AN00</td>
+                        </tr>
+                        <tr>
+                            <td>首销日期</td>
+                            <td>以官网信息为准</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>基本信息</strong></td>
+                        </tr>
+                        <tr>
+                            <td>机身长度<br> (mm）</td>
+                            <td>163.46mm</td>
+                        </tr>
+                        <tr>
+                            <td>机身宽度<br> (mm）</td>
+                            <td>74.66mm</td>
+                        </tr>
+                        <tr>
+                            <td>机身厚度<br> (mm)</td>
+                            <td>8.05mm</td>
+                        </tr>
+                        <tr>
+                            <td>机身重量<br> (g）</td>
+                            <td>约187克（含电池）</td>
+                        </tr>
+                        <tr>
+                            <td>运营商标志或内容</td>
+                            <td>其他</td>
+                        </tr>
+                        <tr>
+                            <td>机身材质分类</td>
+                            <td>其他</td>
+                        </tr>
+                        <tr>
+                            <td>机身材质</td>
+                            <td>其他</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>主芯片</strong></td>
+                        </tr>
+                        <tr>
+                            <td>CPU品牌</td>
+                            <td>高通(Qualcomm)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>屏幕</strong></td>
+                        </tr>
+                        <tr>
+                            <td>主屏幕尺寸</td>
+                            <td>6.72英寸</td>
+                        </tr>
+                        <tr>
+                            <td>屏幕材质类型</td>
+                            <td>OLED</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>后置摄像头</strong></td>
+                        </tr>
+                        <tr>
+                            <td>后摄主摄光圈</td>
+                            <td>f/1.9</td>
+                        </tr>
+                        <tr>
+                            <td>闪光灯</td>
+                            <td>其他闪光灯</td>
+                        </tr>
+                        <tr>
+                            <td>后摄2摄像头功能</td>
+                            <td>超广角</td>
+                        </tr>
+                        <tr>
+                            <td>后摄2摄像素</td>
+                            <td>800万像素</td>
+                        </tr>
+                        <tr>
+                            <td>后摄3摄像头功能</td>
+                            <td>景深</td>
+                        </tr>
+                        <tr>
+                            <td>后摄3摄像素</td>
+                            <td>200万像素</td>
+                        </tr>
+                        <tr>
+                            <td>后摄4摄像头功能</td>
+                            <td>微距</td>
+                        </tr>
+                        <tr>
+                            <td>后摄4摄像素</td>
+                            <td>200万像素</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>前置摄像头</strong></td>
+                        </tr>
+                        <tr>
+                            <td>前摄主摄光圈</td>
+                            <td>f/2.4</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>电池信息</strong></td>
+                        </tr>
+                        <tr>
+                            <td>电池可拆卸</td>
+                            <td>不可拆卸</td>
+                        </tr>
+                        <tr>
+                            <td>充电器</td>
+                            <td>20V/5A,11V/6A,10V/4A</td>
+                        </tr>
+                        <tr>
+                            <td>无线充电</td>
+                            <td>不支持无线充电</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>网络支持</strong></td>
+                        </tr>
+                        <tr>
+                            <td>最大支持SIM卡数量</td>
+                            <td>2个</td>
+                        </tr>
+                        <tr>
+                            <td>双卡机类型</td>
+                            <td>双卡双待</td>
+                        </tr>
+                        <tr>
+                            <td>SIM卡类型</td>
+                            <td>Nano SIM</td>
+                        </tr>
+                        <tr>
+                            <td>5G网络</td>
+                            <td>移动5G,联通5G,电信5G</td>
+                        </tr>
+                        <tr>
+                            <td>4G网络</td>
+                            <td>4G TD-LTE(移动),4G FDD-LTE(联通、电信),4G FDD-LTE(联通)</td>
+                        </tr>
+                        <tr>
+                            <td>3G/2G网络</td>
+                            <td>3G TD-SCDMA(移动),2G CDMA(电信),3G WCDMA(联通),3G CDMA2000(电信),2G GSM(移动/联通)</td>
+                        </tr>
+                        <tr>
+                            <td>网络频率<br> (2G/3G)</td>
+                            <td>以官网信息为准</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>数据接口</strong></td>
+                        </tr>
+                        <tr>
+                            <td>数据传输接口</td>
+                            <td>WIFI,蓝牙,NFC,WiFi热点</td>
+                        </tr>
+                        <tr>
+                            <td>NFC/NFC模式</td>
+                            <td>支持（点对点模式）,支持（读卡器模式）,支持卡模拟</td>
+                        </tr>
+                        <tr>
+                            <td>耳机接口类型</td>
+                            <td>Type-C</td>
+                        </tr>
+                        <tr>
+                            <td>充电接口类型</td>
+                            <td>Type-C</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>辅助功能</strong></td>
+                        </tr>
+                        <tr>
+                            <td>常用功能</td>
+                            <td>计算器</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><strong>参数</strong></td>
+                        </tr>
+                        <tr>
+                            <td>功能</td>
+                            <td>语音命令,语音识别(文字语音互转)</td>
+                        </tr>
+                        <tr>
+                            <td>支持IPv6</td>
+                            <td>支持IPv6</td>
+                        </tr>
+                        <tr>
+                            <td>低蓝光认证</td>
+                            <td>低蓝光认证</td>
+                        </tr>
+                        <tr>
+                            <td>热点</td>
+                            <td>NFC,5G,快速充电,曲面屏,屏幕高刷新率</td>
+                        </tr>
+                        <tr>
+                            <td>系统</td>
+                            <td>Android</td>
+                        </tr>
+                        <tr>
+                            <td>CPU型号</td>
+                            <td>其他</td>
+                        </tr>
+                        <tr>
+                            <td>机身存储</td>
+                            <td>256GB</td>
+                        </tr>
+                        <tr>
+                            <td>运行内存</td>
+                            <td>8GB</td>
+                        </tr>
+                        <tr>
+                            <td>存储卡</td>
+                            <td>不支持存储卡</td>
+                        </tr>
+                        <tr>
+                            <td>摄像头数量</td>
+                            <td>后置四摄</td>
+                        </tr>
+                        <tr>
+                            <td>后摄主摄像素</td>
+                            <td>10800万像素</td>
+                        </tr>
+                        <tr>
+                            <td>机身颜色</td>
+                            <td>混合色</td>
+                        </tr>
+                        <tr>
+                            <td>前摄主摄像素</td>
+                            <td>1200万像素</td>
+                        </tr>
+                        <tr>
+                            <td>屏幕前摄组合</td>
+                            <td>其他</td>
+                        </tr>
+                        <tr>
+                            <td>分辨率</td>
+                            <td>全高清FHD+</td>
+                        </tr>
+                        <tr>
+                            <td>屏幕比例</td>
+                            <td>19.1~19.5:9</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <script type="application/javascript" src="70479667894_files/specification.js"></script>
+            <p id="btn-showFullSpecification" class="btn-showFullSpecification">展开</p>
+        </div>
+        <div class="part-box" id="ChuModule">
+            <div class="part-title">店内优选</div>
+            <style>
+                .ssd-module-mobile-wrap.ssd-format-wrap {
+                    position: relative;
+                    margin: 0 auto;
+                    width: 750px
+                }
+
+                .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-activity {
+                    max-height: 380px;
+                    overflow: hidden
+                }
+
+                .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-shopPrior {
+                    max-height: 900px;
+                    overflow: hidden
+                }
+
+                .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-authorize {
+                    max-height: 300px;
+                    overflow: hidden
+                }
+
+                .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-reminder {
+                    max-height: 4000px;
+                    overflow: hidden
+                }
+
+                .ssd-module-mobile-wrap:not(.ssd-format-wrap) .ssd-module-goods {
+                    display: none
+                }
+            </style>
+            <div id="scale-chu" style="width: 418px; height: 498.256px; margin: 5px; overflow: hidden;">
+                <div class="scale-box" id="scale-chu2"
+                    style="transform-origin: 0px 0px 0px; transform: scale(0.557333); font-size: 22px;">
+                    <div class="detail_info_wrap">
+                        <div class="ssd-module-mobile-wrap ssd-format-wrap">
+                            <div class="ssd-format-floor ssd-floor-shopPrior">
+                                <div skucode="100011" class="ssd-floor-type" data-type="shopPrior"></div>
+                                <div id="zbViewFloorHeight_shopPrior" value="893"></div>
+                                <img src="70479667894_files/06a2ddb46bb59ba4.jpg" alt="" usemap="#ppp" width="750"
+                                    height="894" border="0">
+                                <map name="ppp">
+                                    <area shape="rect" coords="5,9,244,286"
+                                        href="https://item.jd.com/10032517637808.html" target="_blank">
+                                    <area shape="rect" coords="252,8,496,287"
+                                        href="https://item.jd.com/10032517273859.html#crumb-wrap" target="_blank">
+                                    <area shape="rect" coords="502,9,742,292"
+                                        href="https://item.jd.com/10032517142928.html#crumb-wrap" target="_blank">
+                                    <area shape="rect" coords="7,306,248,592"
+                                        href="https://item.jd.com/10034894271714.html" target="_blank">
+                                    <area shape="rect" coords="256,305,495,594"
+                                        href="https://item.jd.com/10034628968769.html" target="_blank">
+                                    <area shape="rect" coords="503,300,742,592"
+                                        href="https://item.jd.com/10035368976127.html" target="_blank">
+                                    <area shape="rect" coords="5,605,244,889"
+                                        href="https://item.jd.com/10034890966660.html" target="_blank">
+                                    <area shape="rect" coords="249,604,495,886"
+                                        href="https://item.jd.com/10033205117508.html#crumb-wrap" target="_blank">
+                                    <area shape="rect" coords="500,607,748,886"
+                                        href="https://item.jd.com/10027577421417.html" target="_blank">
+                                </map>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+
+            </script>
+        </div>
+        <div class="part-box" id="IntroductionModule">
+            <div class="part-title">商品介绍</div>
+            <div class="part-box">
+                <div id="scale-wei-wd" style="width: 418px; height: 15493.3px; margin: 5px; overflow: hidden;">
+                    <div class="scale-box" id="scale-wei2-wd"
+                        style="transform-origin: 0px 0px 0px; transform: scale(0.557333); font-size: 22px;">
+                        <div class="detail_info_wrap">
+
+                            <div style="word-wrap: break-word;word-break:break-all;" class="detail_info_wrap">
+                                <div style="text-align: center;"><img src="70479667894_files/6a056fed35b38701.jpg"
+                                        alt=""><img src="70479667894_files/42ba0b4f5236b901.jpg" alt=""><img
+                                        src="70479667894_files/ea23e739aec7df45.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/c48e9f210e60329d.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/601f482a5a05fdb9.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/3f794b160ee8a42f.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/abdbabc99abce64c.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/5672991c015c10e1.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/905fec1f9146ce48.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/dc11d861e1dfecc9.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/69db350febb46eb3.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/729cd57a8544add1.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/1492d2c4b569dd1a.jpg" alt=""><img
+                                        style="width:auto;height:auto;max-width:100%;"
+                                        src="70479667894_files/9648927cd514238a.jpg" alt=""><br></div>
+                                <p><br></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="part-box" id="Packing_salesServiceModule">
+            <div class="part-title">服务</div>
+            <input type="hidden" name="isWareShouhNew" id="isWareShouhNew" value="1">
+            <link type="text/css" rel="stylesheet" href="70479667894_files/combine.css">
+            <script type="application/javascript" src="70479667894_files/combine.js"></script>
+
+            <div class="common-wrapper index" id="common-wrapper">
+                <ul>
+                    <li class="floor-item-block">
+                        <div class="title-block has-bg-line-solid">
+                            <span class="q-split-line"></span>
+                            <span class="title">温馨提示</span>
+                            <span class="q-split-line"></span>
+                        </div>
+                    </li>
+                    <div class="content-block">
+                        <style>
+                            .ssd-module-mobile-wrap.ssd-format-wrap {
+                                position: relative;
+                                margin: 0 auto;
+                                width: 750px
+                            }
+
+                            .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-activity {
+                                max-height: 380px;
+                                overflow: hidden
+                            }
+
+                            .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-shopPrior {
+                                max-height: 900px;
+                                overflow: hidden
+                            }
+
+                            .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-authorize {
+                                max-height: 300px;
+                                overflow: hidden
+                            }
+
+                            .ssd-module-mobile-wrap.ssd-format-wrap .ssd-floor-reminder {
+                                max-height: 4000px;
+                                overflow: hidden
+                            }
+                        </style>
+                        <div id="scale-yan" style="width: 418px; height: 1640.79px; margin: 5px; overflow: hidden;">
+                            <div class="scale-box" id="scale-yan2"
+                                style="transform-origin: 0px 0px 0px; transform: scale(0.557333); font-size: 22px;">
+                                <div class="ssd-module-mobile-wrap ssd-format-wrap">
+                                    <div class="ssd-format-floor ssd-floor-reminder">
+                                        <div skucode="100011" class="ssd-floor-type" data-type="reminder"></div>
+                                        <div id="zbViewFloorHeight_reminder" value="2943"></div>
+                                        <img src="70479667894_files/f1c3e2676eacf619.jpg" alt="" width="750"
+                                            height="2944">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <li class="floor-item-block">
+                        <div class="title-block has-bg-line-solid">
+                            <span class="q-split-line"></span>
+                            <span class="title">包装清单</span>
+                            <span class="q-split-line"></span>
+                        </div>
+
+                        <div class="content-block">
+                            手机x1；电池（内置）x1；快速指南x1；充电器x1；三包凭证x1；Type-C 数据线x1；取卡针x1；TPU保护壳x1；TP保护膜（出厂已粘贴）x1；
+                        </div>
+                    </li>
+                    <li class="floor-item-block">
+                        <div class="title-block has-bg-line-solid">
+                            <span class="q-split-line"></span>
+                            <span class="title">价格说明</span>
+                            <span class="q-split-line"></span>
+                        </div>
+
+                        <div class="content-block">
+                            1、京东价：京东价为商品的销售价，是您最终决定是否购买商品的依据。<br>
+                            2、划线价：商品展示的划横线价格为参考价，并非原价，该价格可能是品牌专柜标价、商品吊牌价或由品牌供应商提供的正品零售价（如厂商指导价、建议零售价
+                            等）或其他真实有依据的价格；由于地区、时间的差异性和市场行情波动，品牌专柜标价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。<br>
+                            3、折扣：如无特殊说明，折扣指销售商在原价、或划线价（如品牌专柜标价、商品吊牌价、厂商指导价、厂商建议零售价）等某一价格基础上计算出的优惠比例或优惠金额；如有疑问，您可在购买前联系销售商进行咨询。<br>
+                            4、异常问题：商品促销信息以商品详情页“促销”栏中的信息为准；商品的具体售价以订单结算页价格为准；如您发现活动商品售价或促销信息有异常，建议购买前先联系销售商咨询。<br>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function outputsize() {
+            if (typeof window.flutter_inappwebview !== "undefined" && typeof window.flutter_inappwebview.callHandler !== "undefined")
+               window.flutter_inappwebview.callHandler('newHeight', document.getElementById("pageMain").offsetHeight);
+            }
+          new ResizeObserver(outputsize).observe(pageMain)
+        </script>
+    <script type="text/javascript" src="70479667894_files/jssdk.js"></script>
+    <script type="text/javascript" src="70479667894_files/video.js"></script>
+    <script type="text/javascript" src="70479667894_files/unify.js"></script>
+    <script type="text/javascript" src="70479667894_files/swiper.js"></script>
+    <script type="text/javascript" src="70479667894_files/jd-profiler.js"></script>
+
+
+
+    <script type="application/javascript">
+        var clickPoint = function () {
+            document.getElementById("adId").addEventListener("click", function (e) {
+                if ((e.target && e.target.nodeName.toLowerCase() == "img") || (e.target.parentNode && e.target.parentNode.tagName.toLowerCase() == "a")) {
+                    var url = e.target.parentNode.href;
+                    adClick("MProductdetail_ad", url);
+                }
+            });
+        }
+        var showPoint = function () {
+            var atag = document.getElementById("adId").getElementsByTagName("a");
+            if (atag.length > 0) {
+                for (i = 0; i < atag.length; i++) {
+                    adClick("MProductdetail_ad_Expo", atag.href);
+                }
+            }
+        }
+        var adClick = function (report_eventid, page_param) {
+            try {
+                var click = new MPing.inputs.Click(report_eventid);
+                click.event_param = page_param;
+                var mping = new MPing();
+                mping.send(click);
+            } catch (e) { }
+        };
+    </script>
+
+
+
+</body>
+
+</html>

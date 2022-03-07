@@ -110,7 +110,34 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - assets/datas/
+    - assets/datas-mock/
+    - assets/lottiefiles/
+    - assets/images/
+    - assets/images/account/
+    - assets/images/else/
+    - assets/images/error/
+    - assets/images/guide/
+    - assets/images/login/
+    - assets/images/mainframe/
+    - assets/images/order/
+    - assets/images/order/dark/
+    - assets/images/product/
+    - assets/images/start/
+    - assets/images/store/
+    - assets/images/loading/
+    - assets/images/home/
+    - assets/images/news/
+    - assets/images/discover/
+    - assets/images/navigationBar/
 
+    # - assets/images/2.0x/
+    # - assets/images/3.0x/
+    - assets/userful_images/
+    - assets/htmls/
+    - assets/htmls/product/
+    - assets/htmls/product/70479667894_files/
   # To add Flutter specific assets to your application, add an assets section,
   # like this:
   # assets:
@@ -142,7 +169,13 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-
+  fonts:
+    - family: PoiretOne
+      fonts:
+        - asset: assets/fonts/PoiretOne-Regular.ttf
+    - family: ZCOOLQingKeHuangYou
+      fonts:
+        - asset: assets/fonts/ZCOOLQingKeHuangYou-Regular.ttf
 
   # This section identifies your Flutter project as a module meant for
   # embedding in a native host app.  These identifiers should _not_ ordinarily

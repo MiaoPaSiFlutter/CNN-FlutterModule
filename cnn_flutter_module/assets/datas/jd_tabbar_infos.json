@@ -1,0 +1,31 @@
+{
+	"abtest": "1",
+	"code": "0",
+	"tabs": [
+		{
+			"title": "首页",
+			"norImg": "images/tabbar-home_24x24_",
+			"selImg": "images/tabbar-home_24x24_"
+		},
+		{
+			"title": "分类",
+        	"norImg": "images/tabbar-ing_24x24_",
+        	"selImg": "images/tabbar-ing_24x24_"
+		},
+		{
+			"title": "发现",
+			"norImg": "images/tabbar-qa_24x24_",
+			"selImg": "images/tabbar-qa_24x24_"
+		},
+		{
+			"title": "购物车",
+			"norImg": "images/tabbar-person_24x24_",
+			"selImg": "images/tabbar-person_24x24_"
+		},
+		{
+			"title": "我的",
+			"norImg": "images/tabbar-person_24x24_",
+			"selImg": "images/tabbar-person_24x24_"
+		}
+	]
+}

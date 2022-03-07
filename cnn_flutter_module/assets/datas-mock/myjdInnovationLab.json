@@ -1,0 +1,254 @@
+{
+	"code": 0,
+	"floors": [],
+	"others": {
+		"notify": {
+			"expoMta": {
+				"eventId": "MyJDLaboratory_NoticeExpo",
+				"eventParam": "",
+				"pageId": "MyJD_Laboratory"
+			},
+			"functionId": "innovationnotify",
+			"clickMta": {
+				"eventId": "MyJDLaboratory_IconMyJDLaboratory_Notice",
+				"eventParam": "",
+				"pageLevel": "",
+				"pageId": "MyJD_Laboratory"
+			},
+			"showRedDot": 0,
+			"title": "创新实验室投入使用啦，快来呀",
+			"updateRedDotTime": 1556082000000,
+			"jumpInfo": {
+				"jumpType": 1,
+				"needLogin": 1,
+				"jumpUrl": ""
+			}
+		},
+		"home": {
+			"expoMta": {
+				"eventId": "MyJDLaboratory_IconExpo",
+				"eventParam": "1#AR试试_2#3D商详_3#京东家频道_4#肌肤检测",
+				"pageId": "MyJD_Laboratory"
+			},
+			"backImg": "https://img13.360buyimg.com/devfe/jfs/t1/39473/29/3049/242982/5cc3c453E7c20a39b/624ef68eeffff726.png",
+			"functionId": "innovationhome",
+			"lightImg": "https://img20.360buyimg.com/devfe/jfs/t1/39916/3/2982/687665/5cc3c49aE84a8d844/81504e9e9f59652f.png",
+			"functions": [{
+				"homePart": {
+					"funcImgBig": "https://img13.360buyimg.com/devfe/jfs/t1/52631/25/250/18381/5cd3ecadEb2a73d42/49b3452e7cb84149.png",
+					"showRedDot": 0,
+					"title": {
+						"color": "#ffffff",
+						"value": "AR试试"
+					},
+					"updateRedDotTime": 1554872400000,
+					"jumpInfo": {
+						"jumpType": 2,
+						"needLogin": 0,
+						"jumpUrl": "openApp.jdMobile://virtual?params={\"makeupType\":\"20\",\"des\":\"armakeup\",\"category\":\"jump\"}"
+					},
+					"funcImgSmall": "https://img10.360buyimg.com/devfe/jfs/t1/53387/3/239/14020/5cd3ec8cE446683f5/8b3b6c6047567c1c.png"
+				},
+				"functionId": "arshishi",
+				"clickMta": {
+					"eventId": "MyJDLaboratory_Icon",
+					"eventParam": "1#AR试试",
+					"pageLevel": "",
+					"pageId": "MyJD_Laboratory"
+				},
+				"morePart": {
+					"brief": {
+						"color": "#262626",
+						"value": "利用AR技术及人脸检测技术，将手机的前置摄像头获取的画面转换成一面化妆镜，捕捉人脸实时面部表情，将彩妆实时“涂抹”在用户脸部的准确位置以及匹配合适的美瞳，让用户便捷、快速的切换体验商品，挑选合适自己的色号。"
+					},
+					"simpleImg": ["https://img10.360buyimg.com/devfe/jfs/t1/35005/1/10088/487414/5cd3c38eE25d45cb9/31815f85fee0fcbd.png", "https://img30.360buyimg.com/devfe/jfs/t1/57446/8/256/699223/5cd3c3b3Eadc8afb3/d04efc0dffaad7bc.png"],
+					"buttonLeft": {
+						"clickMta": {
+							"eventId": "MyJDModuleIntroduce_Suggest",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_ModuleIntroduce"
+						},
+						"title": {
+							"color": "#ffffff",
+							"value": "功能建议"
+						},
+						"jumpInfo": {
+							"jumpType": 4,
+							"needLogin": 0,
+							"jumpUrl": "router://JDMyJdModule/showFeedbackVC"
+						}
+					},
+					"switchFlag": 0,
+					"title": {
+						"color": "#262626",
+						"value": "AR试试"
+					},
+					"headTitle": {
+						"color": "#ffffff",
+						"value": "新功能介绍"
+					},
+					"switchRemark": "打开开关后可在相应位置直接使用",
+					"funcImgSmall": "https://img10.360buyimg.com/devfe/jfs/t1/41348/16/12766/5866/5d5e57fbE3c885022/1e803294cfdc1008.png",
+					"buttonRight": {
+						"clickMta": {
+							"eventId": "MyJDModuleIntroduce_Use",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_ModuleIntroduce"
+						},
+						"title": {
+							"color": "#ffffff",
+							"value": "去使用"
+						},
+						"jumpInfo": {
+							"jumpType": 2,
+							"needLogin": 0,
+							"jumpUrl": "openApp.jdMobile://virtual?params={\"makeupType\":\"20\",\"des\":\"armakeup\",\"category\":\"jump\"}"
+						}
+					}
+				}
+			}, {
+				"homePart": {
+					"funcImgBig": "https://img30.360buyimg.com/devfe/jfs/t1/34685/37/10023/20648/5cd282ecE4cc73520/f4ac67b97b56cc8c.png",
+					"showRedDot": 0,
+					"title": {
+						"color": "#ffffff",
+						"value": "3D商详"
+					},
+					"updateRedDotTime": 1556082000000,
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://prodev.m.jd.com/mall/active/4NjVT1x5BqzvtcqNHfH8eTGRKLoS/index.html?babelChannel=ttt2"
+					},
+					"funcImgSmall": "https://img30.360buyimg.com/devfe/jfs/t1/72763/24/16/15624/5cd27e8eE0388b284/1a215b05b09b36d6.png"
+				},
+				"functionId": "3Dshangxiang",
+				"clickMta": {
+					"eventId": "MyJDLaboratory_Icon",
+					"eventParam": "2#3D商详",
+					"pageLevel": "",
+					"pageId": "MyJD_Laboratory"
+				},
+				"morePart": {
+					"brief": {
+						"color": "#262626",
+						"value": "为你提供全新的商品浏览方式。借助3D手段打破照片和视频的限制，你可以从各个角度了解商品外观，同时动态呈现你感兴趣的内容（如功能、特点、细节和使用说明等）。"
+					},
+					"simpleImg": ["https://img20.360buyimg.com/devfe/jfs/t10291/307/2721493201/410888/e0be03eb/5cd55eb3N998d926d.png", "https://img30.360buyimg.com/devfe/jfs/t10507/347/2697790789/471937/873baf42/5cd55ef0Ne6d75452.png"],
+					"buttonLeft": {
+						"clickMta": {
+							"eventId": "MyJDModuleIntroduce_Suggest",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_ModuleIntroduce"
+						},
+						"title": {
+							"color": "#ffffff",
+							"value": "功能建议"
+						},
+						"jumpInfo": {
+							"jumpType": 4,
+							"needLogin": 0,
+							"jumpUrl": "router://JDMyJdModule/showFeedbackVC"
+						}
+					},
+					"switchFlag": 0,
+					"title": {
+						"color": "#262626",
+						"value": "3D商详"
+					},
+					"headTitle": {
+						"color": "#ffffff",
+						"value": "新功能介绍"
+					},
+					"switchRemark": "打开开关后可在相应位置直接使用",
+					"funcImgSmall": "https://img11.360buyimg.com/devfe/jfs/t1/56200/11/17/6309/5cd182b9E9d30baef/30dceaa3dd5922ab.png",
+					"buttonRight": {
+						"clickMta": {
+							"eventId": "MyJDModuleIntroduce_Use",
+							"eventParam": "",
+							"pageLevel": "",
+							"pageId": "MyJD_ModuleIntroduce"
+						},
+						"title": {
+							"color": "#ffffff",
+							"value": "去使用"
+						},
+						"jumpInfo": {
+							"jumpType": 1,
+							"needLogin": 0,
+							"jumpUrl": "https://prodev.m.jd.com/mall/active/4NjVT1x5BqzvtcqNHfH8eTGRKLoS/index.html?babelChannel=ttt2"
+						}
+					}
+				}
+			}, {
+				"homePart": {
+					"funcImgBig": "https://img30.360buyimg.com/mobilecms/jfs/t1/99731/30/9375/19572/5e0dee7bEb02a7e96/9fb62dc000e6cbdd.png",
+					"showRedDot": 0,
+					"title": {
+						"color": "#ffffff",
+						"value": "京东家频道"
+					},
+					"updateRedDotTime": 1554872400000,
+					"funcImgSmall": "https://img30.360buyimg.com/mobilecms/jfs/t1/91751/32/9341/15299/5e0de8d0E54ec2dc3/54dd3deafab5a21c.png",
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://householdpro.jd.com/jdj-two/index.html"
+					}
+				},
+				"functionId": "jingdongjia",
+				"clickMta": {
+					"eventId": "MyJDLaboratory_Icon",
+					"eventParam": "3#京东家频道",
+					"pageLevel": "",
+					"pageId": "MyJD_Laboratory"
+				}
+			}, {
+				"homePart": {
+					"funcImgBig": "https://img30.360buyimg.com/jdmonitor/jfs/t1/121315/19/18725/28590/5fb33d60E8be4e19a/860f29093420e2f5.png",
+					"showRedDot": 0,
+					"title": {
+						"color": "#ffffff",
+						"value": "肌肤检测"
+					},
+					"updateRedDotTime": 1554872400000,
+					"funcImgSmall": "https://img30.360buyimg.com/jdmonitor/jfs/t1/147416/22/14661/28590/5fb34157Ee50537bd/626979392ae1a11f.png",
+					"jumpInfo": {
+						"jumpType": 1,
+						"needLogin": 0,
+						"jumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/3N87pJVacP4HcGWwftpRmKMcwYq9/index.html?categoryId=1"
+					}
+				},
+				"functionId": "jifujiance",
+				"clickMta": {
+					"eventId": "MyJDLaboratory_Icon",
+					"eventParam": "4#肌肤检测",
+					"pageLevel": "",
+					"pageId": "MyJD_Laboratory"
+				}
+			}],
+			"title": {
+				"color": "#ffffff",
+				"value": "功能实验室"
+			},
+			"feedbackInfo": {
+				"feedbackImg": "https://gongnengfankui.jpg",
+				"jumpInfo": {
+					"jumpType": 4,
+					"needLogin": 0,
+					"jumpUrl": "router://JDMyJdModule/showFeedbackVC"
+				}
+			},
+			"safeInfo": {
+				"safeImg": "https://img30.360buyimg.com/devfe/jfs/t1/40865/5/770/11379/5cc3c53cE5eee3c2e/37d597cc551311f8.png",
+				"safeSub": {
+					"color": "#BFBFBF",
+					"value": "暂没有可体验的新功能"
+				}
+			}
+		}
+	}
+}

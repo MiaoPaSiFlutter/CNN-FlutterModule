@@ -1,0 +1,41 @@
+{
+	"code": "0",
+	"test": {
+		"title": "体验说明：",
+		"content": "1.安装体验新版本需先安装TestFlight（该APP是苹果官方工具，请放心使用）。 \n2.若想取消体验当前新版本，请至App Store手动进行更新。"
+	},
+	"log": {
+		"title": "更新日志：",
+		"content": "京东家庭号，重磅来袭\n亲密卡、帮我付，家庭清单和好物\n更有无门槛红包、快捷聊邀你体验"
+	},
+	"custom": [],
+	"countdown": {
+		"time": "3600",
+		"content": "后您将失去体验资格，请尽快安装哦"
+	},
+	"remark": "灰度-升级",
+	"type": "2",
+	"title": "V8.5.11版本抢先体验",
+	"version": "8.5.11",
+	"customize": {},
+	"url": {
+		"tf": "5TI7Wtk2vx5snx4CFwF098iRztJ+1/mDe8ZCA1GaxEghKtEbvRS9AN+B1Ue5H8D6",
+		"icon": "http://img30.360buyimg.com/mobileupgrade/jfs/t1/118164/14/2843/22774/5ea3e503E3f25d2ab/f9848c619b64a1aa.png",
+		"store": "https://itunes.apple.com/cn/app/testflight/id899247664?mt=8",
+		"isEncrypt": true
+	},
+	"popup": {
+		"image": "http://img30.360buyimg.com/mobileupgrade/jfs/t1/116944/1/2736/70006/5ea3e4fcE93ee37b5/3b47081d0a264d99.png",
+		"type": "3"
+	},
+	"build": "167199",
+	"subtitle": "邀请您提前体验新版，让购物又有新惊喜",
+	"step": {
+		"firstTitle": "安装 TestFlight",
+		"firstContent": "体验新版本须安装TestFlight工具哦",
+		"secondTitle": "回到本页，安装体验版",
+		"title": "新版本体验步骤：",
+		"secondContent": "TestFlight安装后才能安装体验版哦"
+	},
+	"state": "301"
+}

@@ -1,0 +1,931 @@
+{
+    "floorList": [{
+        "floorId": 28,
+        "floorName": "个护清洁",
+        "showHead": 0,
+        "rightText": "",
+        "style": "0901",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"28\"}",
+        "content": [{
+            "id": 37,
+            "materialId": "611",
+            "name": "洗发水",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/101643/30/146/5410/5da845faEeff20b6a/2bd390dec9adafec.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "洗发水"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"611\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2619",
+            "name": "抹布/百洁布",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/99545/9/12005/14550/5e412106E55bf8e13/eec9516d11ed0ca4.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "抹布/百洁布"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2619\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2612",
+            "name": "其它用品",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/106672/21/12097/26635/5e411f37E40b50a1f/f5d85e5b0534e3a3.png!q70.jpg",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "其它清洁用品"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2612\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "798",
+            "name": "牙膏",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/69944/19/13361/5805/5da84354E6a4b1ad0/b85485f7ed0291b9.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "牙膏"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"798\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2591",
+            "name": "抽纸",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/86712/4/11988/11357/5e411255E2e8c25aa/0d5eea70fea11174.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "抽纸"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2591\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2609",
+            "name": "家电清洁",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/96201/29/12132/45895/5e411affEf1ef9c46/382f7ef81c6c48fc.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "家电清洁用品"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2609\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2592",
+            "name": "卷纸",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/96749/16/12057/14536/5e4113a5Ecede14e4/8dd1d04968f27960.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "卷纸"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2592\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "620",
+            "name": "牙刷",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/83365/23/13150/33508/5da843deE9f2f32f2/d020b4c606e387ad.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "牙刷"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"620\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "743",
+            "name": "发蜡",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89441/16/155/4516/5da830a6E267aa3fe/aaeeaca1189c82e5.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "发蜡"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"743\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2617",
+            "name": "拖把/扫把",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/101139/33/12008/8262/5e41209eEe3c85290/f44b5d14620de077.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "拖把/扫把"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2617\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "625",
+            "name": "沐浴露",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/47813/22/13818/3223/5da83741Eaad36516/c91e87a5d8f83c8c.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "沐浴露"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"625\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2616",
+            "name": "垃圾袋/桶",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/94003/18/11893/13766/5e41206cE6f684ddc/1b4cfc5d9c675e49.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "垃圾袋/垃圾桶"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2616\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2611",
+            "name": "地板清洁剂",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/107641/37/5779/29016/5e411efbEbffafaa6/8f8a1fd03970ee8c.png!q70.jpg",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "地板清洁剂"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2611\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 37,
+            "materialId": "2595",
+            "name": "厨房纸",
+            "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/99655/30/11900/30665/5e411488E9e875dcf/ba0ebc53f561fb1e.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "3"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "厨房纸"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#e9f9e7da9797a0eae84e188752014804b657e9f7\",\"materialId\":\"2595\",\"sku\":\"\",\"status\":0}"
+            },
+            "iconType": 0
+        }, {
+            "id": 0,
+            "name": "更多分类",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+            "jump": {
+                "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+            },
+            "iconType": 1
+        }],
+        "filteredCateIds": "611,2619,2612,798,2591,2609,2592,620,743,2617,625,2616,2611,2595",
+        "catePoolId": 111,
+        "cid": "379",
+        "pcid": "235"
+    }, {
+        "floorId": 487,
+        "floorName": "一切二（正式）",
+        "showHead": 0,
+        "rightText": "",
+        "style": "0911",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"487\"}",
+        "content": [{
+            "id": 6989,
+            "materialId": "6989",
+            "jump": {
+                "des": "m",
+                "params": {
+                    "url": "https://pro.m.jd.com/mall/active/263PPAi5FxW9BphVPUTKEx3UChCw/index.html?babelChannel=ttt2"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"materialId\":\"6989\",\"moduleid\":\"6989\",\"sku\":\"\"}"
+            },
+            "materialType": "1",
+            "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/91158/13/17323/157511/614a988cE4f0e91e6/8a8f486815da0e5d.png!q70.jpg"
+        }, {
+            "id": 6990,
+            "materialId": "6990",
+            "jump": {
+                "des": "m",
+                "params": {
+                    "url": "https://prodev.m.jd.com/mall/active/AaoLzcoa6BjoCkqjgRj8fsandPc/index.html"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"materialId\":\"6990\",\"moduleid\":\"6990\",\"sku\":\"\"}"
+            },
+            "materialType": "1",
+            "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/92898/37/18651/139180/614fe2d0E6f6c657e/59d3a970e0fa3a08.png!q70.jpg"
+        }]
+    }, {
+        "floorId": 21,
+        "floorName": "限时抢购",
+        "showHead": 3,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/78223/7/13238/3925/5da86fc0E8404f0e5/e3ba0640a3ce4c04.png!q70.jpg",
+        "rightImg": "",
+        "rightText": "更多",
+        "rightJump": {
+            "des": "miaosha",
+            "params": {
+                "categorys": "15901%2C%2C%2316750%2C%2C",
+                "secKillKeyTabType": "seckill",
+                "topSkus": "10027041983656,10026309067490,10025269541044"
+            },
+            "srv": "",
+            "srvJson": "{\"materialId\":\"\"}"
+        },
+        "style": "0902",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0902\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"21\"}",
+        "content": [{
+            "id": 27,
+            "materialId": "10027041983656",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/153069/8/20651/476400/603c8660E0983bb86/7467f23b33ca4932.png!q70.jpg",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10027041983656"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10027041983656\"}"
+            },
+            "jdPrice": "99.00",
+            "sprice": "93.90",
+            "saleRatio": "26",
+            "promotionTag": "32天最低价"
+        }, {
+            "id": 27,
+            "materialId": "10026309067490",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/150792/2/15784/352184/600395f1E83e469d4/ab2b195f49ed6442.png!q70.jpg",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10026309067490"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10026309067490\"}"
+            },
+            "jdPrice": "100.00",
+            "sprice": "62.91",
+            "saleRatio": "33",
+            "promotionTag": "253天最低价"
+        }, {
+            "id": 27,
+            "materialId": "10025269541044",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/137972/20/17718/46423/5fd0d2b0Eb69136b5/e41a2dda9b05f022.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10025269541044"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10025269541044\"}"
+            },
+            "jdPrice": "88.00",
+            "sprice": "62.00",
+            "saleRatio": "23",
+            "promotionTag": "271天最低价"
+        }, {
+            "id": 27,
+            "materialId": "25908071699",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/50108/9/8887/115558/5d6634c5E0e8734fe/fa3bc184dbcb7c08.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "25908071699"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"25908071699\"}"
+            },
+            "jdPrice": "64.00",
+            "sprice": "47.90",
+            "saleRatio": "34",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 27,
+            "materialId": "10028891406449",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/175720/10/2401/83074/606d07c0Edcc2c1cc/dd3ab5df8071b272.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10028891406449"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10028891406449\"}"
+            },
+            "jdPrice": "99.00",
+            "sprice": "56.70",
+            "saleRatio": "24",
+            "promotionTag": "167天最低价"
+        }, {
+            "id": 27,
+            "materialId": "10031554645233",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/172491/30/11524/289800/60ae2c60E2f318942/7d41c940d39db5da.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10031554645233"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10031554645233\"}"
+            },
+            "jdPrice": "98.00",
+            "sprice": "69.00",
+            "saleRatio": "21",
+            "promotionTag": "32天最低价"
+        }, {
+            "id": 27,
+            "materialId": "10028599425748",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/170413/10/15782/90913/6065261cE9d388c37/1d8686ece901dd5b.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10028599425748"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10028599425748\"}"
+            },
+            "jdPrice": "145.00",
+            "sprice": "98.80",
+            "saleRatio": "24",
+            "promotionTag": "179天最低价"
+        }, {
+            "id": 27,
+            "materialId": "69612287475",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/183926/39/11720/86194/60d9af31Ea2e932e2/da0e042878059756.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "69612287475"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"69612287475\"}"
+            },
+            "jdPrice": "129.00",
+            "sprice": "89.00",
+            "saleRatio": "30",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 27,
+            "materialId": "27720905777",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t19780/50/2105507237/379783/b8ec5c98/5ae5690dN147fe245.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "27720905777"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"8\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"27720905777\"}"
+            },
+            "jdPrice": "12.00",
+            "sprice": "10.36",
+            "saleRatio": "30",
+            "promotionTag": "1年最低价"
+        }, {
+            "id": 27,
+            "materialId": "10025259317583",
+            "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/138345/4/17662/104656/5fd0974dE14a5a95f/94162b200fb1852d.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productDetail",
+                "params": {
+                    "skuId": "10025259317583"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"9\",\"biinfo\":\"1#2#9da96b4bc826f0432303db41578e8e6c55b52814-100-621213#16153040\",\"materialId\":\"10025259317583\"}"
+            },
+            "jdPrice": "50.00",
+            "sprice": "29.80",
+            "saleRatio": "31",
+            "promotionTag": "291天最低价"
+        }, {
+            "id": 27,
+            "name": "限时抢购",
+            "jump": {
+                "des": "miaosha",
+                "params": {
+                    "categorys": "15901%2C%2C%2316750%2C%2C",
+                    "secKillKeyTabType": "seckill",
+                    "topSkus": "10027041983656,10026309067490,10025269541044"
+                },
+                "srv": ""
+            },
+            "type": 1
+        }]
+    }, {
+        "floorId": 389,
+        "floorName": "品牌精选",
+        "showHead": 2,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/86441/37/15341/4595/5e6f5562E66a20a89/0aaa45742878a5a5.png!q70.jpg",
+        "rightText": "",
+        "style": "0903",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0903\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"389\"}",
+        "content": [{
+            "id": 1123,
+            "materialId": "34036",
+            "name": "洁比世",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/106324/19/1133/8001/5dbaab2eEf72741af/541d9ede7d6b6365.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "洁比世"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"34036\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "20058",
+            "name": "优洁士",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t3163/357/2452961786/2847/bad2eb7f/57e1ef75Ne898a2d9.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "优洁士"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"20058\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "186088",
+            "name": "MISTOLIN",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/97234/29/1174/6918/5dbab994E103790e1/d447bdf21d637789.png!q70.jpg",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "MISTOLIN"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"186088\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "149385",
+            "name": "访客",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t10729/119/2940530690/6132/36c30986/5cdbb30fN1f899e00.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "访客"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"149385\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "216331",
+            "name": "力仕康",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/2389/22/13579/3960/5bd920dfE53c14253/09bfb180dbfde974.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "力仕康"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"216331\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "6145",
+            "name": "地球卫士",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/99001/2/13180/3124/5e563991Ea04ef35f/0a5bbd79ad1d1281.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "地球卫士"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"6145\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "4",
+            "name": "777",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1897/352/1004985325/4647/7dccb12e/563c0ca2Nd9337f8d.png!q70.jpg",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "777"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"4\"}"
+            }
+        }, {
+            "id": 1123,
+            "materialId": "119818",
+            "name": "无比滴",
+            "img": "https://m.360buyimg.com/mobilecms/jfs/t1/135037/20/19391/4404/5fd331a3Ec5705847/63f856a887fc15ff.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "productList",
+                "params": {
+                    "from": "search",
+                    "clearBodyMaps": [{
+                        "key": "searchSource",
+                        "value": "2"
+                    }, {
+                        "key": "homeRequireAd",
+                        "value": "1"
+                    }, {
+                        "key": "categorySet",
+                        "value": "15901,16750"
+                    }, {
+                        "key": "stock",
+                        "value": "1"
+                    }],
+                    "keyWord": "无比滴"
+                },
+                "srv": "",
+                "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#5c72b97f1693bcdaea37955de6ae88991af34eab-100-621309#\",\"materialId\":\"119818\"}"
+            }
+        }],
+        "showIconName": 1
+    }, {
+        "floorId": 215,
+        "floorName": "个护-聚合榜单",
+        "showHead": 0,
+        "rightText": "",
+        "style": "0910",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0910\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"215\"}",
+        "content": [{
+            "id": 314,
+            "materialId": "5068",
+            "name": "热卖榜",
+            "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/137067/10/3560/230998/5efef5caEf8624d8c/cf263fe5977c9d8f.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "jdreactcommon",
+                "params": {
+                    "ishidden": true,
+                    "transparentenable": true,
+                    "appname": "JDReactRankingList",
+                    "param": {
+                        "detailPageType": "5",
+                        "rankType": "10",
+                        "contentId": "5068",
+                        "fromSkuId": "71273553033"
+                    },
+                    "fromName": "",
+                    "modulename": "JDReactRankingList"
+                },
+                "srv": "{\"loc\":\"0\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"5068\",\"sku\":\"71273553033\",\"type\":\"1\",\"categoryId\":\"16779\"}",
+                "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"5068\",\"sku\":\"71273553033\",\"type\":\"1\",\"categoryId\":\"16779\"}"
+            },
+            "jdPrice": "59",
+            "saleNumText": "34.2万人买过",
+            "rankName": "美白沐浴露",
+            "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/104205/17/7224/7214/5dfadda8E46085706/6f9b521ad472476f.png!q70.jpg",
+            "bgColor": "#D5AA79,#FFFF00"
+        }, {
+            "id": 315,
+            "materialId": "5091",
+            "name": "热卖榜",
+            "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/193888/34/21001/181106/612c9632E52ded0e6/a69aa62a0cc8e84d.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "jdreactcommon",
+                "params": {
+                    "ishidden": true,
+                    "transparentenable": true,
+                    "appname": "JDReactRankingList",
+                    "param": {
+                        "detailPageType": "5",
+                        "rankType": "10",
+                        "contentId": "5091",
+                        "fromSkuId": "16384377352"
+                    },
+                    "fromName": "",
+                    "modulename": "JDReactRankingList"
+                },
+                "srv": "{\"loc\":\"1\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"5091\",\"sku\":\"16384377352\",\"type\":\"1\",\"categoryId\":\"16756\"}",
+                "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"5091\",\"sku\":\"16384377352\",\"type\":\"1\",\"categoryId\":\"16756\"}"
+            },
+            "jdPrice": "61.6",
+            "saleNumText": "1447.5万人买过",
+            "rankName": "蓬松洗发水",
+            "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/102601/8/7391/7572/5dfaebc4E4fadd807/2b23418f5a21cfaf.png!q70.jpg",
+            "bgColor": "#B68367"
+        }, {
+            "id": 316,
+            "materialId": "9067",
+            "name": "热卖榜",
+            "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/196420/30/12587/350932/60e94481E5275139e/f7a455a8040e3cf8.jpg!q70.jpg.dpg.webp",
+            "jump": {
+                "des": "jdreactcommon",
+                "params": {
+                    "ishidden": true,
+                    "transparentenable": true,
+                    "appname": "JDReactRankingList",
+                    "param": {
+                        "detailPageType": "5",
+                        "rankType": "10",
+                        "contentId": "9067",
+                        "fromSkuId": "10028493287378"
+                    },
+                    "fromName": "",
+                    "modulename": "JDReactRankingList"
+                },
+                "srv": "{\"loc\":\"2\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"9067\",\"sku\":\"10028493287378\",\"type\":\"1\",\"categoryId\":\"15925\"}",
+                "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#98abbf6a2009b6eccf1de00d0eefce4cd93c0e83-100-621177#16124014\",\"materialId\":\"9067\",\"sku\":\"10028493287378\",\"type\":\"1\",\"categoryId\":\"15925\"}"
+            },
+            "jdPrice": "23.8",
+            "saleNumText": "1364.6万人买过",
+            "rankName": "洗衣粉榜",
+            "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/100030/15/7310/7214/5dfaebcaE1235b2a1/f02fb14d8c497b3d.png!q70.jpg",
+            "bgColor": "#D5AA79"
+        }],
+        "showRankType": 1
+    }, {
+        "floorId": 22,
+        "floorName": "京挑惠选",
+        "showHead": 2,
+        "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/68794/11/13242/14395/5da87067E59c4956b/301fecf12422639a.png!q70.jpg",
+        "rightText": "",
+        "style": "0906",
+        "srvJson": "{\"classfyid\":\"379\",\"styleid\":\"0906\",\"floorLoc\":\"5\",\"poolid\":\"41\",\"pid\":\"101\",\"classfynum\":\"8\",\"floorIdDetail\":\"22\"}",
+        "content": []
+    }],
+    "code": "0",
+    "background": {},
+    "pid": "101"
+}

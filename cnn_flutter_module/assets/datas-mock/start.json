@@ -1,0 +1,73 @@
+{
+  "images": [
+    [{
+      "clickUrl": "https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9wcm9kZXYubS5qZC5jb20vbWFsbC9hY3RpdmUvMkpEaUJ5N1VBVVRnV2VUTXluTWh1a244R2V0ZS9pbmRleC5odG1s&log=LiO7MGpUHYn7QsOblex4V6OGyVz2jQUu350CsuTbS3p0KhpevsCyBzRBwgXklYdoLeeMtG1TRuKiBJuGTD4RZPvxgENoUgG9xYzFUwKTZ295wtHaMeMr6jIAixvYy7N5tHBv9AbQeSi3O9T1TrDZjBZ_xeHnglZF9wr34CYuqQ1iz2WsJNE6IlS1CRyuK8ennK-SLCFpKUZ1vV99a6iAadlUSiLrF_7Y1CEEWAIqx7DqBYlDvV7kMddzXsktnrd3_Q2v5hECGqThEo8JLxgIbZBHjAz2XRJ0ZEOgMqa2zVyx68tHzfoaLY1n-zNPqaU_g4xFRTkkU0_4lR5d0p50pzROu7Y_H-jxw-fPzl6W3uZARBAxpLgTbwPIRlnntEQCj17hEcdjU3Fwi7YAP-jDU2adf9Fbh2JtdTzF1rfIw-fBFRyA7dpHfD9FcvU_4m5-oM-nMuPM9lXOyn_U0rfKkgasEeGIj2u23fpl36KHEgb216g622N0KkYFaPQbMb6fJvRzLXC9W6acU0kqVlv2na75OLv6OAyTRuL5aYXluLi2-u1EMii-wjCyz3BZno_i1VZblpICDaeonkeDPaaHI8VDkjncbp-0aNkja7pcLbKilk5fgjKW-ph3CfHxROuO5UehzQ-uIqjwEfxfNuOlAec9uiPP_i1hcFKYm9sK7YGWp9Tgbb8jXf2waA1Q5Trf26OiaGRaWsi5VPT_saKsTIvYiZ7tUCsWLXhL0ar8-pYxn4g5rjd5t9YIFIwMDy8NLU3xEJL7jpeplNQtS--vDFAkSqIsXxiXiY-L31CTrXvAO6qtzRp-3Jwy2aYqX2Dx5MJW4Ln-7Nr3qALzmRgbzHJ1z4PAAghb7pZRmrCtOUJfK6-pVsXywYKSjl2quRZBkBXJ0zikZt3kK1uTPqQwY9gBy8-2iIkfedZHo04M4l-7KO9gEfdb1HGF9-WX_1fHD4NS6w0SkFLiMGSAubPleHAEPH-AcBdNI9ONb35Q-PMBl0IocwLhVjclT6UfUck6ct7FFjp664PWHPH77mkhlxt72iDlWxaaIIlaPRYVOlcIsol8CDSi7M4QoxsyKqIjy1NY0rnd5OidbjzgLq2jKTM6QGKtVCes9-Y04d7vfx0&v=404&clicktype=1",
+      "extension_id": "{\"ad\":\"\",\"ch\":\"\",\"shop\":\"\",\"sku\":\"\",\"ts\":\"\",\"uniqid\":\"{\\\"material_id\\\":\\\"4853636870\\\",\\\"pos_id\\\":\\\"3976\\\",\\\"sid\\\":\\\"7c1d022d-4a76-4779-b1c4-034fcbd02b46\\\",\\\"type\\\":\\\"1\\\"}\"}",
+      "buttonText": "点击查看详情",
+      "showTimes": 2,
+      "ynRedirect": 2,
+      "groupId": 4853636870,
+      "referralsTime": "2021-09-27 23:59:59",
+      "exposalUrl": "https://im-x.jd.com/dsp/np?log=LiO7MGpUHYn7QsOblex4V6OGyVz2jQUu350CsuTbS3p0KhpevsCyBzRBwgXklYdoLeeMtG1TRuKiBJuGTD4RZPvxgENoUgG9xYzFUwKTZ295wtHaMeMr6jIAixvYy7N5tHBv9AbQeSi3O9T1TrDZjBZ_xeHnglZF9wr34CYuqQ1iz2WsJNE6IlS1CRyuK8ennK-SLCFpKUZ1vV99a6iAaYdu-jsebwES_O0xHmrbvTqZZaoTiVfPsWWcf2Ft08q6HTteOG1Uik2F5wEXja4Bjl7Arpb8sAR2aA7kPh8c1b9IFScRHOsuCcB-EQIwi-Nm0EkpjnAqkdNKTxE2dxOqc6jSk0EU_G4dKiPnMOdLdUhnPNgad3ILrEK8Mnh1Ffi1rN8MqwryWnK0HEuhGLKvDCgfcnGqHVjuBgzZ175siPzSVJkOTGMheIXXL_Me-lr1zZKlQwHrzFcjYmW05GvHqKXCzwVAPk_UnQD4HmxLQ55du4jm5OQKd4oFcZ4LagypGvWpsoPg2-2O8npYnOr1WMVUm0spDOjgkp7wF4lAySzwZQCHMmTJiDXPp7XzBnHP0w_UvgGS3OUgRKh7qBQdyXr_weKlWpCuCcdBwKGP8_scMxZcCwzhWmQuDtD9d4GNsuzPB4dAShfu11yHG1dbhJRZZFxE1Rpyv09xb2CquQbVTOQCmQVUv3kwZvCGENVg-2ovgdj-PmJcvaGfLJwvK69lqNiVgOlQ7bFTVqISnk13DfXOJc6efflz58MDKJ3wJrd2JLTHRCAd-zJ0r9MMsGV4EQWJxpGj_gOk0giVUscwvrwu036XjOEUoMAR3NNk1e8-h-JXcB8YgSSUa30rmKVknotBUXYmp0aYGSiit1-CL4rtBNPQF2Jdd6DcHwMSRh_FyDPL6rn2uD3wR7eLoI6760XShgG1KwrDKcPwHHEnVcCQyGYfp9j5JB1ZU9y3U7RAY-i1vTJXBuEzlOQDN3p1w2koFUIRJGYB56d5rvmf0w_EBzn3zHy-PJ-cDqnvx1uO52yUMzLN_-411LANS_VsX2kDx4VSXWl_YU7wa5pUevyCoRbgM1Ra4nby1QVRq7ptg02CalJvXJRCJNVVeRTrrj-NewiiWTEwNru2W1I&v=404&seq=1&rt=3",
+      "type": 0,
+      "url": "https://m.360buyimg.com/mobilecms/s1125x2001_jfs/t1/197807/3/10034/286614/614fdbdaE9b19c13e/55a40aacf1f28604.jpg!cr_1125x2001_0_218",
+      "jumpButton": 0,
+      "sequence": 1,
+      "miniConflict": 0,
+      "sourceValueJson": "{\"sourceid\":\"4853636870\",\"activitypoolid\":\"31427973\",\"smartinfo\":{\"smartpicinfo\":\"-100\",\"smartMarketRuleId\":\"-100\",\"smartMarketTest\":\"-100\",\"smarttype\":0},\"b_ads\":\"\",\"styleid\":\"startimg\",\"biinfo\":\"-100\",\"smartag\":\"-100\",\"smartkey\":{\"blockid\":\"home-2-2-1\",\"resourceid\":\"home-2-2\",\"controlrate\":\"-100\",\"channelid\":\"home\"},\"sourcetype\":\"E\",\"cDirectId\":\"-100\",\"adsid\":\"7c1d022d-4a76-4779-b1c4-034fcbd02b46\",\"directid\":\"-100\"}",
+      "onlineTime": "2021-09-27 00:00:00",
+      "time": 3,
+      "tag": 0,
+      "sourceValue": "_4853636870_7c1d022d-4a76-4779-b1c4-034fcbd02b46",
+      "ynSkip": 2,
+      "jump": {
+        "des": "m",
+        "params": {
+          "needLogin": 0,
+          "url": "https://prodev.m.jd.com/mall/active/2JDiBy7UAUTgWeTMynMhukn8Gete/index.html"
+        },
+        "srv": "_4853636870_7c1d022d-4a76-4779-b1c4-034fcbd02b46"
+      }
+    }],
+    [{
+      "buttonText": "点击跳转详情页面",
+      "buttonImg": "https://m.360buyimg.com/mobilecms/jfs/t1/166787/3/21941/46422/614e6b92Eed91907e/75ef405fcf534590.gif",
+      "showTimes": 2,
+      "ynRedirect": 2,
+      "groupId": 10284,
+      "referralsTime": "2021-09-28 00:00:00",
+      "videoId": "627053168",
+      "type": 3,
+      "url": "https://m.360buyimg.com/mobilecms/s1125x2001_jfs/t1/165849/10/22644/283469/61503052Ee41e56a9/282baabab6b8e5fc.jpg!cr_1125x2001_0_218",
+      "jumpButton": 0,
+      "sequence": 1,
+      "miniConflict": 0,
+      "sourceValueJson": "{\"sourceid\":\"10284\",\"activitypoolid\":\"31427973\",\"smartinfo\":{\"smartpicinfo\":\"-100\",\"smartMarketRuleId\":\"-100\",\"smartMarketTest\":\"-100\",\"smarttype\":0},\"b_ads\":\"\",\"styleid\":\"startimg\",\"biinfo\":\"-100\",\"smartag\":\"-100\",\"smartkey\":{\"blockid\":\"home-2-2-1\",\"resourceid\":\"home-2-2\",\"controlrate\":\"-100\",\"channelid\":\"home\"},\"sourcetype\":\"C\",\"cDirectId\":\"-100\",\"adsid\":\"\",\"directid\":\"-100\"}",
+      "videoUrl": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/32a9f66b494547087930687489/v.f1032.mp4",
+      "onlineTime": "2021-09-27 00:00:00",
+      "time": 4,
+      "tag": 0,
+      "sourceValue": "_10284_",
+      "ynSkip": 1,
+      "jump": {
+        "des": "m",
+        "shareInfo": {},
+        "params": {
+          "needLogin": 0,
+          "url": "https://prodev.m.jd.com/mall/active/2pLXYp2qEX3hSE2hg5rVxog3BqPy/index.html?babelChannel=ttt14"
+        },
+        "srv": "_10284_"
+      }
+    }]
+  ],
+  "firework": 0,
+  "code": "0",
+  "dynamicDisplay": 0,
+  "saoasaoSwitch": 1,
+  "countdown": 1,
+  "saoasaoLocation": 1,
+  "ynDenoise": 0,
+  "showTimesDaily": 4,
+  "saoasaoUrl": "https://m.360buyimg.com/mobilecms/jfs/t23029/35/1209471717/7394/b3589acc/5b55d999Nafcfc558.png",
+  "controlMaterials": "null"
+}

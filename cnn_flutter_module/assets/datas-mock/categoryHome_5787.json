@@ -1,0 +1,714 @@
+{
+  "floorList": [{
+    "floorId": 640,
+    "floorName": "类目楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"6229\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"391\",\"classfynum\":\"10\",\"floorIdDetail\":\"640\"}",
+    "content": [{
+      "id": 4436,
+      "materialId": "6231",
+      "name": "眼脸防护",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/128015/6/14712/30482/5f818aa3E1e2df7fb/06e0c1c9265b6eea.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 眼脸防护"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"0\",\"materialId\":\"6231\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6267",
+      "name": "标签打印耗材",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/121732/26/14861/35123/5f843f59Ece9bb775/61bc743badd73700.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 标签打印耗材"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"0\",\"materialId\":\"6267\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6277",
+      "name": "电容器",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/130103/25/12062/38637/5f857ee6E0d772392/7f282b5645001c25.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 电容器"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"0\",\"materialId\":\"6277\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6239",
+      "name": "清洁设备",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/121206/37/14564/40599/5f818f9bEe5348a7a/5ee4e3e48ee95293.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 清洁设备"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"0\",\"materialId\":\"6239\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6276",
+      "name": "互感器",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/126198/5/14716/39069/5f857ebdE7ca47961/c5fe8e69fc6db798.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 互感器"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"0\",\"materialId\":\"6276\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6243",
+      "name": "工具配件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/116006/2/19776/45738/5f819242E703d1361/d4394d3371b86693.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 工具配件"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"0\",\"materialId\":\"6243\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6274",
+      "name": "控制柜箱",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/142277/23/10709/13069/5f857e44Ea10a54d6/cd0fa3a465614879.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 控制柜箱"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"0\",\"materialId\":\"6274\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6244",
+      "name": "电动工具",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/147530/14/10454/41978/5f819292Ebc5acd0b/c745f0a2348b441e.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 电动工具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"0\",\"materialId\":\"6244\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6230",
+      "name": "手部防护",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/126277/23/14545/41681/5f818a4fEef3786d6/b9e3a60523defe45.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 手部防护"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"0\",\"materialId\":\"6230\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6250",
+      "name": "安全警示标识",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/152364/20/2046/53389/5f843501E7285b1bd/cc2a42eb61273297.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 安全警示标识"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"0\",\"materialId\":\"6250\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6245",
+      "name": "机电五金",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/142512/19/10306/50995/5f8192d4E4f149427/fcf6382b3d2ae49a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 机电五金"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"0\",\"materialId\":\"6245\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6249",
+      "name": "安全器具",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/117904/31/19880/33797/5f843411E71defa00/efac66d284d9970d.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 安全器具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"0\",\"materialId\":\"6249\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6252",
+      "name": "消防器材",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/135303/5/12047/37882/5f8435c4Efc962f1f/c579955c01822050.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 消防器材"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"0\",\"materialId\":\"6252\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 4436,
+      "materialId": "6234",
+      "name": "足部防护",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/125232/2/14510/35647/5f818bb2E149ac1a3/61c86f6b497a4da4.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "工业品 足部防护"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"0\",\"materialId\":\"6234\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "6231,6267,6277,6239,6276,6243,6274,6244,6230,6250,6245,6249,6252,6234",
+    "catePoolId": 189,
+    "cid": "6229",
+    "pcid": "5787"
+  }, {
+    "floorId": 821,
+    "floorName": "工业品banner一切二",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0911",
+    "srvJson": "{\"classfyid\":\"6229\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"391\",\"classfynum\":\"10\",\"floorIdDetail\":\"821\"}",
+    "content": [{
+      "id": 7761,
+      "materialId": "7761",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/4ZkWPytCdXP1exGeK4Ha4nppLvUG/index.html?babelChannel=ttt7"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"7761\",\"moduleid\":\"7761\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/142415/21/21820/118694/614aa8e4E184a5510/6315488b1775e564.png!q70.jpg"
+    }, {
+      "id": 7762,
+      "materialId": "7762",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2mhrBuXyLV9WsnN98LAn71Q7ozCM/index.html?babelChannel=ttt8"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"7762\",\"moduleid\":\"7762\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/94568/16/18434/135769/614aa90dE58b32c66/c160e4d17edff3b6.png!q70.jpg"
+    }]
+  }, {
+    "floorId": 806,
+    "floorName": "品牌精选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/44607/36/15369/4595/60fe82ceEfb9656b5/68356d35372c29a6.png!q70.jpg",
+    "rightText": "",
+    "style": "0903",
+    "srvJson": "{\"classfyid\":\"6229\",\"styleid\":\"0903\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"391\",\"classfynum\":\"10\",\"floorIdDetail\":\"806\"}",
+    "content": [{
+      "id": 7561,
+      "materialId": "56320",
+      "name": "星工",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/191122/10/19281/5745/611f9cd8E2d78c9d6/cf156f0e4b53d230.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "星工"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"56320\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "19968",
+      "name": "映美",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t3259/227/6433792178/6879/7cd8ee19/58a66f30N64f01caa.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "映美"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"19968\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "74752",
+      "name": "齐鲁安然",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/79390/8/16314/4326/6131b8e0E5bc881db/d5229822d0715f9e.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "齐鲁安然"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"74752\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "635402",
+      "name": "艾锐普",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/135898/35/14109/36656/5f9b6fc8E72d8fd41/65919c58c18535a5.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "艾锐普"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"635402\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "26628",
+      "name": "FlameFighter",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1843/238/940564877/26930/c7f8e89c/563c0f1dNc212a133.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "FlameFighter"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"26628\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "96263",
+      "name": "好媳妇",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/55433/5/14878/7152/5dbacb7aE1268a08d/c8f4a83b0f729757.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "好媳妇"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"96263\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "104458",
+      "name": "陆恒生物",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t769/231/624311332/41816/e842c4de/54c9decfNb1aa7e4d.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "陆恒生物"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"104458\"}"
+      }
+    }, {
+      "id": 7561,
+      "materialId": "336907",
+      "name": "者也",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/52962/5/1711/4920/5cf7372bEa7c5f32c/d14f861074a743ee.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "者也"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#87f873077b8dbdabfa69016845346e26cbc375b9-100-621309#\",\"materialId\":\"336907\"}"
+      }
+    }],
+    "showIconName": 1
+  }, {
+    "floorId": 703,
+    "floorName": "排行榜",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0910",
+    "srvJson": "{\"classfyid\":\"6229\",\"styleid\":\"0910\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"391\",\"classfynum\":\"10\",\"floorIdDetail\":\"703\"}",
+    "content": [{
+      "id": 5808,
+      "materialId": "315980",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/156603/37/16597/117959/605412aeE6dd7bcf3/18491e2929ecda1c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "315980",
+            "fromSkuId": "100019579042"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"0\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"315980\",\"sku\":\"100019579042\",\"type\":\"1\",\"categoryId\":\"14127\"}",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"315980\",\"sku\":\"100019579042\",\"type\":\"1\",\"categoryId\":\"14127\"}"
+      },
+      "jdPrice": "6.9",
+      "saleNumText": "7万人买过",
+      "rankName": "照明榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/104205/17/7224/7214/5dfadda8E46085706/6f9b521ad472476f.png!q70.jpg",
+      "bgColor": "#D5AA79,#FFFF00"
+    }, {
+      "id": 5820,
+      "materialId": "316011",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/134193/17/2563/96477/5eec4f21Ede434cf2/bd93fc003e527282.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "316011",
+            "fromSkuId": "100013902602"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"1\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"316011\",\"sku\":\"100013902602\",\"type\":\"1\",\"categoryId\":\"14114\"}",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"316011\",\"sku\":\"100013902602\",\"type\":\"1\",\"categoryId\":\"14114\"}"
+      },
+      "jdPrice": "18.2",
+      "saleNumText": "1.2万人买过",
+      "rankName": "清洁设备榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/102601/8/7391/7572/5dfaebc4E4fadd807/2b23418f5a21cfaf.png!q70.jpg",
+      "bgColor": "#B68367"
+    }, {
+      "id": 5821,
+      "materialId": "315963",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/205316/2/5794/155206/613985efEec9b3eb2/320160074ff19e53.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "315963",
+            "fromSkuId": "100013880738"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"2\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"315963\",\"sku\":\"100013880738\",\"type\":\"1\",\"categoryId\":\"14105\"}",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#79713ba985c066c30cbbe234395d5bcbd98eaeb7-100-621177#35004413\",\"materialId\":\"315963\",\"sku\":\"100013880738\",\"type\":\"1\",\"categoryId\":\"14105\"}"
+      },
+      "jdPrice": "15",
+      "saleNumText": "10.2万人买过",
+      "rankName": "身体防护榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/100030/15/7310/7214/5dfaebcaE1235b2a1/f02fb14d8c497b3d.png!q70.jpg",
+      "bgColor": "#D5AA79"
+    }],
+    "showRankType": 1
+  }, {
+    "floorId": 641,
+    "floorName": "京挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/164647/39/18817/14395/60780369E8dd6d8f3/3bb4d6aced1d0c16.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"6229\",\"styleid\":\"0906\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"391\",\"classfynum\":\"10\",\"floorIdDetail\":\"641\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "391"
+}

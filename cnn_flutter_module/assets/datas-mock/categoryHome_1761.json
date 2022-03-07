@@ -1,0 +1,810 @@
+{
+  "floorList": [{
+    "floorId": 279,
+    "floorName": "细分类目",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"279\"}",
+    "content": [{
+      "id": 2710,
+      "materialId": "",
+      "name": "京东丰收节",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/161058/12/21733/7502/615063adE890dc331/f45714d08f6c19ef.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://prodev.m.jd.com/mall/active/2rJLqmWvpZKo48rysG4M1xrupHT4/index.html?babelChannel=ttt23"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"manual\",\"materialId\":\"2710\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1403",
+      "name": "柚子",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/126402/10/9807/12221/5f3cd7a1E0d86ac80/144fb8f04646e168.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "时令 柚子"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1403\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "6200",
+      "name": "低温月饼",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/128074/9/10123/20067/5f3d0dadE2d6cf3a6/e05f35e21a44cc7d.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "低温月饼"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"6200\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1391",
+      "name": "芒果",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/85590/16/450/18754/5dad5c05E2fa31640/4dbdc0a4776d3535.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "芒果"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1391\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1319",
+      "name": "蟹类",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/128536/2/10053/36056/5f3cd641E8547d202/fa28b8b4062695a5.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "活蟹 生鲜"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1319\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1873",
+      "name": "石榴",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/111017/9/15441/14376/5f3cd781E21cd13d9/5ee3616f389aa865.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "时令 石榴"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1873\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1314",
+      "name": "猕猴桃",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/138024/15/5958/11598/5f3cd734Eda8b1478/60c422243f3a26a3.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "猕猴桃"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1314\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "581",
+      "name": "海鲜卡券",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/105396/9/9864/75756/5e132ef3E6d376065/d2079bfa273d7f9b.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "海鲜卡券"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"581\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1312",
+      "name": "苹果",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/141184/37/5832/12623/5f3cd770E48cce810/bdbce91249e1ffcd.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "时令 苹果"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1312\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1398",
+      "name": "香梨",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/96761/32/416/13734/5dad5d1eE49fbfcfe/3f389c927d6ec79f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "香梨"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1398\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1423",
+      "name": "低温奶",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/135492/9/7460/15924/5f3cd6b0Eeac0116d/4bd8c37f61373fa6.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "低温奶 生鲜"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1423\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1869",
+      "name": "榴莲",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/97454/32/9801/11066/5e132801E426820e9/337423c694153ae7.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "榴莲"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1869\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1402",
+      "name": "香蕉",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/97759/15/405/14722/5dad5d9fE76e95d76/a931f0fb791c9cd6.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "香蕉"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1402\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 506,
+      "materialId": "1399",
+      "name": "桔/橘",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/83930/38/13577/15576/5dad5d31E1556fa46/48e28e4ea057d804.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "桔/橘"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#1e4240c063bb93dd1390f1e6eba8753d61dfc03\",\"materialId\":\"1399\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "0,1403,6200,1391,1319,1873,1314,581,1312,1398,1423,1869,1402,1399",
+    "catePoolId": 84,
+    "cid": "1650",
+    "pcid": "1761"
+  }, {
+    "floorId": 739,
+    "floorName": "生鲜共建楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0914",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0914\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"739\"}",
+    "content": [{
+      "id": 6692,
+      "materialId": "6692",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/187987/3/317/52803/60880a86E7ed8b9e2/0a13c290fe45d85e.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html?babelChannel=ttt0"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"6692\"}"
+      },
+      "title": "生鲜馆",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6693,
+      "materialId": "6693",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/173348/38/6830/29174/60880ac1E4797ad1b/9792221a6ea77e15.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/Wcu2LVCFMkBP3HraRvb7pgSpt64/index.html?babelChannel=ttt10"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"6693\"}"
+      },
+      "title": "平价菜场",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6694,
+      "materialId": "6694",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/165970/32/24260/35332/60880af2E3ea67e2e/4b0118663d397dcf.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/WNG8FWLDxiSe3LqKwHxGSZa7SYC/index.html?babelChannel=ttt4"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"materialId\":\"6694\"}"
+      },
+      "title": "时令尝新",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6695,
+      "materialId": "6695",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/169912/37/20141/28672/60880b2fEf4b09d0d/a4ce6d325695582d.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2ARTbRQqjTWtRxL5Ncomcji37PsM/index.html?babelChannel=ttt8"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"materialId\":\"6695\"}"
+      },
+      "title": "小时达",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 6696,
+      "materialId": "6696",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/200816/7/3612/9231/61273376Ea7ed3c17/6efb86b486151ef1.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2nhKTbbhjhsAEc7xBdsVJ9UsNC3r/index.html?babelChannel=ttt1"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"materialId\":\"6696\"}"
+      },
+      "title": "自有品牌",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }],
+    "showSubTitle": 0
+  }, {
+    "floorId": 554,
+    "floorName": "一切二（正式版）",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0911",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0911\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"554\"}",
+    "content": [{
+      "id": 4544,
+      "materialId": "4544",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/3g79jPYeiNozNfv7y3ixVpKnLRpR/index.html?babelChannel=ttt5"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"4544\",\"moduleid\":\"4544\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/202275/2/8001/168504/614d8f53Ebea5b4eb/fb75784dd314029c.png!q70.jpg"
+    }, {
+      "id": 4545,
+      "materialId": "4545",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/3g79jPYeiNozNfv7y3ixVpKnLRpR/index.html?babelChannel=ttt11"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"4545\",\"moduleid\":\"4545\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/160803/30/25115/162701/614fcb86E3529b2c8/787d80b9714d54f5.png!q70.jpg"
+    }]
+  }, {
+    "floorId": 276,
+    "floorName": "限时抢购",
+    "showHead": 3,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/94536/37/9600/3925/5e130799E046a4983/a86c7eb397eed25c.png!q70.jpg",
+    "rightImg": "",
+    "rightText": "更多",
+    "rightJump": {
+      "des": "miaosha",
+      "params": {
+        "categorys": "12218%2C%2C",
+        "topSkus": "10026916444618,53802455695,3649634"
+      },
+      "srv": "",
+      "srvJson": "{\"materialId\":\"\"}"
+    },
+    "style": "0902",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0902\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"276\"}",
+    "content": [{
+      "id": 503,
+      "materialId": "10026916444618",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/169427/35/8141/474211/6038c149E184da14d/56c1a5f470d1651e.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10026916444618"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"10026916444618\"}"
+      },
+      "jdPrice": "208.00",
+      "sprice": "99.00",
+      "saleRatio": "18",
+      "promotionTag": "51天最低价"
+    }, {
+      "id": 503,
+      "materialId": "53802455695",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/104112/15/16807/288310/5e807e64E3d8a1087/00d3e1b69d71ab86.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "53802455695"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"53802455695\"}"
+      },
+      "jdPrice": "89.00",
+      "sprice": "84.00",
+      "saleRatio": "34",
+      "promotionTag": "22天最低价"
+    }, {
+      "id": 503,
+      "materialId": "3649634",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t3049/64/1960477836/244448/7a0abf14/57d8c77eNd12195d3.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "3649634"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"3649634\"}"
+      },
+      "jdPrice": "59.90",
+      "sprice": "58.80",
+      "saleRatio": "21",
+      "promotionTag": "16天最低价"
+    }, {
+      "id": 503,
+      "materialId": "66099650709",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/145187/15/14246/102499/5facd3dfEcec954da/b1c465beb4cf4363.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "66099650709"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"66099650709\"}"
+      },
+      "jdPrice": "46.90",
+      "sprice": "35.80",
+      "saleRatio": "16",
+      "promotionTag": "332天最低价"
+    }, {
+      "id": 503,
+      "materialId": "10021350951337",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/117776/15/11337/935753/5ef9eb8eE001e9a02/faeb0e9bf5b599c9.png!q70.jpg",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10021350951337"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"10021350951337\"}"
+      },
+      "jdPrice": "50.00",
+      "sprice": "19.90",
+      "saleRatio": "22",
+      "promotionTag": "1年最低价"
+    }, {
+      "id": 503,
+      "materialId": "100006250428",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/120184/26/9458/201653/5f33797cE5fef223e/35d4bb8edc976c8f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100006250428"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"100006250428\"}"
+      },
+      "jdPrice": "45.80",
+      "sprice": "44.70",
+      "saleRatio": "33",
+      "promotionTag": "112天最低价"
+    }, {
+      "id": 503,
+      "materialId": "10879634862",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/7895/30/12958/124220/5c3c996aE2c0c82e2/d4d7bcd91eb6e0c8.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "10879634862"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"10879634862\"}"
+      },
+      "jdPrice": "128.00",
+      "sprice": "58.80",
+      "saleRatio": "27",
+      "promotionTag": "221天最低价"
+    }, {
+      "id": 503,
+      "materialId": "100001742965",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/57232/23/1558/608717/5cf4b7e6Ea1b75dfe/71474903dfc98324.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100001742965"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"100001742965\"}"
+      },
+      "jdPrice": "22.80",
+      "sprice": "21.70",
+      "saleRatio": "28",
+      "promotionTag": "198天最低价"
+    }, {
+      "id": 503,
+      "materialId": "100003487301",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t29722/101/1549483426/348107/cfab7b3c/5ce24db5N99812bd0.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100003487301"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"100003487301\"}"
+      },
+      "jdPrice": "39.90",
+      "sprice": "35.90",
+      "saleRatio": "15",
+      "promotionTag": "168天最低价"
+    }, {
+      "id": 503,
+      "materialId": "100022008150",
+      "img": "https://m.360buyimg.com/mobilecms/s276x276_jfs/t1/144806/32/19930/643168/6151336bE6cd519bb/a201f6032cd33311.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productDetail",
+        "params": {
+          "skuId": "100022008150"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"1#2#88b737e528acd2d43687f11fc28d76d0fbab31b6-100-621213#17919326\",\"materialId\":\"100022008150\"}"
+      },
+      "jdPrice": "49.80",
+      "sprice": "34.90",
+      "saleRatio": "25"
+    }, {
+      "id": 503,
+      "name": "限时抢购",
+      "jump": {
+        "des": "miaosha",
+        "params": {
+          "categorys": "12218%2C%2C",
+          "topSkus": "10026916444618,53802455695,3649634"
+        },
+        "srv": ""
+      },
+      "type": 1
+    }]
+  }, {
+    "floorId": 277,
+    "floorName": "品牌精选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/85029/37/9856/4595/5e13082dE1606facb/7129b9d841d77eb7.png!q70.jpg",
+    "rightText": "",
+    "style": "0903",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0903\",\"floorLoc\":\"4\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"277\"}",
+    "content": [{
+      "id": 2697,
+      "materialId": "247208",
+      "name": "海文铭",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/205477/1/7865/4104/614d3856Ec6a0fb47/c8b4ff84726a6ced.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12218"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "海文铭"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"manual\",\"materialId\":\"247208\"}"
+      }
+    }, {
+      "id": 2700,
+      "materialId": "707460",
+      "name": "宿有千香霸王蟹",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/63951/32/16574/5669/6138b50eEef3174fd/893921d632d3f7bf.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12218"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "宿有千香霸王蟹"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"manual\",\"materialId\":\"707460\"}"
+      }
+    }, {
+      "id": 504,
+      "materialId": "565256",
+      "name": "Billy Bear",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/110831/23/5620/1800/5ea53567Eb8ae0d23/e1c2086ce45d90c4.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12218"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "Billy Bear"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#7ca5ed8bd84ed2f53864072d49253d7a166b70e7-100-621309#\",\"materialId\":\"565256\"}"
+      }
+    }, {
+      "id": 504,
+      "materialId": "18432",
+      "name": "晓芹",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/104230/21/10146/3178/5e16cd4cE31f0503e/3087c4353af07e39.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12218"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "晓芹"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#7ca5ed8bd84ed2f53864072d49253d7a166b70e7-100-621309#\",\"materialId\":\"18432\"}"
+      }
+    }],
+    "showIconName": 1
+  }, {
+    "floorId": 254,
+    "floorName": "京挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/107192/10/3536/14395/5e130702E775c65a1/9fd98f620a9a4b25.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"1650\",\"styleid\":\"0906\",\"floorLoc\":\"5\",\"poolid\":\"41\",\"pid\":\"97\",\"classfynum\":\"4\",\"floorIdDetail\":\"254\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "97"
+}

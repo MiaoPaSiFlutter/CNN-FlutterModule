@@ -1,0 +1,705 @@
+{
+  "floorList": [{
+    "floorId": 357,
+    "floorName": "细分类目楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"3085\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"163\",\"classfynum\":\"5\",\"floorIdDetail\":\"357\"}",
+    "content": [{
+      "id": 903,
+      "materialId": "3065",
+      "name": "伴手礼",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/86229/36/13245/29838/5e54c931Ea4898294/dac8c2dcc03c92b7.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "伴手礼"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3065\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2901",
+      "name": "绿植盆栽",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/108422/40/5916/17271/5e43d411Ed497653c/34fdc3207f0e8f2b.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "绿植"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2901\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2843",
+      "name": "鲜花",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/90950/8/12035/20156/5e43bc40Eef3585aa/0f037da8fde039a0.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "鲜花"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2843\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2900",
+      "name": "花卉",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/94965/11/12310/17178/5e43d238Ec635b9a8/2964c071f654e892.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "花卉"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2900\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3032",
+      "name": "戒烟贴",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/110099/8/6486/45254/5e4cbdb5E9fb0dd41/22462f16c8902ec9.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "戒烟贴"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3032\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3064",
+      "name": "求婚必备",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/108135/3/6890/19503/5e54c943E2b1a8622/80067f2228a76a30.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "求婚"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3064\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3070",
+      "name": "铜器摆件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/102508/21/13216/15113/5e54bb81Ef25dc5b0/cb6076f8218cf9b8.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "铜器+摆件"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3070\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3033",
+      "name": "烟灰缸",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/105307/34/12664/10294/5e4cbde4Ed34e5ace/49d40ea7d5cd9520.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "烟灰缸"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3033\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3025",
+      "name": "创意玩具",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/88338/2/13201/30365/5e54be70E430ef403/c9981b36922ab54a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "玩具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3025\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2904",
+      "name": "多肉植物",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89620/9/12326/18735/5e44a23bE2e5b51d9/2dc3f2279bab641f.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "多肉"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2904\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3063",
+      "name": "结婚用品",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89892/28/13134/42541/5e54c91cEd157e124/d987404165f7fa44.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "婚庆用品+红包+气球"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3063\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2844",
+      "name": "永生花",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/91441/4/12018/12959/5e43bd7eE81079ac0/e8e092d4b3e19c66.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "永生花"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2844\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "3034",
+      "name": "烟具配件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/92591/39/12834/32899/5e4cbe24E738fb193/da60f5ee8c892e04.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "烟具配件+烟盒+烟斗+烟嘴"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"3034\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 903,
+      "materialId": "2853",
+      "name": "每周一花",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/100430/5/12070/11043/5e43bf16E6f430d4c/cae78ce556a995c7.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "每周一花"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#17c4003608a097554666abc09c2797418726f6e2\",\"materialId\":\"2853\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "3065,2901,2843,2900,3032,3064,3070,3033,3025,2904,3063,2844,3034,2853",
+    "catePoolId": 118,
+    "cid": "3085",
+    "pcid": "3426"
+  }, {
+    "floorId": 358,
+    "floorName": "品牌精选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/109017/30/6903/4595/5e547777E56f89ae1/f73025a97b24b35f.png!q70.jpg",
+    "rightText": "",
+    "style": "0903",
+    "srvJson": "{\"classfyid\":\"3085\",\"styleid\":\"0903\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"163\",\"classfynum\":\"5\",\"floorIdDetail\":\"358\"}",
+    "content": [{
+      "id": 904,
+      "materialId": "713736",
+      "name": "千优美",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/194437/18/15168/10596/6100c9dbEb3d4d580/e490238d75267754.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "千优美"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"713736\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "4",
+      "name": "777",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1897/352/1004985325/4647/7dccb12e/563c0ca2Nd9337f8d.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "777"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"4\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "464399",
+      "name": "致荟树",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/51733/19/2529/46725/5d05fc5dE8360b2e1/d1f5fae4adac0864.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "致荟树"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"464399\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "228362",
+      "name": "紫韵梳香",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t4111/308/530730525/24991/b8b62e0b/585250b6N0e5ac752.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "紫韵梳香"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"228362\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "558594",
+      "name": "史丹利",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/93309/10/18145/2992/5e93fe98E20d089ec/a384f5c474d40844.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "史丹利"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"558594\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "393740",
+      "name": "3CE",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t27229/76/1016199936/13829/b4eedd45/5bbef500N47448716.png!q70.jpg",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "3CE"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"393740\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "145423",
+      "name": "XO",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1735/147/983460209/22682/fc37bb9d/55dd34f4N33bc73b9.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "XO"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"145423\"}"
+      }
+    }, {
+      "id": 904,
+      "materialId": "417801",
+      "name": "凯姿",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/22496/5/4066/142815/5c2db838E1fd67361/e64bfc21a3be6f45.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "2"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "categorySet",
+            "value": "12473,14226,14227,2599,12059"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "凯姿"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"1#7bd52576aabbc3af9646041887040f87af591af0-100-621309#\",\"materialId\":\"417801\"}"
+      }
+    }],
+    "showIconName": 1
+  }, {
+    "floorId": 803,
+    "floorName": "鲜花共建楼层",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0914",
+    "srvJson": "{\"classfyid\":\"3085\",\"styleid\":\"0914\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"163\",\"classfynum\":\"5\",\"floorIdDetail\":\"803\"}",
+    "content": [{
+      "id": 7519,
+      "materialId": "7519",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/182083/37/15378/51109/60f922a6E126e3d1c/f0f5da64f5f7fd1d.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/CYivQ3Q2U5zCcgqGDXeGzzWn5XF/index.html?babelChannel=ttt5"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"7519\"}"
+      },
+      "title": "园艺生活",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 7520,
+      "materialId": "7520",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/192441/26/14293/56290/60f922f3E241b5f72/74e9ff99e024ba26.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2WnmYtUqx9epLh6mrCmn7bv5XoP3/index.html?babelChannel=ttt1"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"7520\"}"
+      },
+      "title": "鲜花19.9",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 7521,
+      "materialId": "7521",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/189484/30/14344/59660/60f923ffEab48c9a8/c7eded0fbdf9cd8e.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2Btn2WPzU2g8FkXinHJ6adSbg89t/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"materialId\":\"7521\"}"
+      },
+      "title": "珍品严选",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 7522,
+      "materialId": "7522",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/186980/28/14406/52109/60f923deEfa08244e/7fc18b35350ef54f.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/2FFswmGs1ega2VS2v7kLeW4D9gWg/index.html"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"materialId\":\"7522\"}"
+      },
+      "title": "生日礼物",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }, {
+      "id": 7523,
+      "materialId": "7523",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/175785/9/20690/39895/60f9242dEac1666c4/427fd9569143af1b.png!q70.jpg",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/3ooyNMXFgxn1Fw3mPHqLzZTwpNDW/index.html?babelChannel=ttt12"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"materialId\":\"7523\"}"
+      },
+      "title": "小屋改造",
+      "subTitle": "",
+      "titleColor": "",
+      "subTitleColor": "",
+      "benefitGif": ""
+    }],
+    "showSubTitle": 0
+  }, {
+    "floorId": 361,
+    "floorName": "精挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/93596/6/12685/14395/5e4fad19E8b6a25a8/c75d4c7b6b9d32e0.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"3085\",\"styleid\":\"0906\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"163\",\"classfynum\":\"5\",\"floorIdDetail\":\"361\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "163"
+}

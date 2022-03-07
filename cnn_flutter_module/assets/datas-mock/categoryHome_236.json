@@ -1,0 +1,512 @@
+{
+  "floorList": [{
+    "floorId": 34,
+    "floorName": "家居厨房",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0901",
+    "srvJson": "{\"classfyid\":\"380\",\"styleid\":\"0901\",\"floorLoc\":\"0\",\"poolid\":\"41\",\"pid\":\"313\",\"classfynum\":\"6\",\"floorIdDetail\":\"34\"}",
+    "content": [{
+      "id": 43,
+      "materialId": "2485",
+      "name": "地垫",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/84959/32/11031/36350/5e27f738E28346f91/6b8afae7bed766b1.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "地垫"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"2485\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "711",
+      "name": "地毯",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/88841/34/11106/29463/5e27e812E0b8346af/384e031761802426.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "地毯"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"711\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "1076",
+      "name": "锅具套装",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/104548/35/10932/18022/5e27b8cfE2f19d013/f288320d976e856a.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "锅具套装"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"0\",\"materialId\":\"1076\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "932",
+      "name": "厨房配件",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/66663/5/13344/31141/5da86da6Ec2e81ef7/707ea6d0ff5eb186.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "家居厨具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"3\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"932\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "703",
+      "name": "保温杯",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/98441/39/11017/8479/5e27b9e8E42c117b7/1fd69ec6ca5319df.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "保温杯"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"4\",\"biinfo\":\"0\",\"materialId\":\"703\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "693",
+      "name": "调料器皿",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/108640/12/4861/22499/5e27bfa2Eaa155684/3303ea58cbc45e2c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "调料器皿"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"5\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"693\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "696",
+      "name": "DIY小工具",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/90237/5/11047/16982/5e27c06bE56ceb359/e89060e2e7133815.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "厨房DIY/小工具"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"6\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"696\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "1086",
+      "name": "烘焙/烧烤",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/94642/33/11156/14974/5e27bf76E6a8430c3/79e9cc39f4078d43.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "烘焙/烧烤"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"7\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"1086\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "1060",
+      "name": "节庆饰品",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/102361/17/11130/41635/5e27e615E2d138014/5ba7f562364a2018.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "节庆饰品"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"8\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"1060\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "698",
+      "name": "储物器皿",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/89530/27/11114/18233/5e27c0aaE57074003/4461dfb81292fb3c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "厨房储物器皿"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"9\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"698\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "717",
+      "name": "浴室用品",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/104599/25/11026/20559/5e27b82eEa163f1aa/22be6b6037a764c4.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "浴室用品"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"10\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"717\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "1083",
+      "name": "运动水壶",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/102624/7/11038/12445/5e27be95E77db7f91/2a4ebe8f0714ffef.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "运动水壶"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"11\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"1083\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "2473",
+      "name": "被子/被芯",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/90021/20/11058/13270/5e27e2cfEff1daa7d/0ee6b9379ef21607.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "被子/被芯"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"12\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"2473\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 43,
+      "materialId": "702",
+      "name": "玻璃杯",
+      "img": "https://m.360buyimg.com/mobilecms/s180x180_jfs/t1/103687/21/11001/12108/5e27ba5cE08093e78/acbd63c3cb05c77c.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "productList",
+        "params": {
+          "from": "search",
+          "clearBodyMaps": [{
+            "key": "searchSource",
+            "value": "3"
+          }, {
+            "key": "homeRequireAd",
+            "value": "1"
+          }, {
+            "key": "stock",
+            "value": "1"
+          }],
+          "keyWord": "玻璃杯"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"13\",\"biinfo\":\"diviner#621328#100#b69d49e79a4dfa78915ede93d7ac260602790c12\",\"materialId\":\"702\",\"sku\":\"\",\"status\":0}"
+      },
+      "iconType": 0
+    }, {
+      "id": 0,
+      "name": "更多分类",
+      "img": "https://m.360buyimg.com/mobilecms/jfs/t1/69671/10/12704/2880/5da1a548E0d3bea6c/a43cb049cd5740f5.png!q70.jpg",
+      "jump": {
+        "srvJson": "{\"loc\":\"14\",\"biinfo\":\"0\",\"materialId\":\"0\"}"
+      },
+      "iconType": 1
+    }],
+    "filteredCateIds": "1076,703,2485,711,932,693,696,1086,1060,698,717,1083,2473,702",
+    "catePoolId": 49,
+    "cid": "380",
+    "pcid": "236"
+  }, {
+    "floorId": 390,
+    "floorName": "一切二通栏",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0911",
+    "srvJson": "{\"classfyid\":\"380\",\"styleid\":\"0911\",\"floorLoc\":\"1\",\"poolid\":\"41\",\"pid\":\"313\",\"classfynum\":\"6\",\"floorIdDetail\":\"390\"}",
+    "content": [{
+      "id": 7356,
+      "materialId": "7356",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://pro.m.jd.com/mall/active/y3eFD5keCQVm27a1YUFYfGSLvSP/index.html?babelChannel=ttt5"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"0\",\"materialId\":\"7356\",\"moduleid\":\"7356\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/s510x330_jfs/t1/206869/34/2031/43560/614d70acEf0c05157/34b7e119020c53d6.jpg!q70.jpg.dpg.webp"
+    }, {
+      "id": 7357,
+      "materialId": "7357",
+      "jump": {
+        "des": "m",
+        "params": {
+          "url": "https://prodev.m.jd.com/mall/active/3Md9o1bSrqy1qTLZGVnsEVk7mqJn/index.html?babelChannel=ttt8"
+        },
+        "srv": "",
+        "srvJson": "{\"loc\":\"1\",\"materialId\":\"7357\",\"moduleid\":\"7357\",\"sku\":\"\"}"
+      },
+      "materialType": "1",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/199965/40/7080/121680/61370cd0E184e1224/8ae8899c1c3065dc.gif"
+    }]
+  }, {
+    "floorId": 844,
+    "floorName": "聚合榜单",
+    "showHead": 0,
+    "rightText": "",
+    "style": "0910",
+    "srvJson": "{\"classfyid\":\"380\",\"styleid\":\"0910\",\"floorLoc\":\"2\",\"poolid\":\"41\",\"pid\":\"313\",\"classfynum\":\"6\",\"floorIdDetail\":\"844\"}",
+    "content": [{
+      "id": 7912,
+      "materialId": "8657",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/205376/17/1783/118755/611c5b10Ec9e8a4fa/8f7cff1ec0c25771.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "8657",
+            "fromSkuId": "56480560334"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"0\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"8657\",\"sku\":\"56480560334\",\"type\":\"1\",\"categoryId\":\"11978\"}",
+        "srvJson": "{\"loc\":\"0\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"8657\",\"sku\":\"56480560334\",\"type\":\"1\",\"categoryId\":\"11978\"}"
+      },
+      "jdPrice": "69",
+      "saleNumText": "33.8万人买过",
+      "rankName": "面条压面机",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/104205/17/7224/7214/5dfadda8E46085706/6f9b521ad472476f.png!q70.jpg",
+      "bgColor": "#D5AA79,#FFFF00"
+    }, {
+      "id": 7913,
+      "materialId": "27792",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/116004/17/17383/69535/5f55a954Efe37dd24/7ce0064000cd75ed.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "27792",
+            "fromSkuId": "10021330210557"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"1\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"27792\",\"sku\":\"10021330210557\",\"type\":\"1\",\"categoryId\":\"1657\"}",
+        "srvJson": "{\"loc\":\"1\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"27792\",\"sku\":\"10021330210557\",\"type\":\"1\",\"categoryId\":\"1657\"}"
+      },
+      "jdPrice": "189",
+      "saleNumText": "90.7万人买过",
+      "rankName": "浴盆榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/102601/8/7391/7572/5dfaebc4E4fadd807/2b23418f5a21cfaf.png!q70.jpg",
+      "bgColor": "#B68367"
+    }, {
+      "id": 7914,
+      "materialId": "9078",
+      "name": "热卖榜",
+      "img": "https://m.360buyimg.com/mobilecms/s267x267_jfs/t1/177333/21/11074/274189/60d45332E8e44457a/68abdefc344de9bb.jpg!q70.jpg.dpg.webp",
+      "jump": {
+        "des": "jdreactcommon",
+        "params": {
+          "ishidden": true,
+          "transparentenable": true,
+          "appname": "JDReactRankingList",
+          "param": {
+            "detailPageType": "5",
+            "rankType": "10",
+            "contentId": "9078",
+            "fromSkuId": "1602377"
+          },
+          "fromName": "",
+          "modulename": "JDReactRankingList"
+        },
+        "srv": "{\"loc\":\"2\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"9078\",\"sku\":\"1602377\",\"type\":\"1\",\"categoryId\":\"15282\"}",
+        "srvJson": "{\"loc\":\"2\",\"biinfo\":\"1#c9fd081836f0fd82612a3b5ffde6321ba7dd7d75-100-621177#36122125\",\"materialId\":\"9078\",\"sku\":\"1602377\",\"type\":\"1\",\"categoryId\":\"15282\"}"
+      },
+      "jdPrice": "19.6",
+      "saleNumText": "196.4万人买过",
+      "rankName": "地垫榜",
+      "bgImg": "https://m.360buyimg.com/mobilecms/jfs/t1/100030/15/7310/7214/5dfaebcaE1235b2a1/f02fb14d8c497b3d.png!q70.jpg",
+      "bgColor": "#D5AA79"
+    }],
+    "showRankType": 1
+  }, {
+    "floorId": 35,
+    "floorName": "京挑惠选",
+    "showHead": 2,
+    "headImg": "https://m.360buyimg.com/mobilecms/jfs/t1/77705/6/13259/14395/5da886ddE59ad4791/a59defb9e6d3feca.png!q70.jpg",
+    "rightText": "",
+    "style": "0906",
+    "srvJson": "{\"classfyid\":\"380\",\"styleid\":\"0906\",\"floorLoc\":\"3\",\"poolid\":\"41\",\"pid\":\"313\",\"classfynum\":\"6\",\"floorIdDetail\":\"35\"}",
+    "content": []
+  }],
+  "code": "0",
+  "background": {},
+  "pid": "313"
+}
